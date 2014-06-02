@@ -5,8 +5,8 @@ date: 2014-05-21 21:42
 comments: true
 categories: thread android looper handler 
 ---
-How to check a certain thread is the main thread or not in Android? You may say it could be determined by checking the name of the thread. Yes, It may resolve the problem. However I think it's not reliable.   
-This is the most reliable way to check a thread is the main thread or not.
+How to check a certain thread is the main one or not in Android? You may say it could be determined by checking the name. Yes, It may resolve the problem. However I think it's not reliable.   
+This is the most reliable workaround. 
 ```java
 public static boolean isInMainThread() {
 	    return Looper.myLooper() == Looper.getMainLooper();
@@ -24,7 +24,7 @@ private boolean isInMainThread() {
 	return myLooper == mainLooper;
 }
 ```	
-And Now we run this test case. And of course we assume that the following code is running in the main thread.
+Now we run this test case. Of course we assume that the following code is running in the main thread.
 ```java
 Log.i(LOGTAG, "testInMainThread inMainThread=" + isInMainThread());
 ```
@@ -74,7 +74,7 @@ I/TestInMainThread(32028): isInMainThread myLooper=Looper{40d72c58};mainLooper=L
 I/TestInMainThread(32028): testInNonMainLooperThread isMainThread=false
 ```
 But why? And what 's inside?
-Let's see the code what's is inside in Looper.class.
+Let's see the code what's is inside the  Looper.class.
 ```java
     // sThreadLocal.get() will return null unless you've called prepare().
     static final ThreadLocal<Looper> sThreadLocal = new ThreadLocal<Looper>();
