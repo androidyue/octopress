@@ -6,6 +6,7 @@ comments: true
 categories: android webview HTTP header Referer
 ---
 As we know, Webview will add the referer into the reqeust if we click a hyperlink to navigate to another one. But if we want to add a referer when a hard loading starts, What can we do to make it?  
+<!-- more -->
 Since Froyo(API Level 8), the webview starts providing an interface for us to send extra HTTP headers when loading a URL.
 >public void loadUrl (String url, Map<String, String> additionalHttpHeaders)  
 Added in API level 8  

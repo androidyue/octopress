@@ -6,6 +6,7 @@ comments: true
 categories: 
 ---
 Although Eclipse does provide a lot of facilities for Finding content is Workspace files, it maybe less efficient for find something such as a certain package or class usage. Actually we could do it more efficient and geeky.  
+<!-- more -->
 Now we use the classic Unix command **grep**. 
 ```bash
 #Grammar

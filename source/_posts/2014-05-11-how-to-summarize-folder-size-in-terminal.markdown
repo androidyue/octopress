@@ -5,7 +5,8 @@ date: 2014-05-11 11:49
 comments: true
 categories: 
 ---
-In this post, we will use the **du** command. This command does estimate file space usage; and It will summarize disk usage of each FILE, recursively for directories.
+In this post, we will use the **du** command. This command does estimate file space usage; and It will summarize disk usage of each FILE, recursively for directories.  
+<!-- more -->
 The description on the arguments we will use.
 >-h, --human-readable
 print sizes in human readable format (e.g., 1K 234M 2G)

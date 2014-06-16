@@ -6,6 +6,7 @@ comments: true
 categories: Media MediaScanner Android
 ---
 A few days ago,I have wrote down this post [http://androidyue.github.io/blog/2014/01/19/scan-media-files-in-android/](http://androidyue.github.io/blog/2014/01/19/scan-media-files-in-android/). Now I will paste my code snippet.
+<!--more-->
 ###MediaUtils.java
 ```java
 package com.mx.browser.utils;

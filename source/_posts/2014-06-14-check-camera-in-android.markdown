@@ -6,7 +6,7 @@ comments: true
 categories: Android Camera 摄像头 后置摄像头  
 ---
 通常我们进行摄像头操作，如扫描二维码需要判断是否有后置摄像头(Rear camera)，比如Nexus 7 一代就没有后置摄像头，这样在尝试使用的时候，我们需要进行判断进行一些提示或者处理。
-
+<!-- more -->
 以下代码为一系列的方法，用来判断是否有前置摄像头（Front Camera），后置摄像头。
 
 ```java

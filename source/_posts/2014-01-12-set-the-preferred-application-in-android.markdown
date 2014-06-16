@@ -7,6 +7,7 @@ categories: Android PreferredApplication intent
 ---
 A great application should provide a function to let users set it as the preferred or default application. In this post, I will make a description on PreferredApplication  
 Before an application is about to be set as default, it has two possibilities. One is that there is already a default application and the other is no default application. 
+<!--more-->
 ###Detect the Default Application Exists or Not
 This is really important. It determines what we should do next.
 ```java

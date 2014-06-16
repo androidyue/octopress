@@ -15,7 +15,7 @@ else
     echo "Not Exists"
 fi
 ```
-
+<!--more-->
 ###Check Empty String
 ```bash
 if [[ -z "$emptyString"  ]]

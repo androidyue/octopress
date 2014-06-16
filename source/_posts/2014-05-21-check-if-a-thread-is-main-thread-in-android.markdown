@@ -6,6 +6,7 @@ comments: true
 categories: thread android looper handler 
 ---
 How to check a certain thread is the main one or not in Android? You may say it could be determined by checking the name. Yes, It may resolve the problem. However I think it's not reliable.   
+<!-- more -->
 This is the most reliable workaround. 
 ```java
 public static boolean isInMainThread() {

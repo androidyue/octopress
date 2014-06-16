@@ -6,6 +6,7 @@ comments: true
 categories: linux openvpn auth
 ---
 I am facing this problem which leaves the error message 
+<!-- more -->
 ```java
 'Auth' password cannot be read from a file  
 ```

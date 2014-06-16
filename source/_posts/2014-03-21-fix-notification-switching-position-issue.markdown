@@ -6,6 +6,7 @@ comments: true
 categories: Android Notification 
 ---
 I once faced with a problem. I wrote a piece of code related with notifcation. Everything goes fine except one little issue. I found the ongoing notification switching order. My notification blinked each second.  After Googling I found the reason and resolved the problem.  
+<!-- more -->
 In my code I wrote like this
 ```java
     notification.when = System.currentTimeMillis();

@@ -6,6 +6,7 @@ comments: true
 categories: Android MediaScanner MediaScannerReceiver MediaScannerService android.intent.action.MEDIA_SCANNER_SCAN_FILE MediaProvider MediaScannerConnection scanFile 
 ---
 I once tried to use MediaScanner to resolve problems; however it turned out to be a failure. Now I make it.This post is to write down why I failed and how I work it out now. I think it could be deeper that other posts. 
+<!--more-->
 ##Android Media Scanning Mechanism
 Android provides a great application for developers to add created media files to add them into the library. The application is called MediaProvider. Now let's have a glance of MediaProvider.   
 The receiver part of its  manifest

@@ -7,6 +7,7 @@ categories: Android Package Stop 3.1 LaunchControl receiver GooglePlay
 ---
 ##First Bite
 Since Android 3.1, Android has introduced a LaunchControl mechanism. It's call Stopped State. 
+<!--more-->
 Here is what Google describes 
 ####What is Stopped State
 
