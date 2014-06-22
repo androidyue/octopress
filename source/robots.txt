@@ -4,4 +4,3 @@ layout: nil
 User-agent: *
 Disallow: /404.html
 
-Sitemap: {{ site.url }}/sitemap.xml 
