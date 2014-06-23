@@ -6,6 +6,11 @@
   <meta charset="utf-8">
   <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
   <meta name="author" content="{{ site.author }}">
+  {% capture description %}{% if page.description %}{{ page.description  }}{% elsif site.description %}{{ site.description  }}{% else %}{{ content | raw_content  }}{% endif %}{% endcapture %}
+  <meta name="description" content="{{ description | strip_html | condense_spaces | truncate:150  }}" />
+
+  {% capture keywords %}{% if page.keywords %}{{ page.keywords  }}{% elsif site.keywords %}{{ site.keywords  }}{% endif %}{% endcapture %}
+  <meta name="keywords" content="{{ keywords | strip_html | condense_spaces  }}" />
   <meta name="ujianVerification" content="13e7551f5af04296bb891d33b010bf6b" />
   {% capture description %}{% if page.description %}{{ page.description }}{% else %}{{ content | raw_content }}{% endif %}{% endcapture %}
   <meta name="description" content="{{ description | strip_html | condense_spaces | truncate:150 }}">
