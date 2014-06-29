@@ -19,6 +19,12 @@ else
     echo "Not Running"
 fi
 ```
+##举例使用
+比如我们启动了一个这样的进程`python -m SimpleHTTPServer 8000`,我们想检测这个进程是否存在，可以这样。
+```bash
+17:38:07-androidyue~/osc_git/shell_works (master)$ ./checkRunningProcess.sh 'SimpleHTTPServer'
+Running
+```
 ##些许说明
   * 该脚本会自动去除**包含目标信息的grep进程**。以及**当前这个正在执行的脚本**。
   * 使用保存文件后，确保具有可执行属性。
