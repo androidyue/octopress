@@ -12,6 +12,7 @@ A filter file for Gmail to auto-delete spams.
 I have received so many emails. However many of them are spam emails. That's really annoying. But I decided to create a filter when I receive a spam one. Now I will share this file. I will keep the file updated in the future.
 
 ##Versions
+  * 2014-06-29 Updated. http://droidyuecontent.qiniudn.com/mailFilters_2014_06_29.xml
   * 2014-6-19 Updated. http://droidyue.qiniudn.com/mailFilters_2014_6_19.xml
 
 > Written with [StackEdit](https://stackedit.io/).
