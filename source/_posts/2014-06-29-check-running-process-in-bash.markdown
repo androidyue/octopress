@@ -1,0 +1,27 @@
+---
+layout: post
+title: "在bash中检测进程是否正在运行"
+date: 2014-06-29 17:03
+comments: true
+categories: Bash Shell
+keywords: process, running process, ps, grep，进程，执行的进程
+---
+
+这里简单介绍一个自己写的检测某个进程是否存在的bash小脚本。直接上代码。
+<!--more-->
+```bash
+#!/bin/bash
+ps_out=`ps -ef | grep $1 | grep -v 'grep' | grep -v $0`
+result=$(echo $ps_out | grep "$1")
+if [[ "$result" != "" ]];then
+    echo "Running"
+else
+    echo "Not Running"
+fi
+```
+##些许说明
+  * 该脚本会自动去除**包含目标信息的grep进程**。以及**当前这个正在执行的脚本**。
+  * 使用保存文件后，确保具有可执行属性。
+
+##Read More
+  * http://stackoverflow.com/questions/2903354/bash-script-to-check-running-process/24140715#24140715
