@@ -112,7 +112,6 @@ task :new_post, :title do |t, args|
     post.puts "comments: true"
     post.puts "categories: "
     post.puts "keywords: "
-    post.puts "description: "
     post.puts "---"
   end
 end
