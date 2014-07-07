@@ -247,6 +247,8 @@ public class MainActivity extends Activity {
 </LinearLayout>
 
 ```
+##Demo下载
+  * http://pan.baidu.com/s/1eQvL0MA
 ##延伸阅读
   * http://android-developers.blogspot.hk/2013/03/native-rtl-support-in-android-42.html
   * RTL语言:http://en.wikipedia.org/wiki/Right-to-left
