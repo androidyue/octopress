@@ -3,7 +3,7 @@ layout: post
 title: "Android支持RTL(从右向左)语言"
 date: 2014-07-07 13:28
 comments: true
-categories: 
+categories: Android 
 ---
 
 ##RTL语言
