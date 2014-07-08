@@ -8,7 +8,7 @@ categories: Android
 
 ##RTL语言
   * RTL语言即Right-to-left(从右向左)的语言.其书写习惯为从右向左,朝左继续.
-  * 这里的RTL严格意义上指的是Right-to-left,top-to-bottom 从右向左,从上到下. 而汉语,日语以及朝鲜语中存在Top-to-bottom, left-to-right.从上到下,从右向左的情况. 但是这些语言大多数使用从左向右的情况.
+  * 这里的RTL严格意义上指的是Right-to-left,top-to-bottom 从右向左,从上到下. 而汉语,日语以及朝鲜语中存在Top-to-bottom, right-to-left从上到下,从右向左的情况. 但是这些语言大多数使用从左向右的情况.
   * 常见的RTL语言有阿拉伯语,希伯来语等.
   * LTR语言和RTL语言刚好相反,即我们常见的Left-to-right,Top-to-bottom,从左向右,从上到下,朝右继续.这种语言很常见, 代表语言为英语等.
   * 双向文本( Bi-Directional Text),即RTL文本和LTR文本混合的情况.比较复杂.
