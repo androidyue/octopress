@@ -12,7 +12,7 @@ categories: 个人
   * 重读Thinking In Java English Edition
   * 整理出一套（Java）编程规范。
   * 写几个小程序
-  * 使用Ruby或Pthon完成一个gitlab的hook handling application
+  * 使用Ruby或Python完成一个gitlab的hook handling application
 
 ###网站
   * 争取九月份的PageRank更新为0，十二月份的更新能更新为1
