@@ -147,3 +147,8 @@ keywords: 日语，N4考试，N4，日本语，日语 考试
   * それで
   * それが
   参考文章:http://yakyuboy.pixnet.net/blog/post/6588690-%E3%81%9D%E3%82%8C%E3%81%AB%E3%80%81%E3%81%9D%E3%81%97%E3%81%A6%E3%80%81%E3%81%9D%E3%82%8C%E3%81%8B%E3%82%89%E3%80%81%E3%81%9D%E3%82%8C%E3%81%A7
+
+##推荐
+  * <a href="http://www.amazon.cn/gp/product/B008AGPWKO/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B008AGPWKO&linkCode=as2&tag=droidyue-23">新日本语能力测试50天逐级突破N5、N4、N3:阅读天天做</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B008AGPWKO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  * <a href="http://www.amazon.cn/gp/product/B0036CWCEG/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B0036CWCEG&linkCode=as2&tag=droidyue-23">新日本语能力考试N4语法解说篇</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B0036CWCEG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+

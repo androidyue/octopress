@@ -249,6 +249,12 @@ public class MainActivity extends Activity {
 ```
 ##Demo下载
   * http://pan.baidu.com/s/1eQvL0MA
+
 ##延伸阅读
   * http://android-developers.blogspot.hk/2013/03/native-rtl-support-in-android-42.html
-  * RTL语言:http://en.wikipedia.org/wiki/Right-to-left
+  * RTL语言:http://en.wikipedia.org/wiki/Right-to-left 
+
+##推荐
+  * <a href="http://www.amazon.cn/gp/product/B00FQEDTA8/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00FQEDTA8&linkCode=as2&tag=droidyue-23">精彩绝伦的Android UI设计:响应式用户界面与设计模式</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B00FQEDTA8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  * <a href="http://www.amazon.cn/gp/product/B00B1OC4AI/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00B1OC4AI&linkCode=as2&tag=droidyue-23">深入剖析Android系统</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B00B1OC4AI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+

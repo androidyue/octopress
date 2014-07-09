@@ -26,4 +26,7 @@ keywords: gitlab,github,gitlab notification,gitlab comments,gitlab commit commen
 {%img http://droidyueimg.qiniudn.com/set_notify_level_group.png %}
 
 ##延伸链接
-  * https://about.gitlab.com/
+  * https://about.gitlab.com/ 
+
+##推荐
+  * <a href="http://www.amazon.cn/gp/product/B00DSZVXH8/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00DSZVXH8&linkCode=as2&tag=droidyue-23">Git版本控制</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B00DSZVXH8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />

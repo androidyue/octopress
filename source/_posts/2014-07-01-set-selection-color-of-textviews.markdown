@@ -42,3 +42,8 @@ Color of the text selection highlight.
         />
 </LinearLayout>
 ```
+
+###推荐
+  * <a href="http://www.amazon.cn/gp/product/B00ELMXLOK/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00ELMXLOK&linkCode=as2&tag=droidyue-23">更优秀的APP:31个APP用户界面设计经典案例</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B00ELMXLOK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  * <a href="http://www.amazon.cn/gp/product/B007B78JUS/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B007B78JUS&linkCode=as2&tag=droidyue-23">Android创意实例详解</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B007B78JUS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+

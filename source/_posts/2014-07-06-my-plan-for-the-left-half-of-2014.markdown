@@ -31,3 +31,8 @@ categories: 个人
 ###其他
   * 英语恢复到高中水平
   * 多和小伙伴们出去玩耍
+
+###推荐
+  * <a href="http://www.amazon.cn/gp/product/B00FXONTU6/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00FXONTU6&linkCode=as2&tag=droidyue-23">从你的全世界路过:让所有人心动的故事</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B00FXONTU6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  * <a href="http://www.amazon.cn/gp/product/B0052CDWJC/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B0052CDWJC&linkCode=as2&tag=droidyue-23">人生不设限</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B0052CDWJC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+

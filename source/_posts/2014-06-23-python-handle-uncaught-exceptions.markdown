@@ -38,5 +38,7 @@ if __name__ == "__main__":
 ###参考文章
 http://stackoverflow.com/questions/6234405/logging-uncaught-exceptions-in-python/16993115#16993115
 
+###Recommends
+  * <a href="http://www.amazon.cn/gp/product/B00EEDI2X6/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00EEDI2X6&linkCode=as2&tag=droidyue-23">像计算机科学家一样思考Python</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B00EEDI2X6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  * <a href="http://www.amazon.cn/gp/product/B00KYFJTP8/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00KYFJTP8&linkCode=as2&tag=droidyue-23">编写高质量代码:改善Python程序的91个建议</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B00KYFJTP8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-> Written with [StackEdit](https://stackedit.io/).

@@ -44,4 +44,8 @@ categories: 日语
 ##其他
  * 参加7月份考试，注意不要中暑
  * 发了试卷，监考老师会提示不要打开试卷，希望同学们还是要遵守。
- 
+
+##推荐
+  * <a href="http://www.amazon.cn/gp/product/B00B3PZ8Z8/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00B3PZ8Z8&linkCode=as2&tag=droidyue-23">新日本语能力考试N1-N5文法详解</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B00B3PZ8Z8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  * <a href="http://www.amazon.cn/gp/product/B0076TP7HE/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B0076TP7HE&linkCode=as2&tag=droidyue-23">新日本语能力考试N5、N4文字词汇(详解+练习)</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B0076TP7HE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+

@@ -109,7 +109,9 @@ categories: octopress 慢 谷歌 Google godaddy dnspod github 安全宝 Disqus T
 导致网站慢的原因其实是加载Google的资源，当然我们不能怨Google.经过测试，使用数字公司的解决方法之后，国内国外访问速度都是可以的。这里还是推荐以下数字公司的这个解决方案http://libs.useso.com/  
 
 
+##推荐
+  * <a href="http://www.amazon.cn/gp/product/B0083S7TDW/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B0083S7TDW&linkCode=as2&tag=droidyue-23">60天网站流量提高20倍</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B0083S7TDW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  * <a href="http://www.amazon.cn/gp/product/B003OA3VXG/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B003OA3VXG&linkCode=as2&tag=droidyue-23">我是怎样通过网络挣到100万的</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B003OA3VXG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 
 
-> Written with [StackEdit](https://stackedit.io/).
