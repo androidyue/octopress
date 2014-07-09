@@ -27,4 +27,9 @@ public void testLoadURLWithHTTPHeaders() {
 ```
 For more details about HTTP Headers, please visit [List_of_HTTP_header_fields](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields)
 More details about Webview, please visit [http://developer.android.com/reference/android/webkit/WebView.html](http://developer.android.com/reference/android/webkit/WebView.html) 
-> Written with [StackEdit](https://stackedit.io/).
+
+###推荐
+  * <a href="http://www.amazon.cn/gp/product/B008B4DY78/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B008B4DY78&linkCode=as2&tag=droidyue-23">深入Android应用开发:核心技术解析与最佳实践</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B008B4DY78" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  * <a href="http://www.amazon.cn/gp/product/B00931Y3PK/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00931Y3PK&linkCode=as2&tag=droidyue-23">Android从入门到精通</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B00931Y3PK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  * <a href="http://www.amazon.cn/gp/product/B008Z1IFGC/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B008Z1IFGC&linkCode=as2&tag=droidyue-23">Android移动开发技术丛书:Android网络开发技术实战详解</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B008Z1IFGC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
