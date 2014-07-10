@@ -27,3 +27,8 @@ categories: 手扶梯 左行右立
 ####总结
 *  就按我输了作为结果吧，哈哈。
 *  靠左靠右并无硬性规定，社会活动中多礼让，不妨碍他人
+
+###Others
+  * <a href="http://www.amazon.cn/gp/product/B0055MB2KK/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B0055MB2KK&linkCode=as2&tag=droidyue-23">冷门知识大全集</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B0055MB2KK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  * <a href="http://www.amazon.cn/gp/product/B003XT66TO/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B003XT66TO&linkCode=as2&tag=droidyue-23">一定要知道的2008个生活常识</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B003XT66TO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
