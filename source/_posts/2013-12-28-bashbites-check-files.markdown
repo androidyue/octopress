@@ -48,3 +48,7 @@ Here is a reference material from Stackoverflow[http://stackoverflow.com/questio
     the length of STRING is zero
 ```
 For more detailed information, please visit [http://linux.about.com/library/cmd/blcmdl1_test.htm](http://linux.about.com/library/cmd/blcmdl1_test.htm)
+
+##Others
+  * <a href="http://www.amazon.cn/gp/product/1430219971/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=1430219971&linkCode=as2&tag=droidyue-23">Pro Bash Programming: Scripting the Linux Shell</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=1430219971" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
