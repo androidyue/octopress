@@ -13,3 +13,7 @@ It's just because I just only install the JRE(Java Runtime Environment) and do n
 ```bash
 sudo yum install java-devel
 ```
+
+##Others
+  * <a href="http://www.amazon.cn/gp/product/B00E0D2OX4/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00E0D2OX4&linkCode=as2&tag=droidyue-23">图灵经典:Java程序员修炼之道</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B00E0D2OX4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+

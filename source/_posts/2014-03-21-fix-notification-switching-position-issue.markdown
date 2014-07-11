@@ -25,4 +25,7 @@ Now This is what Google says
 >  *  Notification of an ongoing stopwatch (increasing timer) should be stamped with the watch's start time.
 >  *  Notification of an ongoing countdown timer should be stamped with the timer's end time.
 >  Reference from [http://developer.android.com/reference/android/app/Notification.html#when](http://developer.android.com/reference/android/app/Notification.html#when)
-> Written with [StackEdit](https://stackedit.io/).
+
+##Others
+  * <a href="http://www.amazon.cn/gp/product/B00HUA52T2/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00HUA52T2&linkCode=as2&tag=droidyue-23">设计之下:搜狐新闻客户端的用户体验设计</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B00HUA52T2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
