@@ -31,3 +31,7 @@ A glance at how InstalledAppDetails get packageName
         }
     }
 ```
+
+###Others
+  * <a href="http://www.amazon.cn/gp/product/B00BSXRLR8/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00BSXRLR8&linkCode=as2&tag=droidyue-23">疯狂Android讲义</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B00BSXRLR8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+

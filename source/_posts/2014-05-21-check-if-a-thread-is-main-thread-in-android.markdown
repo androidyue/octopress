@@ -134,4 +134,6 @@ References:
    * http://grepcode.com/file/repository.grepcode.com/java/ext/com.google.android/android/4.4.2_r1/android/os/Looper.java/
 
 
-> Written with [StackEdit](https://stackedit.io/).
+###Others
+  * <a href="http://www.amazon.cn/gp/product/B009VV6EG8/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B009VV6EG8&linkCode=as2&tag=droidyue-23">Android应用性能优化</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B009VV6EG8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+

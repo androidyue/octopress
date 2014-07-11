@@ -42,4 +42,6 @@ More detailed information
 Description:List  information about the FILEs (the current directory by default)
 > xargs - build and execute command lines from standard input
 
-> Written with [StackEdit](https://stackedit.io/).
+###Others
+  * <a href="http://www.amazon.cn/gp/product/B00HALIMXY/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00HALIMXY&linkCode=as2&tag=droidyue-23">Linux运维之道</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B00HALIMXY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+

@@ -11,4 +11,8 @@ I have got many crash report data about using NinePath Drwable. I put a .9.png f
 [http://developer.android.com/guide/topics/graphics/2d-graphics.html#nine-patch](http://developer.android.com/guide/topics/graphics/2d-graphics.html#nine-patch)
 
 
-The .9.png files must be saved into the res/drawable directory. Why? I guess the legacy Resouce Loading System implemententation may result in this issue. So at least put one .9.png file into the drawable folder.
+The .9.png files must be saved into the res/drawable directory. Why? I guess the legacy Resouce Loading System implemententation may result in this issue. So at least put one .9.png file into the drawable folder. 
+
+###Others
+  * <a href="http://www.amazon.cn/gp/product/B00ASIN7G8/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00ASIN7G8&linkCode=as2&tag=droidyue-23">精通Android</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B00ASIN7G8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+

@@ -94,3 +94,7 @@ the following settings is some content of /data/system/packages.xml
 *  When the system popup the choosing dialog?
 *  After some tests I guess the system will make  a list of  interested activities instantly. And then use the previous list to compare with the list stored in /data/system/packages.xml. If they are not the same, the choose dialog should be poped up.
 
+
+###Others
+  * <a href="http://www.amazon.cn/gp/product/B00AE3ZE3Q/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00AE3ZE3Q&linkCode=as2&tag=droidyue-23">Android开发精要</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B00AE3ZE3Q" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+

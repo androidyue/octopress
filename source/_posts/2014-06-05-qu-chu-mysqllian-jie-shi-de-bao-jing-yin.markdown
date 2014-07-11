@@ -10,3 +10,7 @@ categories: mysql
 mysql -h localhost -u root -b -p
 ```
 起作用的就是-p。
+
+###Others
+  * <a href="http://www.amazon.cn/gp/product/B004J33P3I/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B004J33P3I&linkCode=as2&tag=droidyue-23">MySQL入门很简单</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B004J33P3I" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+

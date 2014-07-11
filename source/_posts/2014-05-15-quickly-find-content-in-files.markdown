@@ -39,4 +39,7 @@ Then let it executable and just run it.
 chmod a+x quickfind.sh
 quickfind.sh "android.os.Looper"
 ```
-> Written with [StackEdit](https://stackedit.io/).
+
+###Others
+  * <a href="http://www.amazon.cn/gp/product/B002A2LQR2/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B002A2LQR2&linkCode=as2&tag=droidyue-23">Shell脚本学习指南</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B002A2LQR2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+

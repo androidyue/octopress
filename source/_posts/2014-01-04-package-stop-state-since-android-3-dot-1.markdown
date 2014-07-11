@@ -60,3 +60,6 @@ When neither or both of these flags is defined in an intent, the default behavio
 ##Referrences Links
 *  [http://developer.android.com/about/versions/android-3.1.html](http://developer.android.com/about/versions/android-3.1.html)
 
+###Others
+  * <a href="http://www.amazon.cn/gp/product/B0053WMHF6/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B0053WMHF6&linkCode=as2&tag=droidyue-23">Android技术内幕:系统卷</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B0053WMHF6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+

@@ -44,4 +44,6 @@ public static int getSdkVersion() {
 延伸阅读：http://developer.android.com/reference/android/hardware/Camera.html
 http://developer.android.com/reference/android/hardware/Camera.CameraInfo.html
 
-> Written with [StackEdit](https://stackedit.io/).
+###Others
+  * <a href="http://www.amazon.cn/gp/product/B00HYTROX6/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00HYTROX6&linkCode=as2&tag=droidyue-23">Android开发高手进阶（中国程序员）</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B00HYTROX6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+

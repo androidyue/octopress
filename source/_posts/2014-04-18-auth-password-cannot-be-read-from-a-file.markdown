@@ -21,3 +21,7 @@ Now Go into the openvpn folder. and follow the below.
 make
 sudo make install
 ```
+
+###Others
+  * <a href="http://www.amazon.cn/gp/product/B0027VSA7U/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B0027VSA7U&linkCode=as2&tag=droidyue-23">程序员的自我修养:链接、装载与库</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B0027VSA7U" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
