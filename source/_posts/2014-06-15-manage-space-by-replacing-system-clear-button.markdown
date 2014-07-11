@@ -64,5 +64,8 @@ protected void onCreate(Bundle savedInstanceState) {
 ```
 demo程序下载：http://pan.baidu.com/s/1ntJnttZ
 
-延伸阅读：http://developer.android.com/guide/topics/manifest/application-element.html#space
-> Written with [StackEdit](https://stackedit.io/).
+延伸阅读：http://developer.android.com/guide/topics/manifest/application-element.html#space 
+
+##Others
+  * <a href="http://www.amazon.cn/gp/product/B00J4DXWDG/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00J4DXWDG&linkCode=as2&tag=droidyue-23">Android编程权威指南</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B00J4DXWDG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
