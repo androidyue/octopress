@@ -41,5 +41,5 @@ quickfind.sh "android.os.Looper"
 ```
 
 ###Others
-  * <a href="http://www.amazon.cn/gp/product/B002A2LQR2/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B002A2LQR2&linkCode=as2&tag=droidyue-23">Shell脚本学习指南</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B002A2LQR2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  * <a href="http://www.amazon.com/gp/product/0596153600/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0596153600&linkCode=as2&tag=droidyueblog-20&linkId=ZW3LVBF54N4JET3T">grep Pocket Reference (Pocket Reference (O'Reilly))</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=droidyueblog-20&l=as2&o=1&a=0596153600" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 

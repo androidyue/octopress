@@ -15,3 +15,7 @@ My solution:
 But my question remains; why it asks me for fix the dependencies to use the same lib jar file?  
 I guess android will keep only one file for all the references so this will ask developers to make all the same lib all the same.
 Sorry for the codeless post.
+
+###Others
+  * <a href="http://www.amazon.com/gp/product/B00LPFYSC0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LPFYSC0&linkCode=as2&tag=droidyueblog-20&linkId=MJP6M2P4HTA5FSWF">Social: 50 Ways to Improve Your Professional Life</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=droidyueblog-20&l=as2&o=1&a=B00LPFYSC0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
