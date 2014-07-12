@@ -96,5 +96,5 @@ the following settings is some content of /data/system/packages.xml
 
 
 ###Others
-  * <a href="http://www.amazon.cn/gp/product/B00AE3ZE3Q/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00AE3ZE3Q&linkCode=as2&tag=droidyue-23">Android开发精要</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B00AE3ZE3Q" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  * <a href="http://www.amazon.com/gp/product/B00K5B5Q80/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00K5B5Q80&linkCode=as2&tag=droidyueblog-20&linkId=LEBXDOQDCPOPP5AJ">Android Hacker's Handbook</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=droidyueblog-20&l=as2&o=1&a=B00K5B5Q80" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 

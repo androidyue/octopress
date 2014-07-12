@@ -23,5 +23,5 @@ sudo make install
 ```
 
 ###Others
-  * <a href="http://www.amazon.cn/gp/product/B0027VSA7U/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B0027VSA7U&linkCode=as2&tag=droidyue-23">程序员的自我修养:链接、装载与库</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B0027VSA7U" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  * <a href="http://www.amazon.com/gp/product/B00B7LQ6VS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00B7LQ6VS&linkCode=as2&tag=droidyueblog-20&linkId=EIYGW33EVEKIWZOC">Guide to Firewalls and VPNs</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=droidyueblog-20&l=as2&o=1&a=B00B7LQ6VS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 

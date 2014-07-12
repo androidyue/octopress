@@ -14,5 +14,5 @@ sudo kextload /System/Library/Extensions/AppleHDA.kext
 Put the code into a shell script and run the script whenever the issue occurs.
 
 ###Others
-  * <a href="http://www.amazon.cn/gp/product/B00CBBKBAA/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00CBBKBAA&linkCode=as2&tag=droidyue-23">I'm a Mac:雄狮训练手册</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B00CBBKBAA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  * <a href="http://www.amazon.com/gp/product/143023668X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=143023668X&linkCode=as2&tag=droidyueblog-20&linkId=UFUUGTHMMNFDY7EG">Taking Your OS X Lion to the Max (Technology in Action)</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=droidyueblog-20&l=as2&o=1&a=143023668X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 

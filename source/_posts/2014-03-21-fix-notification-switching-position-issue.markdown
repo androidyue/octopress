@@ -27,5 +27,5 @@ Now This is what Google says
 >  Reference from [http://developer.android.com/reference/android/app/Notification.html#when](http://developer.android.com/reference/android/app/Notification.html#when)
 
 ##Others
-  * <a href="http://www.amazon.cn/gp/product/B00HUA52T2/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00HUA52T2&linkCode=as2&tag=droidyue-23">设计之下:搜狐新闻客户端的用户体验设计</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B00HUA52T2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  * <a href="http://www.amazon.com/gp/product/1430249862/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1430249862&linkCode=as2&tag=droidyueblog-20&linkId=SA6OP7HQUFINEY44">Pro Android UI</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=droidyueblog-20&l=as2&o=1&a=1430249862" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 

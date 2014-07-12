@@ -33,5 +33,5 @@ A glance at how InstalledAppDetails get packageName
 ```
 
 ###Others
-  * <a href="http://www.amazon.cn/gp/product/B00BSXRLR8/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00BSXRLR8&linkCode=as2&tag=droidyue-23">疯狂Android讲义</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B00BSXRLR8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  * <a href="http://www.amazon.com/gp/product/0321940261/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321940261&linkCode=as2&tag=droidyueblog-20&linkId=3ZEMMWVYXCXFJFTN">Introduction to Android Application Development: Android Essentials (4th Edition) (Developer's Library)</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=droidyueblog-20&l=as2&o=1&a=0321940261" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 

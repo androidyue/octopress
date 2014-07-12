@@ -25,3 +25,7 @@ public void testUseAndroidString() {
     
 }
 ```
+
+###Others
+  * <a href="http://www.amazon.com/gp/product/B00KV4VU40/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00KV4VU40&linkCode=as2&tag=droidyueblog-20&linkId=URSU4PBXOJMQRSIN">Passive Income with Android</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=droidyueblog-20&l=as2&o=1&a=B00KV4VU40" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+

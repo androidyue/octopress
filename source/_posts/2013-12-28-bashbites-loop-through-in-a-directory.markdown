@@ -15,5 +15,5 @@ do
 done
 ```
 ##Others
-  * <a href="http://www.amazon.cn/gp/product/B009O49G7Q/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B009O49G7Q&linkCode=as2&tag=droidyue-23">Shell脚本编程诀窍:适用于Linux、Bash等</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B009O49G7Q" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  * <a href="http://www.amazon.com/gp/product/0596009658/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0596009658&linkCode=as2&tag=droidyueblog-20&linkId=GR5OEAAOPTK3FZJL">Learning the bash Shell: Unix Shell Programming (In a Nutshell (O'Reilly))</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=droidyueblog-20&l=as2&o=1&a=0596009658" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 

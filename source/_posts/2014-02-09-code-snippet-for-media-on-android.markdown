@@ -167,5 +167,5 @@ public class MediaUtils {
 ```
 
 ###Others
-  * <a href="http://www.amazon.cn/gp/product/B007H4NZEK/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B007H4NZEK&linkCode=as2&tag=droidyue-23">Android多媒体开发高级编程:为智能手机和平板电脑开发图形、音乐、视频和富媒体应用</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B007H4NZEK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  * <a href="http://www.amazon.com/gp/product/1430232676/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1430232676&linkCode=as2&tag=droidyueblog-20&linkId=BBJAIT2UYNYWRDHN">Pro Android Media: Developing Graphics, Music, Video, and Rich Media Apps for Smartphones and Tablets</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=droidyueblog-20&l=as2&o=1&a=1430232676" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 

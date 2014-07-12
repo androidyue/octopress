@@ -21,3 +21,8 @@ print readFromCommand('ls')
 #0001-Replace-app_name-into-Browser.patch
 ```
 A detailed description about subprocess has been written down here. http://docs.python.org/2/library/subprocess.html
+
+
+###Others
+  * <a href="http://www.amazon.com/gp/product/1449319793/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449319793&linkCode=as2&tag=droidyueblog-20&linkId=7L2XQ6AYY5SBBJ5W">Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=droidyueblog-20&l=as2&o=1&a=1449319793" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+

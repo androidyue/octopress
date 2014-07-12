@@ -97,3 +97,7 @@ zipalign -f -v 4 /home/androidyue/Desktop/output/max1111111.apk /home/androidyue
   *  The <alignment> is an integer that defines the byte-alignment boundaries. This must always be 4 (which provides 32-bit alignment) or else it effectively does nothing.
   *  For more details, please visit http://developer.android.com/tools/help/zipalign.html
 
+
+###Others
+  * <a href="http://www.amazon.com/gp/product/1250032156/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1250032156&linkCode=as2&tag=droidyueblog-20&linkId=US32QO6KTI7UYC7U">How to Build an Android: The True Story of Philip K. Dick's Robotic Resurrection</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=droidyueblog-20&l=as2&o=1&a=1250032156" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+

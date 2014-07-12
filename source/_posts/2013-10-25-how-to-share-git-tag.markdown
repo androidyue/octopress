@@ -21,3 +21,7 @@ git push  origin v2850
 ```bash
 git push  origin --tags
 ```
+
+###Others
+  * <a href="http://www.amazon.com/gp/product/1449325866/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449325866&linkCode=as2&tag=droidyueblog-20&linkId=4VH4KYJK2JZU7ZKB">Git Pocket Guide</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=droidyueblog-20&l=as2&o=1&a=1449325866" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+

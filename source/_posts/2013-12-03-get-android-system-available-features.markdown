@@ -40,3 +40,7 @@ I/MainActivity(13514): dumpSystemFeatures fFeatureInfo{40d75998 android.software
 ......
 ```
 For a detailed understanding of use-filter,please read this post [http://developer.android.com/guide/topics/manifest/uses-feature-element.html](http://developer.android.com/guide/topics/manifest/uses-feature-element.html)
+
+###Others
+  * <a href="http://www.amazon.com/gp/product/1118183487/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1118183487&linkCode=as2&tag=droidyueblog-20&linkId=K5JVVV33JQSV3IMA">Professional Android Sensor Programming</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=droidyueblog-20&l=as2&o=1&a=1118183487" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+

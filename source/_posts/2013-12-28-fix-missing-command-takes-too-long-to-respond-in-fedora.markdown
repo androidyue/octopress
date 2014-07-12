@@ -13,5 +13,5 @@ unset command_not_found_handle
 Ok.Add the above code to .bashrc And it works.
 
 ##Others
-  * <a href="http://www.amazon.cn/gp/product/B003TJNO98/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B003TJNO98&linkCode=as2&tag=droidyue-23">鸟哥的Linux私房菜:基础学习篇</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B003TJNO98" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  * <a href="http://www.amazon.com/gp/product/0133477436/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0133477436&linkCode=as2&tag=droidyueblog-20&linkId=5GLJHW56AE72I7WS">A Practical Guide to Fedora and Red Hat Enterprise Linux (7th Edition)</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=droidyueblog-20&l=as2&o=1&a=0133477436" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 

@@ -16,3 +16,7 @@ For a better understanding,please
 man netstat
 ```
 or navigate to http://linux.about.com/od/commands/l/blcmdl8_netstat.htm
+
+###Others
+  * <a href="http://www.amazon.com/gp/product/0131480057/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0131480057&linkCode=as2&tag=droidyueblog-20&linkId=MSOTURV537Y3UKBC">UNIX and Linux System Administration Handbook</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=droidyueblog-20&l=as2&o=1&a=0131480057" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+

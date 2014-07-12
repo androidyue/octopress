@@ -28,3 +28,10 @@ Another answer may also work
 sqlite> .schema password
 CREATE TABLE password (_id INTEGER PRIMARY KEY, host TEXT, username TEXT, password TEXT, UNIQUE (host, username) ON CONFLICT REPLACE);
 ```
+
+
+
+
+###Others
+  * <a href="http://www.amazon.com/gp/product/1783282959/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1783282959&linkCode=as2&tag=droidyueblog-20&linkId=TPOZ7GFB2PYVAKUQ">Android SQLite Essentials</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=droidyueblog-20&l=as2&o=1&a=1783282959" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
