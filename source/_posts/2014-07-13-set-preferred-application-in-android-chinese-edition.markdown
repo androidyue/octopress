@@ -3,7 +3,7 @@ layout: post
 title: "解密:Android设置默认程序"
 date: 2014-07-13 12:09
 comments: true
-categories: 
+categories: Android
 ---
 
 Android作为一个伟大的系统,自然提供了设置默认打开程序的实现.在这篇文章中,我会介绍如何在Android系统中设置默认的程序. 在设置默认程序之前,无非有两种情况,一种是已经有默认的程序,另一种则是没有任何默认程序.
