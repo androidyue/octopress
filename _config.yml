@@ -7,7 +7,7 @@ title: 技术小黑屋
 subtitle: Better Than Before
 author: androidyue 
 simple_search: http://google.com/search
-description: "个人技术博客，Java，Python,Android, Hack github Google,Linux,Mac等技术以及日语交流个人记录"
+description: "个人技术博客，Java，Python,Android, Hack,Google,Linux,Mac等技术以及日语交流个人记录"
 keywords: "Java,Python,Android,Hack,Github,Google,Linux,Mac,日语,日剧,日本,随想,点滴生活"
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
@@ -51,7 +51,7 @@ titlecase: true       # Converts page and post titles to titlecase
 
 # list each of the sidebar modules you want to include, in the order you want them to appear.
 # To add custom asides, create files in /source/_includes/custom/asides/ and add them to the list like 'custom/asides/custom_aside_name.html'
-default_asides: [asides/stackoverflow_flair.html, asides/recent_posts.html, custom/asides/likeme.html, custom/asides/blogroll.html, custom/asides/paypal.html]
+default_asides: [asides/stackoverflow_flair.html, asides/recent_posts.html, custom/asides/likeme.html, custom/asides/blogroll.html, custom/asides/paypal.html, custom/asides/ad_display.html]
 
 # Each layout uses the default asides, but they can have their own asides instead. Simply uncomment the lines below
 # and add an array with the asides you want to use.
