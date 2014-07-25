@@ -53,7 +53,7 @@ public void testStartAppDetails() {
 }
 ```
 当跳转到已安装的应用详情页之后,你应该提示用处点击Clear Default 按钮.
-{% img /images/post_images/installed_app_details_clear_default.png %}
+{% img http://droidyueimg.qiniudn.com/choose_default_activity_dialog.png installed app details clear default%}
 
 如果用户从安装详情页回到你的程序,你需要检测是不是用户清理了默认的程序设置,判断依据还是是否有默认的程序设置,如果还有默认的,继续提示需要手动清理其他已设置的程序,直到用户彻底清理完成之后,然后按照下面的没有默认设置程序的情况处理. 
 
