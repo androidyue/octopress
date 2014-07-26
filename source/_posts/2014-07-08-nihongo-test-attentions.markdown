@@ -3,7 +3,7 @@ layout: post
 title: "实践整理：日语考试注意"
 date: 2014-07-08 21:21
 comments: true
-categories: 日语
+categories: 日本语
 ---
 
 上周日刚刚参加了N4考试，之前一直对日语考试有很多疑惑，终于亲自参加了，种种问题明白了，这里整理一下，备解他人之惑。
