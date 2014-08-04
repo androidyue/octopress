@@ -3,7 +3,7 @@ layout: post
 title: "Octopress 下 rake 失败问题解决"
 date: 2014-07-24 19:11
 comments: true
-categories: 其他
+categories: 其他 Octopress
 ---
 
 在 Mac 机器上，使用 octopress 总是问题重重，今天遇到了这样的问题，解决了，记录一下。
