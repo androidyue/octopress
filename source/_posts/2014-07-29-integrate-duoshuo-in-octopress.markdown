@@ -74,6 +74,25 @@ Octopress默认自带了DISQUS，但是对于国内不是很好用。于是一�
 </aside>
 {% raw %}{% endunless %}{% endraw %}
 ```
+
+同样，将文件嵌入到**source/_layouts/page.html**里面
+```html source/_layouts/page.html lineos:false
+{% raw %}{% if  page.comments == true %}{% endraw %}
+<section>
+ {% raw %}{% include post/duoshuo.html %}{% endraw %}
+  </section>
+{% raw %}{% endif %}{% endraw %}
+</div>
+{% raw %}{% unless page.sidebar == false %}{% endraw %}
+<aside class="sidebar">
+  {% raw %}{% if site.page_asides.size %}{% endraw %}
+    {% raw %}{% include_array page_asides %}{% endraw %}
+  {% raw %}{% else %}{% endraw %}
+    {% raw %}{% include_array default_asides %}{% endraw %}
+  {% raw %}{% endif %}{% endraw %}
+</aside>
+{% raw %}{% endunless %}{% endraw %}
+```
 到这里，基本可以跑成功了。
 
 ##问题解决
