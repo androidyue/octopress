@@ -55,3 +55,8 @@ Utils::StringUtils.test()
 test method myfile=/home/androidyue/rubydir/test/utils.rb;load from test.rb
 ```
 
+###其他
+  * <a href="http://www.amazon.cn/gp/product/B0073APSCK/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B0073APSCK&linkCode=as2&tag=droidyue-23">Ruby元编程</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B0073APSCK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  * <a href="http://www.amazon.cn/gp/product/B00D1HUYVE/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00D1HUYVE&linkCode=as2&tag=droidyue-23">代码的未来</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B00D1HUYVE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  * <a href="http://www.amazon.cn/gp/product/B005KGBTQ8/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B005KGBTQ8&linkCode=as2&tag=droidyue-23">大神松本行弘的程序世界</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B005KGBTQ8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
