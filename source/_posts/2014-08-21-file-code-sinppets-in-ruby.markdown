@@ -35,6 +35,16 @@ File.basename('/tmp/adb.log', '.*')   #=> "adb"
 Dir['/tmp/*'].each{|child|puts child}
 ```
 
+###获得父目录
+```ruby
+#特定目录的父路径
+File.expand_path("..",specific_path)
+#当前目录的父路径
+File.expand_path("..",Dir.pwd)
+#或者
+File.expand_path("..")
+```
+
 ###其他
   * <a href="http://www.amazon.cn/gp/product/B0061XKRXA/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B0061XKRXA&linkCode=as2&tag=droidyue-23">代码大全</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B0061XKRXA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   * <a href="http://www.amazon.cn/gp/product/B005KGBTQ8/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B005KGBTQ8&linkCode=as2&tag=droidyue-23">松本行弘的程序世界</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B005KGBTQ8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
