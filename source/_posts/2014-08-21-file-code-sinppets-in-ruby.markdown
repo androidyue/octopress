@@ -8,6 +8,11 @@ categories: Ruby
 
 初学Ruby，很多需要学习，现在开始尝试使用Ruby来写一个脚本，其中用到了很多文件相关的操作，这里阶段地整理一些。便于后续的再次查找。
 <!--more-->
+###文件或目录是否存在
+```ruby
+File.exist?('file_path')
+```
+
 ###是否为文件
 ```ruby
 File.file?("file_path")
