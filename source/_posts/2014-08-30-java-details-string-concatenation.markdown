@@ -90,7 +90,7 @@ public class Concatenation {
 }
 ```
 其中，ldc，astore等为java字节码的指令，类似汇编指令。后面的注释使用了Java相关的内容进行了说明。
-我们可以看到上面有很多StringBuilder,但是我们在Java代码里并没有显示地调用，这就是Java编译器做的优化，当Java编译器遇到字符串拼接的时候，会创建一个StringBuilder对象，后面的拼接，实际上是调用StringBuffer对象的append方法。这样就不会有我们上面担心的问题了。
+我们可以看到上面有很多StringBuilder,但是我们在Java代码里并没有显示地调用，这就是Java编译器做的优化，当Java编译器遇到字符串拼接的时候，会创建一个StringBuilder对象，后面的拼接，实际上是调用StringBuilder对象的append方法。这样就不会有我们上面担心的问题了。
 
 ###仅靠编译器优化？
 既然编译器帮我们做了优化，是不是仅仅依靠编译器的优化就够了呢，当然不是。   
@@ -136,7 +136,7 @@ public void implicitUseStringBuilder(java.lang.String[]);
 ```
 其中` 8: if_icmpge     38` 和`35: goto          5`构成了一个循环。` 8: if_icmpge     38`的意思是如果JVM操作数栈的整数对比大于等于（i < values.length的相反结果）成立，则跳到第38行（System.out）。`35: goto          5`则表示直接跳到第5行。
 
-但是这里面有一个很重要的就是StringBuilder对象创建发生在循环之间，也就是意味着有多少次循环会创建多少个StringBuffer对象，这样明显不好。赤裸裸地低水平代码啊。
+但是这里面有一个很重要的就是StringBuilder对象创建发生在循环之间，也就是意味着有多少次循环会创建多少个StringBuilder对象，这样明显不好。赤裸裸地低水平代码啊。
 
 稍微优化一下，瞬间提升逼格。
 ```java fileos:false
@@ -171,9 +171,9 @@ public void explicitUseStringBuider(java.lang.String[]);
       27: goto          10
       30: return      
 ```
-从上面可以看出，` 13: if_icmpge     30`和` 27: goto          10`构成了一个loop循环，而`0: new           #5`位于循环之外，所以不会多次创建StringBuffer.
+从上面可以看出，` 13: if_icmpge     30`和` 27: goto          10`构成了一个loop循环，而`0: new           #5`位于循环之外，所以不会多次创建StringBuilder.
 
-总的来说，我们在循环体中需要尽量避免隐式或者显式创建StringBuffer. 所以哪些了解代码如何编译，内部如何执行的人，写的代码档次都比较高。
+总的来说，我们在循环体中需要尽量避免隐式或者显式创建StringBuilder. 所以哪些了解代码如何编译，内部如何执行的人，写的代码档次都比较高。
 
 
 以上文章，如有错误，请批评指正 。
