@@ -173,7 +173,7 @@ public void explicitUseStringBuider(java.lang.String[]);
 ```
 从上面可以看出，` 13: if_icmpge     30`和` 27: goto          10`构成了一个loop循环，而`0: new           #5`位于循环之外，所以不会多次创建StringBuilder.
 
-总的来说，我们在循环体中需要尽量避免隐式或者显式创建StringBuilder. 所以哪些了解代码如何编译，内部如何执行的人，写的代码档次都比较高。
+总的来说，我们在循环体中需要尽量避免隐式或者显式创建StringBuilder. 所以那些了解代码如何编译，内部如何执行的人，写的代码档次都比较高。
 
 
 以上文章，如有错误，请批评指正 。
