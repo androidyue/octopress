@@ -15,7 +15,6 @@ I have received so many emails. However many of them are spam emails. That's rea
   * 2014-08-12 Updated. http://droidyuecontent.qiniudn.com/mailFilters_2014_08_20.xml
   * 2014-07-21 Updated. http://droidyuecontent.qiniudn.com/mailFilters_0721.xml
   * 2014-06-29 Updated. http://droidyuecontent.qiniudn.com/mailFilters_2014_06_29.xml
-  * 2014-6-19 Updated. http://droidyue.qiniudn.com/mailFilters_2014_6_19.xml
 
 ###其他
   * <a href="http://www.amazon.cn/gp/product/B004O9F71K/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B004O9F71K&linkCode=as2&tag=droidyue-23">番茄工作法图解:简单易行的时间管理方法</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B004O9F71K" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
