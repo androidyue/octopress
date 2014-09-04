@@ -3,7 +3,7 @@ layout: post
 title: "持续整理:git分支操作"
 date: 2014-07-21 19:07
 comments: true
-categories: Android
+categories: Git
 ---
 
 这篇文章主要的目的是记录一下git中关于分支相关的操作记录. 本文会持续更新,所有的操作都经过本人实践,可以正常运行,并且可以解决问题.
