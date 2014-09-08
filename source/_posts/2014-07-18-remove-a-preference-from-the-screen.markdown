@@ -3,7 +3,7 @@ layout: post
 title: "你真的懂么:Android中删除Preference"
 date: 2014-07-18 20:50
 comments: true
-categories: Android
+categories: Android UI
 ---
 
 Android的设置界面实现比较简单,有时甚至只需要使用一个简单的xml文件即可.声明简单,但是如何从PreferenceScreen或者PreferenceCategory中删除一个Preference会简单么.为什么有些人写的就无法删除成功呢?本文将从Android源码实现来分析一下.

@@ -3,7 +3,7 @@ layout: post
 title: "自定义控件进阶:declare-styleable重用attr"
 date: 2014-07-16 19:37
 comments: true
-categories: Android
+categories: Android UI
 ---
 
 最近接触了Android自定义控件,涉及到自定义xml中得属性(attribute),其实也很简单,但是写着写着,发现代码不完美了,就是在attrs.xml这个文件中,发现属性冗余,于是就想有没有类似属性继承或者include之类的方法.本文将就declare-stylable中属性重用记录一下.

@@ -3,7 +3,7 @@ layout: post
 title: "超简单实现Google+列表特效"
 date: 2014-07-26 10:32
 comments: true
-categories: Android
+categories: Android UI
 ---
 相信用过Google+的人都感到其应用的特效相当棒，本文将以超简单的形式来实现类似Google+列表的特效。仅仅写几行代码就可以实现奥。
 

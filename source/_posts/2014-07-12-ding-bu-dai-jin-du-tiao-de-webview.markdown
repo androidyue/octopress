@@ -3,7 +3,7 @@ layout: post
 title: "顶部带进度条的Webview"
 date: 2014-07-12 21:34
 comments: true
-categories: Android
+categories: Android UI
 ---
  
 写这篇文章,做份备忘,简单滴展示一个带进度条的Webview示例,进度条位于Webview上面.

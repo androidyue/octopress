@@ -3,7 +3,7 @@ layout: post
 title: "自定义支持读取XML属性的View"
 date: 2014-08-05 19:12
 comments: true
-categories: Android
+categories: Android UI XML
 ---
 在Android中，添加一个View很简单，简单的你可以简简单单地使用xml和一部分简单的java代码就可以搞定。
 比如这样

@@ -3,7 +3,7 @@ layout: post
 title: "Android中自定义Checkbox"
 date: 2014-07-27 14:06
 comments: true
-categories: Android
+categories: Android UI
 ---
 在Android中，Checkbox是一个很重要的UI组件，而且在Android中，它展现的形式越来越好看，这就说明有些系统，比如4.0以下，checkbox还是比较不好看，或者跟软件的风格不协调，就需要我们自定义这个组件。
 

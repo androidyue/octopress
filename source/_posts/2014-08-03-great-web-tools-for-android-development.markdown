@@ -3,7 +3,7 @@ layout: post
 title: "快速提高Android开发效率的Web工具"
 date: 2014-08-03 14:34
 comments: true
-categories: Android
+categories: Android 效率
 ---
 在Google的广大支持下，便捷开发Android程序的Native工具层出不穷。其实Android开发涉及到的范围也不小，一些Web工具有时候也会带来事半功倍的效果。有些甚至是一些native应用无法做到的。本文，将简单列举一下本人正在使用的一些工具，当然也会持续更新。
 <!--more-->
