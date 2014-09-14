@@ -26,6 +26,7 @@ categories: 作品
   * 使用更多的七牛的服务，比如防盗链等功能。
   
 ##安装
+如果尚未安装Octopress，请参考<a href="http://blog.segmentfault.com/yaashion_xiang/1190000000364677" target="_blank">本文</a>安装。
 ###超级简单的一步安装
 ```bash
 cd YOUR_OCTOPRESS_ROOT_DIR
