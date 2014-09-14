@@ -6,6 +6,9 @@ comments: true
 sharing: true
 footer: true
 ---
+##我的七牛参赛作品
+一个将Octopress博客中的图片资源上传到七牛服务器的工具。具体请参考<a href="http://droidyue.com/blog/2014/09/13/my-work-for-qiniu-demo/" target="_blank">我的七牛参赛作品</a>
+
 ##简易强密码生成器
 大概三年前做的，当时csdn被脱库，自己中枪了，于是到各个网站修改同样的密码，于是头脑闪过一个想法：可不可以各个网站用户名相同，密码不同呢，当然可以，于是这个工具就简单诞生了。
 
