@@ -35,6 +35,12 @@ if (filters != '') :
     cmd = 'adb logcat | grep --color=always -E "%s" '%(filters)
     os.system(cmd)
 ```
+
+###使用方法
+```bash lineos:false
+python logcatPkg.py com.mx.browser
+```
+
 ###最新代码
  <a href="https://raw.githubusercontent.com/androidyue/weekly-scripts/master/python/logcatPkg.py" target="_blank">locatPkg.py</a>
 
