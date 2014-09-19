@@ -3,7 +3,7 @@ layout: post
 title: "Gmail垃圾邮件过滤器文件分享"
 date: 2014-06-19 21:35
 comments: true
-categories: gmail spam seo email sales share export import Gmail Google
+categories: gmail spam email  Google
 ---
 Gmail垃圾邮件过滤器文件。  
 A filter file for Gmail to auto-delete spams.  
@@ -12,6 +12,7 @@ A filter file for Gmail to auto-delete spams.
 I have received so many emails. However many of them are spam emails. That's really annoying. But I decided to create a filter when I receive a spam one. Now I will share this file. I will keep the file updated in the future.
 
 ##Versions
+  * 2014-09-19 Updated. http://droidyuecontent.qiniudn.com/2014_0919.mailFilters.xml
   * 2014-08-12 Updated. http://droidyuecontent.qiniudn.com/mailFilters_2014_08_20.xml
   * 2014-07-21 Updated. http://droidyuecontent.qiniudn.com/mailFilters_0721.xml
   * 2014-06-29 Updated. http://droidyuecontent.qiniudn.com/mailFilters_2014_06_29.xml
