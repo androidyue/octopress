@@ -6,7 +6,6 @@ comments: true
 sharing: true
 footer: true
 ---
-##友情链接
 [PcYoYo](http://www.pcyoyo.com/#droidyue.com)
 
 [上善若水](http://blog.csdn.net/jokers_i)
