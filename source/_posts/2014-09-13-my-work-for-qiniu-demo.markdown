@@ -86,5 +86,9 @@ YOUR_OCTOPRESS_ROOT_DIR/startQiniu.sh
   * 提问：既然文件都上传到了，是不是可以删除掉存储到public/images/的文件
   * 回答：当然可以，因为生成的网页的图片地址为七牛的外链地址，目前程序没有做主动删除文件的操作。
 
+###投票地址
+我的作品名称**octopress_qiniu**
+
+[投票地址](http://campaign.gitcafe.com/qiniu-demo?page=11)
 
 最后希望大家多多支持，投我一票哈。
