@@ -53,9 +53,9 @@ public class Concatenation {
 ```bash fileos:false
 javac Concatenation.java
 ```
-然后我们使用javap反编译一下编译出来的Concatenation.class文件。`javap -c Concatenation.class `。如果没有找到javap命令，请考虑将javap所在目录加入环境变量或者使用javap的完整路径。
+然后我们使用javap反编译一下编译出来的Concatenation.class文件。`javap -c Concatenation`。如果没有找到javap命令，请考虑将javap所在目录加入环境变量或者使用javap的完整路径。
 ```bash fileos:false
-17:22:04-androidyue~/workspace_adt/strings/src$ javap -c Concatenation.class 
+17:22:04-androidyue~/workspace_adt/strings/src$ javap -c Concatenation 
 Compiled from "Concatenation.java"
 public class Concatenation {
   public Concatenation();
