@@ -30,6 +30,11 @@ Android中所有的资源都有一个对应的资源ID，资源ID的类型为16�
 
 地址：<a href="http://json.parser.online.fr/" target="_blank">JSON Parser</a>
 
+##查看HTML5,JS,CSS可用情况
+caniuse.com是一个检测HTML5，JS，CSS在各个浏览器平台是否可用的web工具。便于我们了解前端方案是否在目标设备上是否有效。
+
+地址：[caniuse.com](http://caniuse.com/#search=queryselector)
+
 ###其他
   * <a href="http://www.amazon.cn/gp/product/B007A9W11U/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B007A9W11U&linkCode=as2&tag=droidyue-23">提升工作与生活效率的52项原则</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B007A9W11U" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   * <a href="http://www.amazon.cn/gp/product/B00CE1JQO4/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00CE1JQO4&linkCode=as2&tag=droidyue-23">Android中的高级编程有哪些</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B00CE1JQO4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
