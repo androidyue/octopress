@@ -21,11 +21,11 @@ categories: 个人
 
 ###日语
   * 来年7月份N3备战，侧重语法部分。
-  * 提高口语和听力，为明年去日本旅游做好充分准备。
+  * 提高口语和听力，为明年去[日本旅游](http://s.click.taobao.com/t?e=m%3D2%26s%3D6Etpwg48abQcQipKwQzePCperVdZeJviEViQ0P1Vf2kguMN8XjClAqwL8unqugPRHjbpQvOKwqe3V2HVNDCdH26MJPhEQyRFQ05uJXRCiiJptN6IU7yann7uq6sLYIqu0Q7QOybCaQy9AmARIwX9K9E0MBlxnM%2FDnaYpFBIfC%2F2orLd93QuCUMYOae24fhW0)做好充分准备。
 
 ###健身
-  * 入手体感游戏机
-  * 等待Jawbone出带手表功能的运动手环
+  * 入手[体感游戏机](http://s.click.taobao.com/t?e=m%3D2%26s%3DYqRO1Rfaov0cQipKwQzePOeEDrYVVa64Qih%2F7PxfOKS5VBFTL4hn2X7BOnX0umzUYFMBzHxYoCPM3gYQjCL89qULerPwKfMIwRKDNIG1Ob7cAkcj9pZG3swMHV%2FCenxVQc4fM4SkruX%2BecaeU0a94sYOae24fhW0)
+  * 等待[Jawbone](http://s.click.taobao.com/t?e=m%3D2%26s%3Dgfeo3wcnPH8cQipKwQzePOeEDrYVVa64pRe%2F8jaAHci5VBFTL4hn2eMqusjMz17QWI6w0dMGH8jM3gYQjCL89qULerPwKfMIwRKDNIG1Ob6y2Vs1pknHGcBk7iRDybkBz7O1rkTgVscnrdBi55e3wSGFCzYOOqAQ)出带手表功能的运动手环
   * 赶走轻度脂肪肝
 
 ###其他
