@@ -54,6 +54,8 @@ task :generate do
   puts "## Generating Site with Jekyll"
   system "compass compile --css-dir #{source_dir}/stylesheets"
   system "jekyll"
+  atom2rssDir = '~/osc_git/php_works/'
+  system "php #{atom2rssDir}/atom2rss.php #{public_dir}/atom.xml #{atom2rssDir}/atom2rss.xsl #{public_dir}/rss.xml"
 end
 
 desc "Watch the site and regenerate when it changes"
