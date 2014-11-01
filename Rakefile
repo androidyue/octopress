@@ -222,6 +222,8 @@ task :deploy do
   end
 
   Rake::Task[:copydot].invoke(source_dir, public_dir)
+  atom2rssDir = '~/osc_git/php_works/'
+  system "php #{atom2rssDir}/atom2rss.php #{public_dir}/atom.xml #{atom2rssDir}/atom2rss.xsl #{public_dir}/rss.xml"
   Rake::Task["#{deploy_default}"].execute
 end
 
