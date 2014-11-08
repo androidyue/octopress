@@ -5,7 +5,7 @@ date: 2014-11-08 15:26
 comments: true
 categories: Android
 ---
-相信很多Android开发者很多都遇到过android.os.NetworkOnMainThreadException 这个异常，意思就是主线程进行网络操作异常。这个问题比较简单，但是网络上有着鱼龙混杂的答案，这里想花点时间做一个比较完整的啰嗦。
+相信很多Android开发者很多都遇到过android.os.NetworkOnMainThreadException 这个异常，意思就是主线程进行网络操作异常。这个问题比较简单，但是网络上有着鱼龙混杂的答案，这里想花点时间做一个比较完整的描述。
 <!--more-->
 ##严格模式
 在早期的Android版本（2.3之前）中，Google并没有提供一个很严格的程序编写要求，所以在那时我们可以在主线程中执行本地IO操作，网络操作等这些不规范的行为。后来在2.3的姜饼（GINGERBREAD）开始提供了一个开发者工具，这就是StrictMode严格模式。
