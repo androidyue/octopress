@@ -17,8 +17,6 @@ AsyncTask是一个很常用的API，尤其异步处理数据并将数据应用�
   * 如果cancel(boolean)调用了，则执行onCancelled(Result)方法
   * 如果cancel(boolean)没有调用，则执行onPostExecute(Result)方法
 
-如果我们的AsyncTask没有在Activity销毁时取消，这会导致AsyncTask崩溃，因为在onPostExecute(Result)方法中处理的视图已经不再存在。
-
 AsyncTask的cancel方法需要一个布尔值的参数，参数名为mayInterruptIfRunning,意思是`如果正在执行是否可以打断`,如果这个值设置为true，表示这个任务可以被打断，否则，正在执行的程序会继续执行直到完成。如果在doInBackground()方法中有一个循环操作，我们应该在循环中使用isCancelled()来判断，如果返回为true，我们应该避免执行后续无用的循环操作。
 
 总之，我们使用AsyncTask需要确保AsyncTask正确地取消。
