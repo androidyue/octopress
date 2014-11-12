@@ -28,8 +28,12 @@ footer: true
 ##关于我
   * Android 开花
   * 喜欢终端上完成操作，对GUI有点偏见
-  * 语言：普通话，保定话，日本语，Java，Python，Ruby等
+  * 语言：普通话，英语，保定话，日本语，Java，Python，Ruby等
   * 两台机器：**Sony Vaio With Fedora 17**    &&  Macbook Pro Retina, 15-inch
+  * 联系方式：andrewallanwallace#gmail.com
+
 
 ###我在互(ju)联(yu)网
   * [我的虾米音乐](http://www.xiami.com/u/3687899?spm=a1z1s.3522041.23310357.3.LpvOT1)
+  
+  
