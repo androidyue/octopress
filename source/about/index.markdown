@@ -33,7 +33,9 @@ footer: true
   * 联系方式：andrewallanwallace#gmail.com
 
 
-###我在互(ju)联(yu)网
+##我在互(ju)联(yu)网
   * [我的虾米音乐](http://www.xiami.com/u/3687899?spm=a1z1s.3522041.23310357.3.LpvOT1)
   
   
+##欢(tu)迎(hao)捐赠
+  * [微信或支付宝捐赠](http://droidyue.com/donate/)
