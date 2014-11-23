@@ -13,5 +13,8 @@ footer: true
 ###土豪版
 {%img http://droidyueimg.qiniudn.com/weixin_tuhao.jpg Donate 10 Yuan %}
 
+###无限制版
+{%img http://droidyueimg.qiniudn.com/weixin_unlimited.jpg Donate Any Yuan %}
+
 ###支付宝版
 {%img http://droidyueimg.qiniudn.com/alipay.JPG Donate By AliPay %}
