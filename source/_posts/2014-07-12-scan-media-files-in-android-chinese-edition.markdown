@@ -239,7 +239,7 @@ LOGTAG Androidyue onReceive intent= Intent { act=android.intent.action.MEDIA_SCA
 具体的删除代码请参考<a href="http://droidyue.com/blog/2014/02/09/code-snippet-for-media-on-android/" target="_blank">Code Snippet for Media on Android</a>
 
 ##One More Thing
-  * 你可以通过查看/data/data/com.android.providers.media/的external.db文件可以了解更多的信息。
+  * 你可以通过查看/data/data/com.android.providers.media/databases/external.db(不同系统略有不同)文件可以了解更多的信息。
 
 ###Others
   * <a href="http://www.amazon.cn/gp/product/B009OLU8EE/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B009OLU8EE&linkCode=as2&tag=droidyue-23">Android系统源代码情景分析</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B009OLU8EE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
