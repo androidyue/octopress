@@ -54,3 +54,6 @@ Argument: def.txt
 Argument: *.txt
 ```
 所以在使用脚本时第一个参数一定要使用双引号。
+
+##如何遍历文件包含子目录内的
+比如我们想遍历`/tmp/abc/def.txt` 我们可以使用`/tmp/**/.txt`即可
