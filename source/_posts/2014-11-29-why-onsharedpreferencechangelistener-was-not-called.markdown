@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "偷懒的OnSharedPreferenceChangeListener"
+title: "Google为何这样设计OnSharedPreferenceChangeListener"
 date: 2014-11-29 16:41
 comments: true
 categories: Android
