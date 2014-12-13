@@ -30,6 +30,30 @@ java中堆和栈的区别自然是面试中的常见问题，下面几点就是�
 
 这就是Java中堆和栈的区别。理解好这个问题的话，可以对你解决开发中的问题，分析堆内存和栈内存使用，甚至性能调优都有帮助。
 
+####查看默认值(Updated)
+查看堆的默认值，使用下面的代码，其中InitialHeapSize为最开始的堆的大小，MaxHeapSize为堆的最大值。
+```bash
+13:17 $ java -XX:+PrintFlagsFinal -version | grep HeapSize
+    uintx ErgoHeapSizeLimit                         = 0                                   {product}
+    uintx HeapSizePerGCThread                       = 87241520                            {product}
+    uintx InitialHeapSize                          := 134217728                           {product}
+    uintx LargePageHeapSizeThreshold                = 134217728                           {product}
+    uintx MaxHeapSize                              := 2147483648                          {product}
+java version "1.8.0_25"
+Java(TM) SE Runtime Environment (build 1.8.0_25-b17)
+Java HotSpot(TM) 64-Bit Server VM (build 25.25-b02, mixed mode)
+```
+查看栈的默认值,其中ThreadStackSize为栈内存的大小。
+```bash
+13:21 $ java -XX:+PrintFlagsFinal -version | grep ThreadStackSize
+     intx CompilerThreadStackSize                   = 0                                   {pd product}
+     intx ThreadStackSize                           = 1024                                {pd product}
+     intx VMThreadStackSize                         = 1024                                {pd product}
+java version "1.8.0_25"
+Java(TM) SE Runtime Environment (build 1.8.0_25-b17)
+Java HotSpot(TM) 64-Bit Server VM (build 25.25-b02, mixed mode)
+```
+
 ##译文信息
 原汁原味的英文原文：[http://javarevisited.blogspot.com.au/2013/01/difference-between-stack-and-heap-java.html](http://javarevisited.blogspot.com.au/2013/01/difference-between-stack-and-heap-java.html).
 
