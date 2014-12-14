@@ -42,7 +42,7 @@ article {
     font-size: 2.0em; font-style: italic;
     line-height: 1.3em;
   }
-  img, video, .flash-video {
+  img:not(.no_boarder_class), video, .flash-video {
     @extend .flex-content;
     @extend .basic-alignment;
     @include shadow-box;
