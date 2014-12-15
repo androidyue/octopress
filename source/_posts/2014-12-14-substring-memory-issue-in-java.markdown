@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java中的substring会引起内存泄露么？"
+title: "Java中的substring真的会引起内存泄露么？"
 date: 2014-12-14 12:02
 comments: true
 categories: Java 
