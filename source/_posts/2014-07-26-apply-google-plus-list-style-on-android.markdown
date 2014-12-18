@@ -18,20 +18,21 @@ P.S.找了很多的屏目录制软件都不行，并且没有4.4的机器，所�
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <set xmlns:android="http://schemas.android.com/apk/res/android"
-     android:shareInterpolator="@android:anim/decelerate_interpolator">
+    android:interpolator="@android:anim/decelerate_interpolator"
+    android:shareInterpolator="true">
     <translate
         android:fromXDelta="0%" android:toXDelta="0%"
         android:fromYDelta="100%" android:toYDelta="0%"
         android:duration="400" />
 </set>
-
 ```
 
 ###from_top_to_bottom.xml
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <set xmlns:android="http://schemas.android.com/apk/res/android"
-     android:shareInterpolator="@android:anim/decelerate_interpolator">
+    android:interpolator="@android:anim/decelerate_interpolator"
+    android:shareInterpolator="true">
     <translate
         android:fromXDelta="0%" android:toXDelta="0%"
         android:fromYDelta="-100%" android:toYDelta="0%"
@@ -60,8 +61,6 @@ public View getView(int position, View convertView, ViewGroup parent) {
 }
 ```
 
-##源码
-<a href="http://pan.baidu.com/s/1ntmelML" target="_blank">百度云盘</a>
   
 ###其他
   * <a href="http://www.amazon.cn/gp/product/B00FQEDTA8/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00FQEDTA8&linkCode=as2&tag=droidyue-23">精彩绝伦的Android UI设计</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B00FQEDTA8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
