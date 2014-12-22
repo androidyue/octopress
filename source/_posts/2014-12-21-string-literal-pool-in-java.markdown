@@ -58,6 +58,83 @@ System.out.println(str4 == str1);
 ###引用 or 对象
 字符串常量池中存放的时引用还是对象，这个问题是最常见的。字符串常量池存放的是对象引用，不是对象。**在Java中，对象都创建在堆内存中**。
 
+更新验证，收到的很多评论也在讨论这个问题，我简单的进行了验证。
+验证环境
+```
+22:18:54-androidyue~/Videos$ cat /etc/os-release
+NAME=Fedora
+VERSION="17 (Beefy Miracle)"
+ID=fedora
+VERSION_ID=17
+PRETTY_NAME="Fedora 17 (Beefy Miracle)"
+ANSI_COLOR="0;34"
+CPE_NAME="cpe:/o:fedoraproject:fedora:17"
+
+22:19:04-androidyue~/Videos$ java -version
+java version "1.7.0_25"
+OpenJDK Runtime Environment (fedora-2.3.12.1.fc17-x86_64)
+OpenJDK 64-Bit Server VM (build 23.7-b01, mixed mode)
+```
+验证思路：以下的Java程序读取一个大小为82M的视频文件，以字符串形式进行intern操作。
+```bash
+22:01:17-androidyue~/Videos$ ll -lh | grep why_to_learn.mp4 
+-rw-rw-r--. 1 androidyue androidyue  82M Oct 20  2013 why_to_learn.mp4
+```
+验证代码
+```java
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+
+
+public class TestMain {
+	private static String fileContent;
+	public static void main(String[] args) {
+		fileContent = readFileToString(args[0]);
+		if (null != fileContent) {
+			fileContent = fileContent.intern();
+			System.out.println("Not Null");
+		}
+	}
+	
+	
+	private static String readFileToString(String file) {
+		BufferedReader reader = null;
+		try {
+			reader = new BufferedReader(new FileReader(file));
+			StringBuffer buff = new StringBuffer();
+			String line;
+			while ((line = reader.readLine()) != null) {
+				buff.append(line);
+			}
+			return buff.toString();
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
+		} finally {
+			if (null != reader) {
+				try {
+					reader.close();
+				} catch (IOException e) {
+					e.printStackTrace();
+				}
+			}
+		}
+		return null;
+	}
+}
+
+```
+由于字符串常量池存在于堆内存中的永久代，适用于Java8之前。我们通过设置永久代一个很小的值来进行验证。如果字符串对象存在字符串常量池中，那么必然抛出`java.lang.OutOfMemoryError permgen space`错误。
+```bash
+java -XX:PermSize=6m TestMain ~/Videos/why_to_learn.mp4
+```
+运行证明程序没有抛出OOM，其实这个不能很好的证明存储的是对象还是引用。
+
+但是这个至少证明了字符串的实际内容对象char[]不存放在字符串常量池中。既然这样的话，其实字符串常量池存储字符串对象还是字符串对象的引用反而不是那么重要。但个人还是倾向于存储的为引用。
+
 ###优缺点
 字符串常量池的好处就是减少相同内容字符串的创建，节省内存空间。
 
