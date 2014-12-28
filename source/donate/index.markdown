@@ -7,14 +7,8 @@ sharing: true
 footer: true
 ---
 欢迎捐赠本站,目前支持微信，支付宝方式。
-###五毛版
-{%img http://droidyueimg.qiniudn.com/weixin_wumao.jpg Donate 0.5 Yuan %}
+###微信
+{%img http://droidyueimg.qiniudn.com/weixin_pay.jpg Donate for me %}
 
-###土豪版
-{%img http://droidyueimg.qiniudn.com/weixin_tuhao.jpg Donate 10 Yuan %}
-
-###随意版
-{%img http://droidyueimg.qiniudn.com/weixin_unlimited.jpg Donate Any Yuan %}
-
-###支付宝版
+###支付宝
 {%img http://droidyueimg.qiniudn.com/alipay.JPG Donate By AliPay %}

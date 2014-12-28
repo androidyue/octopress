@@ -268,7 +268,7 @@ public class TestMain {
 ```
 然后我们基于这个框架的1.0版编译出来了class文件，假设静态绑定可以确定上面Caller的super.call为BaseCaller.call实现。
 
-然后我们再次假设这个框架1.1版本中SuperCaller和BaseCaller都改成了抽象方法不进行实现call方法，那么上面的假设可以静态绑定的call实现在1.1版本就会出现问题。
+然后我们再次假设这个框架1.1版本中BaseCaller不重写SuperCaller的call方法，那么上面的假设可以静态绑定的call实现在1.1版本就会出现问题，因为在1.1版本上super.call应该是使用SuperCall的call方法实现，而非假设使用静态绑定确定的BaseCaller的call方法实现。
 
 所以，有些实际可以静态绑定的，考虑到安全和一致性，就索性都进行了动态绑定。
 
@@ -282,4 +282,4 @@ public class TestMain {
   * [What is Static and Dynamic binding in Java with Example](http://javarevisited.blogspot.com/2012/03/what-is-static-and-dynamic-binding-in.html)
 
 ###一本书
-  * [Java核心技术](http://www.amazon.cn/gp/product/B00G9KF4JC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00G9KF4JC&linkCode=as2&tag=droidyue-23)，Java领域最有影响力和价值的著作之一，拥有20多年教学与研究经验的资深Java技术专家撰写（获Jolt大奖），与《Java编程思想》齐名，10余年全球畅销不衰，广受好评。
+  * [Java核心技术](http://www.amazon.cn/gp/product/B00G9KF4JC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00G9KF4JC&linkCode=as2&tag=droidyue-23)，Java领域最有影响力和价值的著作之一，拥有20多年教学与研究经验的资深Java技术专家撰写（获Jolt大奖），与[《Java编程思想》](http://www.amazon.cn/gp/product/B0011F7WU4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B0011F7WU4&linkCode=as2&tag=droidyue-23)齐名，10余年全球畅销不衰，广受好评。
