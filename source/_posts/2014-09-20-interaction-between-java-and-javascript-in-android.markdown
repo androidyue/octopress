@@ -214,9 +214,9 @@ myWebView.setWebViewClient(new WebViewClient() {
 中文大意为
 >警告：如果你的程序目标平台是17或者是更高，你必须要在暴露给网页可调用的方法（这个方法必须是公开的）加上@JavascriptInterface注释。如果你不这样做的话，在4.2以以后的平台上，网页无法访问到你的方法。
 
-#####两种解决方法
+#####解决方法
   * 将targetSdkVersion设置成17或更高，引入@JavascriptInterface注释
-  * 自己创建一个注释接口名字为@JavascriptInterface，然后将其引入。注意这个接口不能混淆。
+  * 自己创建一个注释接口名字为@JavascriptInterface，然后将其引入。注意这个接口不能混淆。这种方式不推荐，大概在4.4之后有问题。
 
 注，创建@JavascriptInterface代码
 ```java lineos:false
