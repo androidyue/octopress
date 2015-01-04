@@ -14,5 +14,4 @@ footer: true
 
 [云聚网](http://www.yunjuu.com/)
 
-<a href="http://www.dnnode.cn/" rel="nofollow">第恩Web</a>
 
