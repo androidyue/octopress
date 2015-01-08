@@ -40,3 +40,6 @@ footer: true
   
 ##欢(tu)迎(hao)捐赠
   * [微信或支付宝捐赠](http://droidyue.com/donate/)
+
+##成为我的同事
+  * [来傲游浏览器工作](http://droidyue.com/blog/2014/09/01/wanna-work-at-maxthon/)
