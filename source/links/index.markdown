@@ -6,6 +6,8 @@ comments: true
 sharing: true
 footer: true
 ---
+[Java Blog 9leg](http://9leg.com/)
+
 [PcYoYo](http://www.pcyoyo.com/#droidyue.com)
 
 [上善若水](http://blog.csdn.net/jokers_i)
