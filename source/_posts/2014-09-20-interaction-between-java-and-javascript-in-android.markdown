@@ -229,6 +229,8 @@ public @interface JavascriptInterface {
 如果在没有混淆的版本运行正常，在混淆后的版本的代码运行错误，并提示Uncaught TypeError: Object [object Object] has no method，那就是你没有做混淆例外处理。
 在混淆文件加入类似这样的代码
 ```ruby lineos:false
+keepattributes *Annotation*
+keepattributes JavascriptInterface
 -keep class com.example.javajsinteractiondemo$JsInteration {
     *;
 }
