@@ -32,6 +32,12 @@ footer: true
   * 语言：普通话，英语，保定话，日本语，Java，Python，Ruby等
   * 两台机器：**Sony Vaio With Fedora 17**    &&  Macbook Pro Retina, 15-inch
   * 联系方式：andrewallanwallace#gmail.com
+  
+###微信扫一扫
+{%img http://droidyueimg.qiniudn.com/my_weixin_qrcode.jpg 200 200 add weixin %}
+
+###技术小黑屋读者交流群
+{%img http://droidyueimg.qiniudn.com/qq_group_droidyue.com_readers_opt.jpg qq group %}
 
 
 ##我在互(ju)联(yu)网
