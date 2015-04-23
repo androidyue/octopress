@@ -64,7 +64,11 @@ Effective Java这本书也是一本我最喜欢的。本书为领导开发Java�
 Thinking in Java book应该是Java中文界最有名的书籍了，中文又名 Java编程思想。作者为Bruce Eckel，他也是Thinking in C++的作者，他用自己很独特的观点讲述了Java。据我所知，这本书获得了很高的认可，本书是一本介绍齐全的Java学习参考书。如果你不喜欢Head First类似小人书那样的讲解，可以尝试这本书。本书的内容讲解详细，成熟（相对Head First有种教科书的感觉）。  
 查看详细:[亚马逊](http://www.amazon.cn/gp/product/B0011F7WU4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B0011F7WU4&linkCode=as2&tag=droidyue-23)
 
-
+##Java程序员修炼之道
+{%img left http://droidyueimg.qiniudn.com/java_programming_xiulianzhidao.jpg %}
+《Java程序员修炼之道》分为四部分，第一部分全面介绍Java 7的新特性，第二部分探讨Java关键编程知识和技术，第三部分讨论JVM上的新语言和多语言编程，第四部分将平台和多语言编程知识付诸实践。从介绍Java 7的新特性入手，《Java程序员修炼之道》涵盖了Java开发中最重要的技术，比如依赖注入、测试驱动的开发和持续集成，探索了JVM上的非Java语言，并详细讲解了多语言项目， 特别是涉及Groovy、Scala和Clojure语言的项目。此外，书中含有大量代码示例，帮助读者从实践中理解Java语言和平台。《Java程序员修炼之道》适合Java开发人员以及对Java7和JVM新语言感兴趣的各领域人士阅读。
+查看详细：
+[亚马逊](http://www.amazon.cn/gp/product/B00E0D2OX4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00E0D2OX4&linkCode=as2&tag=droidyue-23)
 
 这就是我的关于Java编程相关的推荐的书，这些都可以说是看成经典中的经典。像Effective Java 和 Head First 系列我已经反复阅读了很多遍。相信看完本文，根据自己的水平和想要提升的知识侧重，你应该能选出最适合自己的书了。
 
