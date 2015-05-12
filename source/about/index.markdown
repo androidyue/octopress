@@ -38,14 +38,7 @@ footer: true
 
 ###技术小黑屋读者交流群
 {%img http://droidyueimg.qiniudn.com/qq_group_droidyue.com_readers_opt.jpg qq group %}
-
-
-##我在互(ju)联(yu)网
-  * [我的虾米音乐](http://www.xiami.com/u/3687899?spm=a1z1s.3522041.23310357.3.LpvOT1)
-  
   
 ##欢(tu)迎(hao)捐赠
   * [微信或支付宝捐赠](http://droidyue.com/donate/)
 
-##成为我的同事
-  * [来傲游浏览器工作](http://droidyue.com/blog/2014/09/01/wanna-work-at-maxthon/)
