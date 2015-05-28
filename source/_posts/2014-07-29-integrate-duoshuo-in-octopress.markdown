@@ -52,6 +52,8 @@ Octopress默认自带了DISQUS，但是对于国内不是很好用。于是一�
 ```javascript linenos:false
  var duoshuoQuery = {short_name:"your_short_name"};
 ```
+关于short_name的这个值，需要从多说后台查找，如下图
+{%img http://droidyueimg.qiniudn.com/duoshuo_short_name.png %}
 
 ###将文件嵌入到**`<body></body>`**
 将上面的文件嵌入到**source/_layouts/post.html**下，可参考下列代码。
