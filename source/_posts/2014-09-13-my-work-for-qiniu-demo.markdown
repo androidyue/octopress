@@ -5,7 +5,7 @@ date: 2014-09-13 13:19
 comments: true
 categories: 作品
 ---
-使用Ocopress写博客将近一年多了，大概几个月前同事给我推荐了<a href="https://portal.qiniu.com/signup?code=3l8cqx1u74rbm" target="_blank">七牛</a>做网站的静态文件存储服务，于是果断尝试了一下，发现真实不错。速度不错，而且有免费套餐。很是支持。最近发现七牛有一个demo大赛，于是果断参加了。
+使用Ocopress写博客将近一年多了，大概几个月前同事给我推荐了<a href="http://droidredirect.sinaapp.com/qiniu_redirect.php" target="_blank">七牛</a>做网站的静态文件存储服务，于是果断尝试了一下，发现真实不错。速度不错，而且有免费套餐。很是支持。最近发现七牛有一个demo大赛，于是果断参加了。
 <!--more-->
 ##痛点
   * 域名Godaddy购买，无法备案，不能使用七牛的独立域名绑定

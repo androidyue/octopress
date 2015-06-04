@@ -5,7 +5,7 @@ date: 2014-09-21 17:48
 comments: true
 categories: Bash Linux Shell
 ---
-前几天写的<a href="https://portal.qiniu.com/signup?code=3l8cqx1u74rbm" target="_blank">七牛</a>的参赛demo，用bash写了一个便捷安装的脚本，涉及到了路径相关的判断，从<a href="http://stackoverflow.com/questions/59895/can-a-bash-script-tell-what-directory-its-stored-in" target="_blank">stackoverflow</a>，加上自己的实践整理一下。
+前几天写的<a href="http://droidredirect.sinaapp.com/qiniu_redirect.php" target="_blank">七牛</a>的参赛demo，用bash写了一个便捷安装的脚本，涉及到了路径相关的判断，从<a href="http://stackoverflow.com/questions/59895/can-a-bash-script-tell-what-directory-its-stored-in" target="_blank">stackoverflow</a>，加上自己的实践整理一下。
 <!--more-->
 ###简单版
 下面是一个最简单的实现，可以解决大多数问题，缺陷是对于软链接显示的是软链接所在的目录
