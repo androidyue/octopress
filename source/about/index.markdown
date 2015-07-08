@@ -27,8 +27,10 @@ footer: true
   * 非技术相关的思考和胡思乱想天马星空记录
 
 ##关于我
-  * Android 开花
+  * Android 工程师
+  * 不是90后，89年出生的保定人在北京
   * 喜欢终端上完成操作，对GUI有点偏见
+  * 一个优秀的程序员应该是一位艺术家，其代码不可增不可减。
   * 语言：普通话，英语，保定话，日本语，Java，Python，Ruby等
   * 两台机器：**Sony Vaio With Fedora 17**    &&  Macbook Pro Retina, 15-inch
   * 联系方式：andrewallanwallace#gmail.com
