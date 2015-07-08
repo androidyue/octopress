@@ -31,10 +31,10 @@ Hi，如果本博客对你有帮助的话，请考虑对本博客捐赠一下。
 ##点击链接
 如果不想来点直接，俗一点儿的话，请点击如下链接购物或注册
 
-  * [淘宝天猫购物入口](http://s.click.taobao.com/t?e=m%3D2%26s%3D3%2F0ncwEAYfIcQipKwQzePOeEDrYVVa64pRe%2F8jaAHci5VBFTL4hn2bLrHRQc8z5toAgJVlbS%2FO%2FM3gYQjCL89qULerPwKfMIwRKDNIG1Ob6y2Vs1pknHGcBk7iRDybkB03J3WYIPR1Xxeiy387U8hCGFCzYOOqAQ)
-  * [亚马逊购物入口](http://www.amazon.cn/gp/product/B0011F7WU4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B0011F7WU4&linkCode=as2&tag=droidyue-23)
-  * [近乎免费的静态云存储，七牛注册](http://droidredirect.sinaapp.com/qiniu_redirect.php)
-  * [App集成有米广告，马上钵满盆盈！](https://www.youmi.net/account/register?r=OTU2Ng==)
+<script type="text/javascript" src="http://1.toolite.sinaapp.com/droidyue_com/invite_data_source.js" charset="utf-8"></script>
+<script type="text/javascript">
+    	displaySection(shouldDisplayInvitation(), isInvitationInDebug(), makeInvitationDataSource(), makeInvitationPrefix(), makeInvitationSuffix());
+</script>
 
 ##也不想点击链接
 那就扫描一下滴滴打车二维码，你我都获得30元红包
