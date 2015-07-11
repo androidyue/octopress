@@ -41,6 +41,6 @@ footer: true
 ###技术小黑屋读者交流群
 {%img http://droidyueimg.qiniudn.com/qq_group_droidyue.com_readers_opt.jpg qq group %}
   
-##欢(tu)迎(hao)捐赠
-  * [微信或支付宝捐赠](http://droidyue.com/donate/)
+##欢(tu)迎(hao)打(xuan)赏(fu)
+  * [打赏](http://droidyue.com/donate/)
 

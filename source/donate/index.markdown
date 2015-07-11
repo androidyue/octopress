@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "捐赠 Donate!"
+title: "打赏"
 date: 2014-09-16 21:30
 comments: true
 sharing: true
 footer: true
 ---
-Hi，如果本博客对你有帮助的话，请考虑对本博客捐赠一下。
+Hi，如果本博客对你有帮助的话，请考虑对本博客打赏。
 ##来点俗的
 ###微信
 <img src="http://droidyueimg.qiniudn.com/weixin_pay.jpg" width="218" title="Donate for me" class="no_boarder_class">
