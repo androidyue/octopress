@@ -38,6 +38,9 @@ footer: true
 ###微信扫一扫
 {%img http://droidyueimg.qiniudn.com/my_weixin_qrcode.jpg 200 200 add weixin %}
 
+###新浪微博
+我的新浪微博是[技术小黑屋](http://weibo.com/androidyue/) ，欢迎大家关注。
+
 ###技术小黑屋读者交流群
 {%img http://droidyueimg.qiniudn.com/qq_group_droidyue.com_readers_opt.jpg qq group %}
   
