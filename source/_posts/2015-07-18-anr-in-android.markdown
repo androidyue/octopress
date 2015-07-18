@@ -118,3 +118,6 @@ I/ActivityManager(  462): Process com.example.androidyue.bitmapdemo (pid 4109) h
 
 ##参考文章
   * [Keeping Your App Responsive](http://developer.android.com/intl/zh-cn/training/articles/perf-anr.html)
+
+
+{%include post/book_copyright.html %}
