@@ -6,12 +6,11 @@ comments: true
 sharing: true
 footer: true
 ---
-##Atom 1.0（推荐）
-[atom.xml](/atom.xml)
 
-##RSS 2.0 
-[rss.xml](/rss.xml)
+[订阅地址](/atom.xml)
 
-Octopress默认提供了Atom的订阅，后来自己增加了一个RSS2.0协议的订阅输出（从Atom1.0转换过来的）
+[如果喜欢本博客，可以考虑打赏支持](/donate/)
 
-[如果喜欢本博客，可以考虑打赏支持，感谢。](/donate/)
+###推荐订阅
+  * [Android开发技术周报](http://androidweekly.cn/)
+
