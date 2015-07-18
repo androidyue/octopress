@@ -20,6 +20,11 @@ android-arsenal，中文意思 Android军火库，里面手机了Android中的SD
 
 注意https协议的地址稍有问题，建议使用http协议的地址。
 
+##Grepcode
+grepcode.com是一个Java源码搜索引擎，对于查看Android代码也不例外。并且支持多个API版本快速切换查看。如果你的IDE关联本地代码后，让机器累的喘不过气来，那么就试一试这个在线的工具吧。
+
+地址：[grepcode.com](http://grepcode.com/search/?query=google+android&entity=project)
+
 ##Android Asset Studio
 这是一个神奇的网页，里面包含了多个与资源相关的在线工具，比如icon制作（桌面icon，通知栏icon等），9patch图片制作，ActionBar样式等相关的工具。当你有资源相关的工作时，不妨试一试这个网页工具。
 
