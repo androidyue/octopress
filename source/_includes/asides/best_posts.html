@@ -1,3 +1,8 @@
 <script type="text/javascript">
-	displaySection(shouldDisplayBestPosts(), isBestPostsInDebug(), makeBestPostsDataSource(), makeBestPostsPrefix(), makeBestPostsSuffix());
+	var bestPosts = makeBestPostsDataSource();
+	bestPosts = makeBatchUrlTrackable(bestPosts, "ninki_posts");
+	if (shouldSortBestBooks()) {
+		bestPosts = sortJsonData(bestPosts);
+	}
+	displaySection(shouldDisplayBestPosts(), isBestPostsInDebug(), bestPosts, makeBestPostsPrefix(), makeBestPostsSuffix());
 </script>
