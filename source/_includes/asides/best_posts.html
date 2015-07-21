@@ -1,8 +1,10 @@
 <script type="text/javascript">
 	var bestPosts = makeBestPostsDataSource();
 	bestPosts = makeBatchUrlTrackable(bestPosts, "ninki_posts");
-	if (shouldSortBestBooks()) {
-		bestPosts = sortJsonData(bestPosts);
+	if (getRandomBoolean()) {
+		bestPosts = shuffleJsonObject(bestPosts);
 	}
+	var limit = getBestPostsLimitSize();
+	bestPosts = splitJSONObject(bestPosts, limit);
 	displaySection(shouldDisplayBestPosts(), isBestPostsInDebug(), bestPosts, makeBestPostsPrefix(), makeBestPostsSuffix());
 </script>
