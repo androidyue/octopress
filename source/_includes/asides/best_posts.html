@@ -5,6 +5,8 @@
 		bestPosts = shuffleJsonObject(bestPosts);
 	}
 	var limit = getBestPostsLimitSize();
-	bestPosts = splitJSONObject(bestPosts, limit);
+	if (isSelfRefer()) {
+		bestPosts = splitJSONObject(bestPosts, limit);
+	}
 	displaySection(shouldDisplayBestPosts(), isBestPostsInDebug(), bestPosts, makeBestPostsPrefix(), makeBestPostsSuffix());
 </script>
