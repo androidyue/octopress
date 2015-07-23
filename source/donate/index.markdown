@@ -48,3 +48,7 @@ Hi，如果本博客对你有帮助的话，请考虑对本博客打赏。
 
 ##什么都不想
 哈哈，那么请多花时间研究技术，尝试写一些博客吧。如若不嫌弃，可以[加我为好友](http://droidyue.com/about/)。
+
+
+##进个广告
+<iframe src="http://rcm-cn.amazon-adsystem.com/e/cm?t=droidyue-23&o=28&p=48&l=ez&f=ifr&f=ifr" width="728" height="90" scrolling="no" marginwidth="0" marginheight="0" border="0" frameborder="0" style="border:none;"></iframe>
