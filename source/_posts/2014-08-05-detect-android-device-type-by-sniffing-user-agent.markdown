@@ -40,9 +40,3 @@ Mozilla/5.0 (Linux; U; Android 2.2.1; en-us; Nexus One Build/FRG83) AppleWebKit/
 ##最后
 所以，当你依据检测UA来判断Android手机设备，请同时检查android和mobile两个字符串。
 
-
-###其他
-  * <a href="http://www.amazon.cn/gp/product/B007OQQVMY/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B007OQQVMY&linkCode=as2&tag=droidyue-23">这才是JavaScript的高级程序设计</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B007OQQVMY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-  * <a href="http://www.amazon.cn/gp/product/B00ENZ67VE/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00ENZ67VE&linkCode=as2&tag=droidyue-23">极客用什么高科技的钟表</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B00ENZ67VE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-  * <a href="http://www.amazon.cn/gp/product/B00ASIN7G8/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00ASIN7G8&linkCode=as2&tag=droidyue-23">这就叫精通Android？</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B00ASIN7G8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
