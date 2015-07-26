@@ -75,10 +75,3 @@ public void onClick(View view) {
 
 ##demo源码
 <a href="http://pan.baidu.com/s/1i3kQ1RB" target="_blank">百度云盘</a>
-
-###其他
-  * <a href="http://www.amazon.cn/gp/product/B00CE1JQO4/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00CE1JQO4&linkCode=as2&tag=droidyue-23">Android中的高级编程部分</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B00CE1JQO4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-  * <a href="http://www.amazon.cn/gp/product/B00ASIN7G8/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00ASIN7G8&linkCode=as2&tag=droidyue-23">精通Android其实并不难</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B00ASIN7G8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-
