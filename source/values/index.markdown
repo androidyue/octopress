@@ -1,15 +1,12 @@
 ---
 layout: page
-title: "作品"
+title: "简易强密码生成器"
 date: 2014-07-08 21:43
 comments: true
 sharing: true
 footer: true
 ---
-##我的七牛参赛作品
-一个将Octopress博客中的图片资源上传到七牛服务器的工具。具体请参考<a href="http://droidyue.com/blog/2014/09/13/my-work-for-qiniu-demo/" target="_blank">我的七牛参赛作品</a>
 
-##简易强密码生成器
 大概三年前做的，当时csdn被脱库，自己中枪了，于是到各个网站修改同样的密码，于是头脑闪过一个想法：可不可以各个网站用户名相同，密码不同呢，当然可以，于是这个工具就简单诞生了。
 
 <html>
@@ -38,12 +35,14 @@ footer: true
 				document.getElementsByName("plain_code")[0].value="";			
 			}
 		</script>	
+		
+<p>使用说明：将你的未处理的密码输入第一个文本框，然后点击按钮获取特殊处理的密码，随后将特殊密码作为密码修改或注册.如新浪微博的明码为weibo_123,对应的强密码是3333c43317eb,百度的明码为baidu_123,则强密码为15f82514c5ee</p>
+<p></p>
 <p>请在下面输入您的简单密码</p>
 <p><input type="text" name="plain_code" id="plain_code"  onclick="clear_tips()">
 <input type="button" id="make_word" value="转换强密码" onclick="display_result()"></p>
 <p><input type="text" name="result">复制左侧密码</p>
-<p>使用说明：将你的未处理的密码输入第一个文本框，然后点击按钮获取特殊处理的密码，随后将特殊密码作为密码修改或注册.如google_123,weibo weibo_123,douban_123</p>
-<p></p>
+
 </html>
 
 独立应用地址：http://toolite.sinaapp.com/php/salty_encryption.html
