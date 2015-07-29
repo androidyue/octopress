@@ -41,7 +41,3 @@ ControlPath /tmp/git@gitcafe.com:22
 
 ##还能更快
 还有一个能提高50倍的方法，不过对于一般开发者不是很常用，如需了解可以参考[Speed Up Git (5x to 50x)](http://interrobeng.com/2013/08/25/speed-up-git-5x-to-50x/)
-
-
-###其他
-  *  <a href="http://www.amazon.cn/gp/product/1430218339/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=1430218339&linkCode=as2&tag=droidyue-23">成为Git大神很简单，读完这本书</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=1430218339" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
