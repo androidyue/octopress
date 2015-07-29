@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "打赏"
+title: "Donate"
 date: 2014-09-16 21:30
 comments: true
 sharing: true
 footer: true
 ---
-Hi，如果本博客对你有帮助的话，请考虑对本博客打赏。
+Hi，请考虑捐赠支持域名费用和七牛CDN费用。您的支持将鼓励我继续创作！
 ##来点俗的
 ###微信
 <img src="http://droidyueimg.qiniudn.com/weixin_pay.jpg" width="218" title="Donate for me" class="no_boarder_class">

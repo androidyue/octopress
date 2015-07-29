@@ -9,7 +9,7 @@ footer: true
 
 [订阅地址](/atom.xml)
 
-[如果喜欢本博客，可以考虑打赏支持](/donate/)
+[捐赠支持更好创作！](/donate/)
 
 ###推荐订阅
   * [Android开发技术周报](http://androidweekly.cn/)
