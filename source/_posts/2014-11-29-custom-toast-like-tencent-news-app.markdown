@@ -8,7 +8,7 @@ categories: Android
 厌倦了网易新闻无处不在的喷子，尝试了一下腾讯新闻，果然顿时清净了很多，当然这不是重点。个人感觉腾讯新闻客户端的Toast比较不错，相对于系统默认的Toast，更加能起到提醒的作用。于是反编译了一下，简单分享一下,其实很简单。
 <!--more-->
 ##先看效果
-{%img http://droidyueimg.qiniudn.com/tencent_toast.png %}
+{%img http://7jpolu.com1.z0.glb.clouddn.com/tencent_toast.png %}
 背景为深灰色，支持设置图片和文字。
 ##布局文件
 ```xml

@@ -10,7 +10,7 @@ Play商店是Android的官方商店，虽然在大陆无法访问，但是这里
 ##生成推广链接
 想要进行推广，必须有推广链接。Google提供了生成推广链接的地址[Google Play URL Builder](https://developers.google.com/analytics/devguides/collection/android/v2/campaigns#google-play-url-builder),遗憾的是这个地址被墙了，不过可以使用[这个地址](http://www.digitangle.co.uk/toolsandresources/google-play-url-builder/#sthash.HLdt4vXJ.dpbs)，可能稍微慢一点。
 
-{%img http://droidyueimg.qiniudn.com/play_url_builder.png %}
+{%img http://7jpolu.com1.z0.glb.clouddn.com/play_url_builder.png %}
 ###简单描述
   * Package Name 必填  应用的包名，如com.example.application
   * Campaign Source 必填 推广的来源，比如google, citysearch, newsletter4

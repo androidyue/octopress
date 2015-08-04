@@ -24,7 +24,7 @@ Android作为一个伟大的系统,自然提供了设置默认打开程序的实
 I/View    ( 1145 ): View getDefaultActivity info = ResolveInfo{410e4868 com.android.internal.app.ResolverActivity p=0 o=0 m=0x0};pkgName = android
 ```
 如果没有默认的程序,那么就会显示出默认的就会显示com.android.internal.app.ResolverActivity,那么这个ResolverActivity是什么呢,其实它就是一个选择打开程序的对话框,其庐山真面目应该是这样
-{%img http://droidyueimg.qiniudn.com/resolveactivity.png Android ResolverActivity %}
+{%img http://7jpolu.com1.z0.glb.clouddn.com/resolveactivity.png Android ResolverActivity %}
 
 
 如果我们设置了傲游浏览器作为我们的默认浏览器,那么默认的程序就应该显示关于傲游浏览器相关的信息. 如下.
@@ -53,7 +53,7 @@ public void testStartAppDetails() {
 }
 ```
 当跳转到已安装的应用详情页之后,你应该提示用处点击Clear Default 按钮.
-{% img http://droidyueimg.qiniudn.com/choose_default_activity_dialog.png installed app details clear default%}
+{% img http://7jpolu.com1.z0.glb.clouddn.com/choose_default_activity_dialog.png installed app details clear default%}
 
 如果用户从安装详情页回到你的程序,你需要检测是不是用户清理了默认的程序设置,判断依据还是是否有默认的程序设置,如果还有默认的,继续提示需要手动清理其他已设置的程序,直到用户彻底清理完成之后,然后按照下面的没有默认设置程序的情况处理. 
 

@@ -15,9 +15,9 @@ EditText和AutoCompleteTextView设置文字选中颜色
 Color of the text selection highlight.
 
 ###EditText设置效果
-{%img http://droidyueimg.qiniudn.com/demo-edittext_selection_bg.png %}
+{%img http://7jpolu.com1.z0.glb.clouddn.com/demo-edittext_selection_bg.png %}
 ###AutoCompleteTextView 设置效果
-{%img http://droidyueimg.qiniudn.com/demo_autocompletetextview_selection_bg.png %}
+{%img http://7jpolu.com1.z0.glb.clouddn.com/demo_autocompletetextview_selection_bg.png %}
 
 ###实现代码
 ```xml

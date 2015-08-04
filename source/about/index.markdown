@@ -36,13 +36,13 @@ footer: true
   * 联系方式：andrewallanwallace#gmail.com
   
 ###微信扫一扫
-{%img http://droidyueimg.qiniudn.com/my_weixin_qrcode.jpg 200 200 add weixin %}
+{%img http://7jpolu.com1.z0.glb.clouddn.com/my_weixin_qrcode.jpg 200 200 add weixin %}
 
 ###新浪微博
 我的新浪微博是[技术小黑屋](http://weibo.com/androidyue/) ，欢迎大家关注。
 
 ###技术小黑屋读者交流群
-{%img http://droidyueimg.qiniudn.com/qq_group_droidyue.com_readers_opt.jpg qq group %}
+{%img http://7jpolu.com1.z0.glb.clouddn.com/qq_group_droidyue.com_readers_opt.jpg qq group %}
   
 ##欢(tu)迎(hao)捐(xuan)赠(fu)
   * [捐赠，支持更好创作](http://droidyue.com/donate/)

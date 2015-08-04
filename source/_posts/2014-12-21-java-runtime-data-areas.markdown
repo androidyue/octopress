@@ -16,7 +16,7 @@ categories: Java JVM
   * 本地方法栈 (Native Method Stacks)
 
 ###有图才能说
-{%img http://droidyueimg.qiniudn.com/JVM_runtime_data_areas.png jvm runtime data areas %}
+{%img http://7jpolu.com1.z0.glb.clouddn.com/JVM_runtime_data_areas.png jvm runtime data areas %}
 
 ###按线程持有划分
 查看上面的图，可以得知以上六个数据区其实线程私有还是共享，可以分为如下两种。

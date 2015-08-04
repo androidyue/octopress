@@ -13,9 +13,9 @@ categories: Android
 
 <!--more-->
 ##高清无码大图
-{% img http://droidyueimg.qiniudn.com/akoi_ui.png %}
-{% img http://droidyueimg.qiniudn.com/akoi_target_language.png %}
-{% img http://droidyueimg.qiniudn.com/akoi_result_new.png %}
+{% img http://7jpolu.com1.z0.glb.clouddn.com/akoi_ui.png %}
+{% img http://7jpolu.com1.z0.glb.clouddn.com/akoi_target_language.png %}
+{% img http://7jpolu.com1.z0.glb.clouddn.com/akoi_result_new.png %}
 
 ##等饭时的脑洞
 一个周末的晚上，我去附近的春和饺子馆买饭，为了避免在那里吃堂食吸二手烟，我决定打包带走，去之前使用Pocket离线了一篇关于Java运行时数据区的英文文章，于是边等饭边阅读文章，发现了一个不懂的单词，这时候我的做法是复制单词，按Home键退回桌面，找到词典进入，贴出单词，然后查看答案，再退回到Pocket继续阅读。

@@ -15,7 +15,7 @@ categories: Gmail Markdown 效率
 
 ##上图演示
   这里摘了一张图来说明如何使用
-{%img http://droidyueimg.qiniudn.com/markdown_here_example.png how to use markdown-here %}
+{%img http://7jpolu.com1.z0.glb.clouddn.com/markdown_here_example.png how to use markdown-here %}
 
 如果想取消转换，选中转换后的效果，同样选择**Mardown Toggle**就可以了
 

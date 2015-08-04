@@ -14,7 +14,7 @@ categories: 其他
 ##你就会发现
 <!--more-->
 百度的招聘广告彩蛋出现了。快来试一试吧。
-{%img http://droidyueimg.qiniudn.com/baidu_console.png baidu console secret 789 300 %}
+{%img http://7jpolu.com1.z0.glb.clouddn.com/baidu_console.png baidu console secret 789 300 %}
 
 ###其他
   * <a href="http://www.amazon.cn/gp/product/B00COG458G/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00COG458G&linkCode=as2&tag=droidyue-23">设计师要懂心理学</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B00COG458G" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />

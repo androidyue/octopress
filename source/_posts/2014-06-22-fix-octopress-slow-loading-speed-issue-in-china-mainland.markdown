@@ -19,7 +19,7 @@ categories: octopress 慢 谷歌 Google godaddy dnspod github 安全宝 Disqus T
 ##清理没用的服务
 以下修改均修改`_config.yml`,以下可以根据自己的需要进行去除。
 ###去除Disqus评论
-{%img http://droidyueimg.qiniudn.com/disques_comments.png %}
+{%img http://7jpolu.com1.z0.glb.clouddn.com/disques_comments.png %}
 去除上面红色区域的部分,打开文件找到`Disqus Comments`，按照下面在每一行前面加**#**注释掉即可。
 ```java
 # Disqus Comments

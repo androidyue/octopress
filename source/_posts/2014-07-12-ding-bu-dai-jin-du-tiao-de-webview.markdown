@@ -11,7 +11,7 @@ categories: Android UI
 示例图如下
 <!--more-->
 
-{%img http://droidyueimg.qiniudn.com/webview_with_progressbar.png webview_with_progressbar %}
+{%img http://7jpolu.com1.z0.glb.clouddn.com/webview_with_progressbar.png webview_with_progressbar %}
 ###主Activity代码
 ```java
 package com.droidyue.demo.webviewprogressbar;

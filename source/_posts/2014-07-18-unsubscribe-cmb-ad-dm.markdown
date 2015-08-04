@@ -10,10 +10,10 @@ categories: 其他
 <!--more-->
 ##招商银行购物类邮件
 购物类广告邮件大概长成这个样子
-{%img http://droidyueimg.qiniudn.com/cmb_ad_mail.png CMB Ads DM %}
+{%img http://7jpolu.com1.z0.glb.clouddn.com/cmb_ad_mail.png CMB Ads DM %}
 ##无法退订!!!
 当我点击邮件中的退订链接,逆天了,这简直是没有人测试啊
-{%img http://droidyueimg.qiniudn.com/cmb_ad_mail_unsubscribe_page.png CMB unsubscripe page %}
+{%img http://7jpolu.com1.z0.glb.clouddn.com/cmb_ad_mail_unsubscribe_page.png CMB unsubscripe page %}
 ##能难倒程序员么
 这段代码简直是太简单了
 ```javascript
@@ -28,7 +28,7 @@ function subEml(flag) {
 }
 ```
 看一下`window.location.search`,结果就是get请求参数
-{%img http://droidyueimg.qiniudn.com/cmb_ad_mail_params.png cmb ad mail params %}
+{%img http://7jpolu.com1.z0.glb.clouddn.com/cmb_ad_mail_params.png cmb ad mail params %}
 
 ##解决方法
 
@@ -42,7 +42,7 @@ function subEml(flag) {
 
 ##退订成功的标志
 再一次无语的退订成功的界面
-{%img http://droidyueimg.qiniudn.com/cmb_ad_mail_unsubscribe_result.png cmd ad mail unsubscribed result %}
+{%img http://7jpolu.com1.z0.glb.clouddn.com/cmb_ad_mail_unsubscribe_result.png cmd ad mail unsubscribed result %}
 
 ###其他
   * <a href="http://www.amazon.cn/gp/product/B00JRUE7VW/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00JRUE7VW&linkCode=as2&tag=droidyue-23">白岩松:行走在爱与恨之间</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B00JRUE7VW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
