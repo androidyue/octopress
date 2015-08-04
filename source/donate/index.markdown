@@ -9,9 +9,9 @@ footer: true
 Hi，请考虑捐赠支持域名费用和七牛CDN费用。您的支持将鼓励我继续创作！
 ##来点俗的
 ###微信
-<img src="http://droidyueimg.qiniudn.com/weixin_pay.jpg" width="218" title="Donate for me" class="no_boarder_class">
+<img src="http://7jpolu.com1.z0.glb.clouddn.com/weixin_pay.jpg" width="218" title="Donate for me" class="no_boarder_class">
 ###支付宝
-{%img http://droidyueimg.qiniudn.com/alipay.JPG Donate By AliPay %}
+{%img http://7jpolu.com1.z0.glb.clouddn.com/alipay.JPG Donate By AliPay %}
 
 ###Paypal
 
