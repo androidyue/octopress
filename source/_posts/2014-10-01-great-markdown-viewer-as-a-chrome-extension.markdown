@@ -26,7 +26,3 @@ categories: 效率 Markdown Chrome
   * [Chrome Store 地址](https://chrome.google.com/webstore/detail/markdown-reader/gpoigdifkoadgajcincpilkjmejcaanc)
   * [Github开源仓库](https://github.com/yaniswang/markdownReader)
 
-###其他
-  * <a href="http://www.amazon.cn/gp/product/B0051EEQWS/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B0051EEQWS&linkCode=as2&tag=droidyue-23">别告诉我你会记笔记</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B0051EEQWS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-  * <a href="http://www.amazon.cn/gp/product/B006BPPKZ8/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B006BPPKZ8&linkCode=as2&tag=droidyue-23">超级整理术:工作效率是整理出来的</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B006BPPKZ8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-  * <a href="http://www.amazon.cn/gp/product/B004O9F71K/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B004O9F71K&linkCode=as2&tag=droidyue-23">番茄工作法图解:简单易行的时间管理方法</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B004O9F71K" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
