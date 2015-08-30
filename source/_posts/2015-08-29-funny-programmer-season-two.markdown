@@ -39,3 +39,4 @@ categories: 幽默
 ##原文信息
   * [http://howtodoinjava.com/2013/03/22/life-of-a-programmer-in-pictures-part-2/](http://howtodoinjava.com/2013/03/22/life-of-a-programmer-in-pictures-part-2/)
 
+{% include post/qiniu_donate.html %}

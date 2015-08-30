@@ -59,3 +59,5 @@ categories: 幽默
 ##我的正则表达式写对了
 
 {% img http://7xkt4i.com1.z0.glb.clouddn.com/when-your-regular-expression-returns-what-you-expect.gif %}
+
+{% include post/qiniu_donate.html %}
