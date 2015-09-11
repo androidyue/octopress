@@ -7,10 +7,18 @@ sharing: true
 footer: true
 ---
 
-[订阅地址](/atom.xml)
+订阅地址:http://droidyue.com/atom.xml
 
-[捐赠支持更好创作！](/donate/)
+<script type="text/javascript" src="http://1.toolite.sinaapp.com/droidyue_com/subscribe_books.js" charset="utf-8"></script>
+
+<script type="text/javascript">
+	var subscribeBooks = sortJsonObject(makeSubscribeBookDataSource());
+	displaySection(shouldDisplaySubscribeBook(), isSubscribeBookInDebug(), subscribeBooks, makeSubscribeBookPrefix(), makeSubscribeBookSuffix());
+</script>
+
 
 ###推荐订阅
   * [Android开发技术周报](http://androidweekly.cn/)
+  
+
 
