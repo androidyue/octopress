@@ -14,7 +14,7 @@ codota是一个查找可供参考的Android工程的网站，它的爬虫已经�
 地址:[codota,Find Great Code Examples](http://www.codota.com/)
 
 ##Android军火库
-android-arsenal，中文意思 Android军火库，里面手机了Android中的SDK，Library以及Android开发的工具，满满的干货。有木有一种想见恨晚的赶脚，快来加入书签吧。
+android-arsenal，中文意思 Android军火库，里面收集了Android中的SDK，Library以及Android开发的工具，满满的干货。有木有一种想见恨晚的赶脚，快来加入书签吧。
 
 地址:[The Android Arsenal - A categorized directory of free libraries and tools for Android](http://android-arsenal.com/)   
 
