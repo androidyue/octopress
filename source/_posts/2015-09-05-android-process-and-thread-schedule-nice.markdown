@@ -120,5 +120,7 @@ I/MainActivity( 3679): Java Thread Priority=5
 ##避免ANR
 我在之前的文章[说说Android中的ANR](http://droidyue.com/blog/2015/07/18/anr-in-android/)中提到使用WorkerThread处理耗时IO操作，同时将WorkerThread的优先级降低，对于耗时IO操作，比如读取数据库，文件等，我们可以设置该workerThread优先级为THREAD_PRIORITY_BACKGROUND，以此降低与主线程竞争的能力。
 
-
+###同系列文章
+  * [剖析Android中进程与线程调度之cgroups](/blog/2015/09/17/android-process-and-thread-schedule-cgroups/?droid_refer=series)
+  
 {%include post/book_copyright.html %}
