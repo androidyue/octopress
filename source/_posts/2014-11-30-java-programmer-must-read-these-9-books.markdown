@@ -3,7 +3,7 @@ layout: post
 title: "9本Java程序员必读的书"
 date: 2014-11-30 10:38
 comments: true
-categories: Java
+categories: Java 书籍
 ---
 本文列出的9本书在Java程序员界都是被认为很棒的书。当一个程序员开始初学Java时，他的第一个问题应该是如何选择一本书来作为指导学习Java。这个问题也就表明，相对于其他的教程和博客，Java书籍还是很重要的参考，主要表现在以下两点
 
@@ -16,19 +16,19 @@ categories: Java
 {%img left http://7jpolu.com1.z0.glb.clouddn.com/head_first_java.jpg head first java %}
 
 Head First Java是所有编程或者Java初学者最适合的书籍，我很喜欢轻松和寓教于乐的Head First风格，这应该是最有意思的关于Java的书。无论是初级，中级还是高级都能从中有所收获。学习本书，你可以了解到类，对象，线程，集合等编程知识，还可以了解到泛型，枚举，可变参数和自动装箱等语言特性。本书中还涉及到了Java高级编程中的Swing，网络编程，IO操作等，可以让初学者对Java有比较完整地概念。如果你是一位Java初学者，不要犹豫，这本书最适合你了。  
-查看详细: [亚马逊](http://www.amazon.cn/gp/product/B0011ESWGI/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B0011ESWGI&linkCode=as2&tag=droidyue-23)
+查看详细: [Head First Java](http://redirect.simba.taobao.com/rd?w=unionnojs&f=http%3A%2F%2Fai.taobao.com%2Fauction%2Fedetail.htm%3Fe%3DJhVGym3TN5rghojqVNxKsZHCzDwyVuo7Kww%252BJCCRHnuLltG5xFicOdXrTUTgh9sMDPIwxrc30ri8nc0fL4TGokWbbNPSehpRHMUeRChy%252FdaFJWU9wpkoTW3abJM7sDg2ummTnIzIgQfBnMj5UYniOg%253D%253D%26ptype%3D100010%26from%3Dbasic&k=5ccfdb950740ca16&c=un&b=alimm_0&p=mm_58471937_7778121_26116191)
 
 ##Head First 设计模式
 {%img left http://7jpolu.com1.z0.glb.clouddn.com/head_first_design_patterns.jpg head first design pattern %}
 Head First设计模式又是一部Head First系列的书籍。作者为Kathy Sierra及其团队。当我在2006年开始读这本书的时候，我对设计模式并不是很了解。设计模式解决什么问题，怎么解决问题，如何使用设计模式，设计模式有什么好处，这些问题我几乎都无法回答出来。但是当我读完这本书的时候，一切都豁然开朗。在本书介绍继承和组合一章，使用简单有趣的例子，一步一步提出问题并解决问题，最终得出最优解。本书中会有很多要点总结，幽默对话，练习题还有有名的单词接龙等帮助你更好地了解设计模式。如果你想了解Java中的设计模式，请带走这本书。  
-查看详细：[亚马逊](http://www.amazon.cn/gp/product/B0011FBU34/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B0011FBU34&linkCode=as2&tag=droidyue-23) 
+查看详细：[Head First 设计模式](http://redirect.simba.taobao.com/rd?w=unionnojs&f=http%3A%2F%2Fai.taobao.com%2Fauction%2Fedetail.htm%3Fe%3Dd22qK7IAfB%252FghojqVNxKsb%252B5gaqOYaE0LkbXnAd2OqmLltG5xFicOdXrTUTgh9sMDPIwxrc30ri8nc0fL4TGokWbbNPSehpRHMUeRChy%252FdaFJWU9wpkoTW3abJM7sDg2JU5OpbeFS9pqurImiC7qcw%253D%253D%26ptype%3D100010%26from%3Dbasic&k=5ccfdb950740ca16&c=un&b=alimm_0&p=mm_58471937_7778121_26116191) 
 
 ##Effective Java
 {%img left http://7jpolu.com1.z0.glb.clouddn.com/effective_java.jpg Effective Java %}
 Effective Java这本书也是一本我最喜欢的。本书为领导开发Java集合框架和并发API包的 约书亚·布洛克 大神所著。本书适合于有着数年开发经验Java程序员，通过本书我们可以很多编程中的最佳实践，并且可以从JDK贡献者布洛克大神这里汲取经验。Effective Java从质量，内容和问题解答方式上来说都是一本评价很高的书，因此读这本书会是一种感觉很棒的体验。另外本书的章节相对比较轻量，与其他章节耦合度较低，因此在旅行或者闲暇时间阅读也是可以的。在内容方面，Effective Java包含了从静态工厂，序列化，equals和hashcode到泛型，枚举，可变参数以及反射的最佳解决方法。本书对Java各方面知识点的讲解会让你受益匪浅。  
-查看详细：[亚马逊](http://www.amazon.cn/gp/product/B001PTGR52/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B001PTGR52&linkCode=as2&tag=droidyue-23) 
+查看详细：[Effective Java](http://redirect.simba.taobao.com/rd?w=unionnojs&f=http%3A%2F%2Fai.taobao.com%2Fauction%2Fedetail.htm%3Fe%3D3b9mxPxkLEHebLdhAWchHIPQrncw5ZIo8nBOXRi6ylDlL1tPWpvWRP7gvmtLyoa3Dlg3nJM8sR%252FgLEqzBf9Q%252FdU0r%252FsIKgcHzLc6mJZKgydy8Z2%252FWeo6%252FfbOH4f91N17BmgYK6mH%252FjOCG9w1qAQrfg%253D%253D%26ptype%3D100010%26from%3Dbasic&k=5ccfdb950740ca16&c=un&b=alimm_0&p=mm_58471937_7778121_26116191) 
 
-##Concurrency Practice in Java
+##Java并发编程实战
 {%img left http://7jpolu.com1.z0.glb.clouddn.com/java_concurrency_in_practice.jpg Concurrency Practice in Java %}
 又一部 约书亚·布洛克 大神的经典之作，当然本书的另一位主作者为 Doug Lea（影响两次Java历史上的大变革的大神）。这本书几乎就是Java并发和多线程编程方面的权威，同时也是核心Java开发人员必读的一本书。本书的强大主要表现在
 
@@ -37,17 +37,17 @@ Effective Java这本书也是一本我最喜欢的。本书为领导开发Java�
   * 书中的例子简明扼要清晰，很能描述问题。
   * 解释明确：本书很好地解释了什么是错的，为什么错，怎样改正。这也是本书畅销的原因之一。
 
-查看详细：[亚马逊](http://www.amazon.cn/gp/product/0321349601/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=0321349601&linkCode=as2&tag=droidyue-23)  
+查看详细：[Java并发编程实战](http://redirect.simba.taobao.com/rd?w=unionnojs&f=http%3A%2F%2Fai.taobao.com%2Fauction%2Fedetail.htm%3Fe%3DYAIelkB5tcHghojqVNxKsSuEVJJNMzwERfbtQaszFx6LltG5xFicOdXrTUTgh9sMDPIwxrc30ri8nc0fL4TGokWbbNPSehpRHMUeRChy%252FdaFJWU9wpkoTW3abJM7sDg2AbVNJixJGseWdwoF8TjZ%252FA%253D%253D%26ptype%3D100010%26from%3Dbasic&k=5ccfdb950740ca16&c=un&b=alimm_0&p=mm_58471937_7778121_26116191)  
 
 ##Java Generics and Collections
 {%img left http://7jpolu.com1.z0.glb.clouddn.com/java_generics_and_collections.jpeg Java Generics and Collections %}
 这本书是来自O'Reilly的一本成功之作，作者为Naftalin和Philip Wadler。正如书名可知，这本书的内容关注于泛型和集合这两个Java语言的核心方面。本书对于那些有编程经验的程序员加强对集合和泛型的理解和掌握有很大的帮助。本书详细介绍了每一个集合的API，Set, List, Map, Queue，以及他们的实现，对比不同场景下它们的性能优劣。每个章节最后的对比图表很不错。  
 查看详细:[亚马逊](http://www.amazon.cn/gp/product/0596527756/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=0596527756&linkCode=as2&tag=droidyue-23) 
 
-##Java performance 
+##Java性能优化权威指南
 {%img left http://7jpolu.com1.z0.glb.clouddn.com/java_performance.jpg Java performance %}
 本书为我个人的最爱，本书重点关注性能监视，性能剖析以及如何使用工具对性能分析。本书不同于其他的编程书籍，因为本书中涉及到很多Java虚拟机的细节，垃圾回收机制，Java堆内存监视以及对程序性能剖析。其中讲述JVM的章节写的很不错，很值得咀嚼。注意，这本书属于编程高级层次，阅读需要具有足够的Java编程经验。初级和中级Java开发者也可以阅读本书也会学到不同程度的干货。所以，你想进行性能调优，把这本书放到你的书架上吧。  
-查看详细:[亚马逊](http://www.amazon.cn/gp/product/0137142528/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=0137142528&linkCode=as2&tag=droidyue-23)
+查看详细:[Java性能优化权威指南](http://redirect.simba.taobao.com/rd?w=unionnojs&f=http%3A%2F%2Fai.taobao.com%2Fauction%2Fedetail.htm%3Fe%3DiksDrrPbmjMjmraEDZVrLgR6VrfhqT%252FJoDkB4aIdoR2LltG5xFicOdXrTUTgh9sMDPIwxrc30ri8nc0fL4TGokWbbNPSehpRHMUeRChy%252FdaFJWU9wpkoTW3abJM7sDg28b%252Fjfefc9VPPP2or5WFdog%253D%253D%26ptype%3D100010%26from%3Dbasic&k=5ccfdb950740ca16&c=un&b=alimm_0&p=mm_58471937_7778121_26116191)
 
 ##Java Puzzlers
 {%img left http://7jpolu.com1.z0.glb.clouddn.com/java_puzzlers.jpg Java Puzzlers %}
@@ -62,19 +62,19 @@ Effective Java这本书也是一本我最喜欢的。本书为领导开发Java�
 ##Thinking in Java
 {%img left http://7jpolu.com1.z0.glb.clouddn.com/thinking_in_java.jpg Thinking in Java %}
 Thinking in Java book应该是Java中文界最有名的书籍了，中文又名 Java编程思想。作者为Bruce Eckel，他也是Thinking in C++的作者，他用自己很独特的观点讲述了Java。据我所知，这本书获得了很高的认可，本书是一本介绍齐全的Java学习参考书。如果你不喜欢Head First类似小人书那样的讲解，可以尝试这本书。本书的内容讲解详细，成熟（相对Head First有种教科书的感觉）。  
-查看详细:[亚马逊](http://www.amazon.cn/gp/product/B0011F7WU4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B0011F7WU4&linkCode=as2&tag=droidyue-23) 
+查看详细:[Thinking in Java](http://redirect.simba.taobao.com/rd?w=unionnojs&f=http%3A%2F%2Fai.taobao.com%2Fauction%2Fedetail.htm%3Fe%3DijgnlFWIMzPebLdhAWchHE8l7z4JzB29YS9AVrmcovTlL1tPWpvWRP7gvmtLyoa3Dlg3nJM8sR%252FgLEqzBf9Q%252FdU0r%252FsIKgcHzLc6mJZKgydy8Z2%252FWeo6%252FfbOH4f91N17tvp9kTqVr0mCG9w1qAQrfg%253D%253D%26ptype%3D100010%26from%3Dbasic&k=5ccfdb950740ca16&c=un&b=alimm_0&p=mm_58471937_7778121_26116191) 
 
 ##Java程序员修炼之道
 {%img left http://7jpolu.com1.z0.glb.clouddn.com/java_programming_xiulianzhidao.jpg %}
 《Java程序员修炼之道》分为四部分，第一部分全面介绍Java 7的新特性，第二部分探讨Java关键编程知识和技术，第三部分讨论JVM上的新语言和多语言编程，第四部分将平台和多语言编程知识付诸实践。从介绍Java 7的新特性入手，《Java程序员修炼之道》涵盖了Java开发中最重要的技术，比如依赖注入、测试驱动的开发和持续集成，探索了JVM上的非Java语言，并详细讲解了多语言项目， 特别是涉及Groovy、Scala和Clojure语言的项目。此外，书中含有大量代码示例，帮助读者从实践中理解Java语言和平台。《Java程序员修炼之道》适合Java开发人员以及对Java7和JVM新语言感兴趣的各领域人士阅读。
 查看详细：
-[亚马逊](http://www.amazon.cn/gp/product/B00E0D2OX4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00E0D2OX4&linkCode=as2&tag=droidyue-23) 
+[Java程序员修炼之道](http://redirect.simba.taobao.com/rd?w=unionnojs&f=http%3A%2F%2Fai.taobao.com%2Fauction%2Fedetail.htm%3Fe%3DkGNvG2KL47HghojqVNxKsW5FbSs5nDEmwjKxcthiwdCLltG5xFicOdXrTUTgh9sMDPIwxrc30ri8nc0fL4TGokWbbNPSehpRHMUeRChy%252FdaFJWU9wpkoTW3abJM7sDg2KsImIr9uPSdQdrr7YpGMZA%253D%253D%26ptype%3D100010%26from%3Dbasic&k=5ccfdb950740ca16&c=un&b=alimm_0&p=mm_58471937_7778121_26116191) 
 
 ##Java核心技术
 {%img left http://7jpolu.com1.z0.glb.clouddn.com/java_core_218.jpg %}
 Java领域最有影响力和价值的著作之一，拥有20多年教学与研究经验的资深Java技术专家撰写（获Jolt大奖），与《Java编程思想》齐名，10余年全球畅销不衰，广受好评。）根据Java SE 7全面更新，系统全面讲解Java语言的核心概念、语法、重要特性和开发方法，包含大量案例，实践性强。
 
-查看详细：[亚马逊](http://www.amazon.cn/gp/product/B00IK7SM6O/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00IK7SM6O&linkCode=as2&tag=droidyue-23)
+查看详细：[Java核心技术](http://redirect.simba.taobao.com/rd?w=unionnojs&f=http%3A%2F%2Fai.taobao.com%2Fauction%2Fedetail.htm%3Fe%3Dz4c25NgbpSgjmraEDZVrLrB5Xx%252FFpYMQWUgXPn%252FBwdSLltG5xFicOdXrTUTgh9sMDPIwxrc30ri8nc0fL4TGokWbbNPSehpRHMUeRChy%252FdaFJWU9wpkoTW3abJM7sDg2QygFuKGew3qeDNMFId0AEQ%253D%253D%26ptype%3D100010%26from%3Dbasic&k=5ccfdb950740ca16&c=un&b=alimm_0&p=mm_58471937_7778121_26116191)
 
 这就是我的关于Java编程相关的推荐的书，这些都可以说是看成经典中的经典。像Effective Java 和 Head First 系列我已经反复阅读了很多遍。相信看完本文，根据自己的水平和想要提升的知识侧重，你应该能选出最适合自己的书了。
 
