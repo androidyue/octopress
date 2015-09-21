@@ -18,7 +18,9 @@ footer: true
 
 
 ###推荐订阅
+  * [码农周刊](http://weekly.manong.io/)
   * [Android开发技术周报](http://androidweekly.cn/)
+  
   
 
 
