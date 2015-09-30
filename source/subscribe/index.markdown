@@ -13,7 +13,7 @@ footer: true
 
 <script type="text/javascript">
 	var subscribeBooks = sortJsonObject(makeSubscribeBookDataSource());
-	displaySection(shouldDisplaySubscribeBook(), isSubscribeBookInDebug(), subscribeBooks, makeSubscribeBookPrefix(), makeSubscribeBookSuffix());
+	displaySection(shouldDisplaySubscribeBook(), isSubscribeBookInDebug(), subscribeBooks, makeSubscribeBookPrefix(), makeSubscribeBookSuffix(), sDroidSubscribeClass);
 </script>
 
 

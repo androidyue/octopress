@@ -33,7 +33,7 @@ Hi，请考虑捐赠支持域名费用和七牛CDN费用。您的支持将鼓励
 
 <script type="text/javascript" src="http://1.toolite.sinaapp.com/droidyue_com/invite_data_source.js" charset="utf-8"></script>
 <script type="text/javascript">
-    	displaySection(shouldDisplayInvitation(), isInvitationInDebug(), makeInvitationDataSource(), makeInvitationPrefix(), makeInvitationSuffix());
+    	displaySection(shouldDisplayInvitation(), isInvitationInDebug(), makeInvitationDataSource(), makeInvitationPrefix(), makeInvitationSuffix(), sDroidInvitationClass);
 </script>
 
 ##也不想点击链接
