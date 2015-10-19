@@ -33,3 +33,5 @@ categories: 幽默
 
 ##原文参考
   * [http://howtodoinjava.com/2013/04/01/life-of-a-programmer-in-pictures-part-3/](http://howtodoinjava.com/2013/04/01/life-of-a-programmer-in-pictures-part-3/)
+
+{% include post/funny_programmer_series.html %}
