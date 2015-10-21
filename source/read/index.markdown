@@ -10,9 +10,6 @@ footer: true
 
 <div id="ganhuo_today"></div>
 
-关注我的微信公众号，每日轻松获取推送消息。 
- 
-{%img http://7jpolu.com1.z0.glb.clouddn.com/weixin_gongzhong_250.jpg %}
 
 了解更多，请阅读[今日值得读，悄悄上线了](http://droidyue.com/blog/2015/10/11/great-reading-articles-today/?from=post)
 
