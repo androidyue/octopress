@@ -1,8 +1,10 @@
 <html>
 	<link href="http://1.toolite.sinaapp.com/css/new_donate.css"  rel="stylesheet" type="text/css">
 	<script type="text/javascript" src="http://1.toolite.sinaapp.com/droidyue_com/donate_data.js" charset="utf-8"></script>
+	
 	<div class="donate_widget">
-		<div style="text-align: center;font-size:20px;">文章不错？ 微信打赏辛勤的博主</div></br>
+		<br/>
+		<div style="text-align: center;font-size:20px;"><script type="text/javascript">document.write(getDonateTips());</script></div></br>
 		<input class="donate_item" id="donate_item_first" type="button"  value="5.12元">
 		<input class="donate_item" id="donate_item_second" type="button"  value="10.24元">
 		<input class="donate_item" id="donate_item_third" type="button"  value="20.48元">
@@ -14,49 +16,5 @@
 	</div>
 
 
-	<script type="text/javascript">
-		var lastDialogShownTime;
-		if (shouldDisplayDonate()) {
-			var elements = document.getElementsByClassName('donate_widget');
-			if (elements.length > 0) {
-				elements[0].style.display='block';
-			}
-		}
-
-		function controlDonateDialog(shouldShow) {
-			//console.info("controlDonateDialog shouldShow=" + shouldShow);
-			var dialogElement = document.getElementById("donate_dialog");
-			if (shouldShow) {
-				dialogElement.style.visibility='visible'
-				dialogElement.style.opacity = 1;
-				lastDialogShownTime = Date.now() / 1000;
-			} else {
-				dialogElement.style.visibility='hidden';
-				dialogElement.style.opacity = 0;
-				
-				displayTime =  Math.floor(Date.now() / 1000 - lastDialogShownTime);
-				console.info('displayTime= ' + displayTime);
-				if (displayTime > 8) {
-					_hmt.push(['_trackEvent', 'donate', 'donate_success_time=' + displayTime + ';value=' + this.value + ';ref=' + getReferHost()]);
-				}
-			}
-		
-		}
-
-		var elements = document.getElementsByClassName('donate_item');
-		for (var index in elements) {
-			elements[index].onmouseover = function() {
-				var dialogElement = document.getElementById("donate_dialog");
-				document.getElementById('donate_img').src= donateImages[this.id];
-				controlDonateDialog(true);
-				_hmt.push(['_trackEvent', 'donate', 'donate_' + this.value + ';ref=' + getReferHost()]);
-			}
-
-			elements[index].onmouseout = function() {
-				controlDonateDialog(false);
-			}
-		}
-
-
-	</script>
+	<script type="text/javascript" src="http://1.toolite.sinaapp.com/donate/donate_widget.js" charset="utf-8"></script>
 </html>
