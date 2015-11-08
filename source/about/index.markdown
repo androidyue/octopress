@@ -27,7 +27,7 @@ footer: true
   * 非技术相关的思考和胡思乱想天马星空记录
 
 ##关于我
-  * Android 工程师, [Infoq译者](http://www.infoq.com/cn/author/%E6%AE%B5%E5%BB%BA%E5%8D%8E)
+  * Android 工程师, [Infoq译者](http://www.infoq.com/cn/author/%E6%AE%B5%E5%BB%BA%E5%8D%8E), [2015 GDG Devfest讲师](http://chinagdg.org/2015-devfest-beijing/)
   * 不是90后，89年出生的保定人在北京
   * 喜欢终端上完成操作，对GUI有点偏见
   * 一个优秀的程序员应该是一位艺术家，其代码不可增不可减。
