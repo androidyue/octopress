@@ -96,6 +96,47 @@ dalvik.vm.heapminfree对应的是-XX:HeapMinFree配置，用来设置单次堆�
 
 除上面的情况，如果仅仅是为了解决OutOfMemoryError这样的问题，而尝试使用largeHeap分配更大内存的这种指标不治本的方法不可取。对待这样的OOM问题，建议阅读以下几篇文章，了解Android中内存泄露和垃圾回收，从代码上去查找问题，从根本上解决问题。
 
+##补漏
+感谢大牛[裸奔的凯子哥](http://weibo.com/u/1783932377?topnav=1&wvr=6&topsug=1)指出。
+
+无论是否开启largeHeap，ActivityManager.getLargeMemoryClass()都可以打印出largeHeap的大小。因为其本身只是读取了配置文件的值而已。即下面的代码无论largeHeap开启与否，打印出来的日志都相同
+```java
+		ActivityManager activityManager = (ActivityManager) getSystemService(ACTIVITY_SERVICE);
+
+        int largeMemoryClass = activityManager.getLargeMemoryClass();
+        int memoryClass = activityManager.getMemoryClass();
+
+        ActivityManager.MemoryInfo info = new ActivityManager.MemoryInfo();
+        activityManager.getMemoryInfo(info);
+
+        Log.d(LOGTAG, "largeMemoryClass = " + largeMemoryClass);
+        Log.d(LOGTAG, "memoryClass = " + memoryClass);
+```
+
+###如何验证
+关于如何验证，这里设置一个按钮，每次创建100M的内存对象，观察开启largeHeap前后的反应
+```java
+private ArrayList<byte[]> mLeakyContainer = new ArrayList<>();
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+        findViewById(R.id.testBtn).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                byte[] b = new byte[100 * 1000 * 1000];
+                mLeakyContainer.add(b);
+            }
+        });
+        testMemoryInfo();
+    }
+```
+
+  * 以正常情况下可用192M内存为例，点击两次按钮，应用崩溃。
+  * 然后在manifest开启largeHeap，以最大512M内存可用为例，点击6次应用崩溃
+
+验证源码可以访问github查看[largeHeapDemo](https://github.com/androidyue/largeHeapDemo)
+
 ##推荐文章
   * [Android中Handler引起的内存泄露](http://droidyue.com/blog/2014/12/28/in-android-handler-classes-should-be-static-or-leaks-might-occur/)
   * [避免Android中Context引起的内存泄露](http://droidyue.com/blog/2015/04/12/avoid-memory-leaks-on-context-in-android/)
