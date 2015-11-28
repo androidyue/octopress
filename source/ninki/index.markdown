@@ -14,4 +14,4 @@ footer: true
 	bestPosts = shuffleJsonObject(bestPosts);
 	displaySection(shouldDisplayBestPosts(), isBestPostsInDebug(), bestPosts, '<section>', makeBestPostsSuffix(), sDroidBestPostsClass);
 </script>
-
+<script type="text/javascript" src="http://toolite.sinaapp.com/droidyue_com/post_bannder.js"></script>
