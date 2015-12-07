@@ -103,7 +103,7 @@ public static String getProcessName(Context appContext) {
     return currentProcessName;
 }
 ```
-判断主进程，则对比进程名是否和报名相同即可
+判断主进程，则对比进程名是否和包名相同即可
 ```java
 mAppContext.getPackageName().equals(processName)
 ```
