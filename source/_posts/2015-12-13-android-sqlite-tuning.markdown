@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android中SQLite操作性能优化"
+title: "Android 中 SQLite 性能优化"
 date: 2015-12-13 17:38
 comments: true
 categories: Android
