@@ -59,7 +59,7 @@ public class SampleActivity extends Activity {
 
 注意上面的new Runnable这里也是匿名内部类实现的，同样也会持有SampleActivity的引用，也会阻止SampleActivity被回收。
 
-要解决这种问题，思路就是不适用非静态内部类，继承Handler时，要么是放在单独的类文件中，要么就是使用静态内部类。因为静态的内部类不会持有外部类的引用，所以不会导致外部类实例的内存泄露。当你需要在静态内部类中调用外部的Activity时，我们可以使用[弱引用](http://droidyue.com/blog/2014/10/12/understanding-weakreference-in-java/)来处理。另外关于同样也需要将Runnable设置为静态的成员属性。注意：一个静态的匿名内部类实例不会持有外部类的引用。 
+要解决这种问题，思路就是避免使用非静态内部类，继承Handler时，要么是放在单独的类文件中，要么就是使用静态内部类。因为静态的内部类不会持有外部类的引用，所以不会导致外部类实例的内存泄露。当你需要在静态内部类中调用外部的Activity时，我们可以使用[弱引用](http://droidyue.com/blog/2014/10/12/understanding-weakreference-in-java/)来处理。另外关于同样也需要将Runnable设置为静态的成员属性。注意：一个静态的匿名内部类实例不会持有外部类的引用。 
 修改后不会导致内存泄露的代码如下
 
 ```java
