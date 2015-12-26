@@ -78,3 +78,10 @@ addLinkHref('taobao_link', getTaobaoRefer());
 addLinkHref('tmall_link', getTmallRefer());
 addLinkHref('amazon_link', getAmazonRefer());
 </script>
+
+
+
+
+
+<script type="text/javascript">var jd_union_unid="331185104",jd_ad_ids="506:6",jd_union_pid="CNCfieOdKhDQ9/WdARoAINHT7LQBKgA=";var jd_width=760;var jd_height=90;var jd_union_euid="";var p="ABQPVhxdEQAVNwpfBkgyTUMIRmtKRk9aZV8ETVxNNwpfBkgyR2YKWi1dVFpkIhglQlBHBVVfA3VWcgtZK1kTChEBVRhaFDIQBVUbUhECEwJlKwRRX083HnVaJV1WWggrWxAGEgdUG14UChEFVyta";</script><script type="text/javascript" charset="utf-8" src="http://u.x.jd.com/static/js/auto.js"></script>
+<a data-type="3" data-tmpl="800x90" data-tmplid="195" data-rd="2" data-style="2" data-border="1" href="#"></a>
