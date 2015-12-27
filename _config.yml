@@ -8,7 +8,7 @@ subtitle:
 author: androidyue 
 simple_search: http://google.com/search
 description: "技术小黑屋，一个关于Android和Java有态度的分享博客"
-keywords: "Java,Android,Linux,Python"
+keywords: "Java,Android,Linux,Python,内存泄露，性能优化，最键实践"
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
