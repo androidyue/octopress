@@ -39,6 +39,10 @@ footer: true
 	function getAmazonRefer() {
 		return 'http://www.amazon.cn/?_encoding=UTF8&camp=536&creative=3200&linkCode=ur2&tag=droidyue-23';
 	}
+	
+	function getSuningRefer() {
+		return 'https://sucs.suning.com/visitor.htm?userId=7015177&webSiteId=0&adInfoId=0&adBookId=0&channel=14&vistURL=http://chaoshi.suning.com/';
+	}
 </script>
 
 这是一个购物网站的列表，欢迎从下面网站购物，得到的佣金将用于技术小黑屋网站的日常费用。<br/>
@@ -49,6 +53,8 @@ footer: true
 	<div class="masonry-item masonry-item-height3 taobao"><a id="taobao_link" href="">淘宝</a></div>
 	<div class="masonry-item masonry-item-height2 tmall"><a id="tmall_link">天猫</a></div>
 	<div class="masonry-item masonry-item-height3 amazon"><a id="amazon_link">亚马逊</a></div>
+	<div class="masonry-item masonry-item-height3 suning"><a id="suning_link">苏宁易购</a></div>
+
 
 </div>
 
@@ -77,6 +83,7 @@ addLinkHref('jd_link', getJDRefer());
 addLinkHref('taobao_link', getTaobaoRefer());
 addLinkHref('tmall_link', getTmallRefer());
 addLinkHref('amazon_link', getAmazonRefer());
+addLinkHref('suning_link', getSuningRefer());
 </script>
 
 
