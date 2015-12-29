@@ -91,4 +91,10 @@ addLinkHref('suning_link', getSuningRefer());
 
 
 <script type="text/javascript">var jd_union_unid="331185104",jd_ad_ids="506:6",jd_union_pid="CNCfieOdKhDQ9/WdARoAINHT7LQBKgA=";var jd_width=760;var jd_height=90;var jd_union_euid="";var p="ABQPVhxdEQAVNwpfBkgyTUMIRmtKRk9aZV8ETVxNNwpfBkgyR2YKWi1dVFpkIhglQlBHBVVfA3VWcgtZK1kTChEBVRhaFDIQBVUbUhECEwJlKwRRX083HnVaJV1WWggrWxAGEgdUG14UChEFVyta";</script><script type="text/javascript" charset="utf-8" src="http://u.x.jd.com/static/js/auto.js"></script>
+<div style="position: relative; display: inline; border: none; padding: 0px; margin: 0px; visibility: visible; overflow: hidden;">
+<script type="text/javascript">
+    var allyes_siteid='4579', allyes_output=1, allyes_channedid='5274',allyes_ad_width='760',allyes_ad_height='100',allyes_adspaceid='347-dXNlcklkPTcwMTUxNzcmd2ViU2l0ZUlkPTUwMDEzMyZhZEluZm9JZD0wJmFkQm9va0lkPTEwMTA2NCZjaGFubmVsPTk4JnI9MTQ1MTM5NjY2MzIyNA==', allyes_host_addr='mmae.qtmojo.com';
+</script>
+<script id="allyes_mm_ad_4579_5274_347-dXNlcklkPTcwMTUxNzcmd2ViU2l0ZUlkPTUwMDEzMyZhZEluZm9JZD0wJmFkQm9va0lkPTEwMTA2NCZjaGFubmVsPTk4JnI9MTQ1MTM5NjY2MzIyNA==" type="text/javascript" src="http://1.qtmojo.com/mediamax/MediaMax.js"></script>
+</div>
 <a data-type="3" data-tmpl="800x90" data-tmplid="195" data-rd="2" data-style="2" data-border="1" href="#"></a>
