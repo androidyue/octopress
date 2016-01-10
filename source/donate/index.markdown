@@ -7,10 +7,10 @@ sharing: true
 footer: true
 ---
 Hi，请考虑捐赠支持域名费用和七牛CDN费用。您的支持将鼓励我继续创作！
-##来点俗的
-###微信
+
+###微信（金额随意）
 <img src="http://7jpolu.com1.z0.glb.clouddn.com/weixin_pay.jpg" width="218" title="Donate for me" class="no_boarder_class">
-###支付宝
+###支付宝（金额随意）
 {%img http://7jpolu.com1.z0.glb.clouddn.com/alipay.JPG Donate By AliPay %}
 
 ###Paypal
@@ -28,23 +28,11 @@ Hi，请考虑捐赠支持域名费用和七牛CDN费用。您的支持将鼓励
 </form>
 
 
-##点击链接
-如果不想来点直接，俗一点儿的话，请点击如下链接购物或注册
-
-<script type="text/javascript" src="http://1.toolite.sinaapp.com/droidyue_com/invite_data_source.js" charset="utf-8"></script>
-<script type="text/javascript">
-    	displaySection(shouldDisplayInvitation(), isInvitationInDebug(), makeInvitationDataSource(), makeInvitationPrefix(), makeInvitationSuffix(), sDroidInvitationClass);
-</script>
-
-##也不想点击链接
+##滴滴红包
 那就扫描一下滴滴打车二维码，你我都获得30元红包
 
 {%img http://7jpolu.com1.z0.glb.clouddn.com/didi_invite.png %}
 
+##网购引导
+[小黑屋血拼](http://droidyue.com/buy)
 
-##也不想扫码
-那么就点击下面的分享将我的网站分享一下，或者点击右侧的Google +1图标为我+1。
-
-
-##什么都不想
-哈哈，那么请多花时间研究技术，尝试写一些博客吧。如若不嫌弃，可以[加我为好友](http://droidyue.com/about/)。
