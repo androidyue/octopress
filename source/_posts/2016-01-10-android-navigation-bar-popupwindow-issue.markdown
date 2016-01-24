@@ -42,5 +42,14 @@ private void showPopupWindow() {
 ##修改好的效果
 ![Good PopupWindow](http://7jpolu.com1.z0.glb.clouddn.com/navigation_bar_good.png)
 
+##更佳的方法
+感谢来自Github的网友提出了一个更优秀的方案。很简单，设置如下代码即可
+```java
+popupWindow.setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_ADJUST_RESIZE);
+```
+注意：这个方法不会影响到状态栏的颜色改变，而第一种方法会。
+
+
+
 ##demo源码
 [Navigation Bar Issue Demo](https://github.com/androidyue/Navigation-Bar-Issue-Demo)
