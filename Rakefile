@@ -225,6 +225,7 @@ task :deploy do
   atom2rssDir = '~/osc_git/php_works/'
   system "php #{atom2rssDir}/atom2rss.php #{public_dir}/atom.xml #{atom2rssDir}/atom2rss.xsl #{public_dir}/rss.xml"
   Rake::Task["#{deploy_default}"].execute
+  system "bash /home/androidyue/common_tools/qiniu/sync_github_to_qiniu.sh"
 end
 
 desc "Generate website and deploy"
