@@ -12,7 +12,7 @@ Android提供了很多控件便于开发者进行UI相关的程序设计。但�
 
 <!--more-->
 ##先看一下效果图
-{%img http://droidyueimg.qiniudn.com/style_window_title.png Custom Window Title Using Style %}
+{%img http://7jpolu.com1.z0.glb.clouddn.com/style_window_title.png Custom Window Title Using Style %}
 
 ##逐步实现
 在**res/values/styles.xml**文件中加入下列代码

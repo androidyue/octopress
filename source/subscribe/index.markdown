@@ -7,10 +7,20 @@ sharing: true
 footer: true
 ---
 
-##Atom 1.0（推荐）
-[atom.xml](/atom.xml)
+订阅地址:http://droidyue.com/atom.xml
 
-##RSS 2.0 
-[rss.xml](/rss.xml)
+<script type="text/javascript" src="http://1.toolite.sinaapp.com/droidyue_com/subscribe_books.js" charset="utf-8"></script>
 
-Octopress默认提供了Atom的订阅，后来自己增加了一个RSS2.0协议的订阅输出（从Atom1.0转换过来的）
+<script type="text/javascript">
+	var subscribeBooks = sortJsonObject(makeSubscribeBookDataSource());
+	displaySection(shouldDisplaySubscribeBook(), isSubscribeBookInDebug(), subscribeBooks, makeSubscribeBookPrefix(), makeSubscribeBookSuffix(), sDroidSubscribeClass);
+</script>
+
+
+###推荐订阅
+  * [码农周刊](http://weekly.manong.io/)
+  * [Android开发技术周报](http://androidweekly.cn/)
+  
+  
+
+

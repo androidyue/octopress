@@ -63,5 +63,3 @@ GC_EXPLICIT freed 6K, 41% free 3667K/6151K, external 0K/0K, <font color="red">pa
 ##原文地址
 https://sites.google.com/site/pyximanew/blog/androidunderstandingddmslogcatmemoryoutputmessages
 
-##其他
-  * <a href="http://www.amazon.cn/gp/product/B009VV6EG8/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B009VV6EG8&linkCode=as2&tag=droidyue-23">Android应用性能优化</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B009VV6EG8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />

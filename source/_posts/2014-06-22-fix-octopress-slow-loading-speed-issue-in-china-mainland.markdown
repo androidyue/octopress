@@ -19,7 +19,7 @@ categories: octopress 慢 谷歌 Google godaddy dnspod github 安全宝 Disqus T
 ##清理没用的服务
 以下修改均修改`_config.yml`,以下可以根据自己的需要进行去除。
 ###去除Disqus评论
-{%img http://droidyueimg.qiniudn.com/disques_comments.png %}
+{%img http://7jpolu.com1.z0.glb.clouddn.com/disques_comments.png %}
 去除上面红色区域的部分,打开文件找到`Disqus Comments`，按照下面在每一行前面加**#**注释掉即可。
 ```java
 # Disqus Comments
@@ -73,7 +73,7 @@ categories: octopress 慢 谷歌 Google godaddy dnspod github 安全宝 Disqus T
 其实，真正解决加速的重要环节可能是这里，因为Octopress很多依赖于Google的库和资源。
 
 ###解决Google Analytics巨慢的问题
-对于使用Google Analytics来说，加在ga.js这个文件简直是要命的慢，这里我使用自己存放在[七牛CDN](https://portal.qiniu.com/signup?code=3l8cqx1u74rbm)上的js.http://droidyue-tools.qiniudn.com/ga.js 已验证，完全可以正常收集数据。  
+对于使用Google Analytics来说，加在ga.js这个文件简直是要命的慢，这里我使用自己存放在[七牛CDN](http://droidredirect.sinaapp.com/qiniu_redirect.php)上的js.http://droidyue-tools.qiniudn.com/ga.js 已验证，完全可以正常收集数据。  
 参考如下，修改`source/_includes/google_analytics.html`
 ```html
      _gaq.push(['_trackPageview']);

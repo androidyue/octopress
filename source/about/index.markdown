@@ -27,16 +27,23 @@ footer: true
   * 非技术相关的思考和胡思乱想天马星空记录
 
 ##关于我
-  * Android 开花
+  * Android 工程师, [Infoq译者](http://www.infoq.com/cn/author/%E6%AE%B5%E5%BB%BA%E5%8D%8E), [2015 GDG Devfest讲师](http://chinagdg.org/2015-devfest-beijing/)
+  * 不是90后，89年出生的保定人在北京
   * 喜欢终端上完成操作，对GUI有点偏见
+  * 一个优秀的程序员应该是一位艺术家，其代码不可增不可减。
   * 语言：普通话，英语，保定话，日本语，Java，Python，Ruby等
   * 两台机器：**Sony Vaio With Fedora 17**    &&  Macbook Pro Retina, 15-inch
   * 联系方式：andrewallanwallace#gmail.com
-
-
-##我在互(ju)联(yu)网
-  * [我的虾米音乐](http://www.xiami.com/u/3687899?spm=a1z1s.3522041.23310357.3.LpvOT1)
   
+###微信扫一扫
+{%img http://7jpolu.com1.z0.glb.clouddn.com/my_weixin_qrcode.jpg 200 200 add weixin %}
+
+###新浪微博
+我的新浪微博是[技术小黑屋](http://weibo.com/androidyue/) ，欢迎大家关注。
+
+###技术小黑屋读者交流群
+{%img http://7jpolu.com1.z0.glb.clouddn.com/qq_group_droidyue.com_readers_opt.jpg qq group %}
   
-##欢(tu)迎(hao)捐赠
-  * [微信或支付宝捐赠](http://droidyue.com/donate/)
+##欢(tu)迎(hao)捐(xuan)赠(fu)
+  * [捐赠，支持更好创作](http://droidyue.com/donate/)
+

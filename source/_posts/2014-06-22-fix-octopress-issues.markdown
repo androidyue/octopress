@@ -9,7 +9,7 @@ categories: Octopress 404 noise.png line-tile.png rss.png code_bg.png 域名绑�
 今日开始开始填Octpress在天朝的坑。
 <!--more-->
 ###文件404问题
-{%img http://droidyueimg.qiniudn.com/octopress_404_img.png %}
+{%img http://7jpolu.com1.z0.glb.clouddn.com/octopress_404_img.png %}
 修改代码简直是太辛苦了。毕竟涉及文件比较多。
 于是干脆简单粗暴的把这些文件不存在的文件都创建了吧。直接上代码了
 ```bash

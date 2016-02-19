@@ -10,11 +10,11 @@ categories: 其他 Web
 <!--more-->
 ##惠惠退订
 烦人的惠惠邮件激怒了我,于是退订了它,居然它哭了,呜呜
-{%img http://droidyueimg.qiniudn.com/huihui_unsubscribe_page.png unsubscribe huihui dm %}
+{%img http://7jpolu.com1.z0.glb.clouddn.com/huihui_unsubscribe_page.png unsubscribe huihui dm %}
 
 ##京东404
 刘强东,你家的小狗跑哪里去了,都把绳子给咬断了.
-{%img http://droidyueimg.qiniudn.com/jd_404.png jd.com File Not Found %}
+{%img http://7jpolu.com1.z0.glb.clouddn.com/jd_404.png jd.com File Not Found %}
 
 ###其他
   * <a href="http://www.amazon.cn/gp/product/B00JZ96ZI8/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00JZ96ZI8&linkCode=as2&tag=droidyue-23">解忧杂货店</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B00JZ96ZI8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />

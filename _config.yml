@@ -4,11 +4,11 @@
 
 url: http://droidyue.com
 title: 技术小黑屋
-subtitle: 一个有态度的技术分享媒体
+subtitle: 
 author: androidyue 
 simple_search: http://google.com/search
-description: "个人技术博客，Java，Python,Android, Hack,Google,Linux,Mac等技术以及日语交流个人记录"
-keywords: "Java,Ruby,Android,Linux,日语"
+description: "技术小黑屋，一个关于Android和Java有态度的分享博客"
+keywords: "Java,Android,Linux,Python,内存泄露，性能优化，最键实践"
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -42,16 +42,16 @@ rdiscount:
     - smart
 pygments: false # default python pygments have been replaced by pygments.rb
 
-paginate: 7          # Posts per page on the blog index
+paginate: 9          # Posts per page on the blog index
 pagination_dir: blog  # Directory base for pagination URLs eg. /blog/page/2/
-recent_posts: 10       # Posts in the sidebar Recent Posts section
+recent_posts: 15       # Posts in the sidebar Recent Posts section
 excerpt_link: "阅读全文 &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
 
 titlecase: true       # Converts page and post titles to titlecase
 
 # list each of the sidebar modules you want to include, in the order you want them to appear.
 # To add custom asides, create files in /source/_includes/custom/asides/ and add them to the list like 'custom/asides/custom_aside_name.html'
-default_asides: [asides/stackoverflow_flair.html, asides/recent_posts.html, custom/asides/likeme.html, custom/asides/blogroll.html, custom/asides/recommend.html]
+default_asides: [custom/asides/android_push.html ,custom/asides/right_banner.html,  custom/asides/notice.html, asides/recent_posts.html ,  custom/asides/blogroll.html,custom/asides/common_book_recommend.html, custom/asides/friend_links.html,custom/asides/recommend.html, custom/asides/category_recommend.html, custom/asides/sidebar_ad.html, asides/best_posts.html, custom/asides/baidu_guess.html]
 
 # Each layout uses the default asides, but they can have their own asides instead. Simply uncomment the lines below
 # and add an array with the asides you want to use.

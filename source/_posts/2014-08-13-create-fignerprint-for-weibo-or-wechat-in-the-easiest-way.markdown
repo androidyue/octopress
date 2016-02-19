@@ -15,8 +15,11 @@ Enter keystore password:  ********
 ```
 替换上面的your_alias_name 和your_keystore_path即可。  
 
-真心觉得从手机上安装apk，输入包名得到签名，再取复制，再转到计算机上。麻烦！！！！！
+###更便捷的方法
+感谢网友指出，这是一个更编辑的方法。
+```bash
+androidyue/tmp$ keytool -list -v -keystore mykiki 
+Enter keystore password: 
+```
 
-###其他
-  * <a href="http://www.amazon.cn/gp/product/B00647RV78/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00647RV78&linkCode=as2&tag=droidyue-23">Google Android SDK开发范例大全</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B00647RV78" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-  * <a href="http://www.amazon.cn/gp/product/B00HECZXKE/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00HECZXKE&linkCode=as2&tag=droidyue-23">Android 开发入门与实战</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B00HECZXKE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+真心觉得从手机上安装apk，输入包名得到签名，再取复制，再转到计算机上。麻烦！！！！！

@@ -8,7 +8,7 @@ categories: Octopress 网站
 
 作为一个以内容为中心的网站，在文章结尾增加社会化分享按钮是一种标配，使用Octopress也不例外，本博客选用了加网的社会化分享按钮。开始的时候一切顺利，但是后来出现了一点小瑕疵，具体的情况如下图
 <!--more-->
-{%img http://droidyueimg.qiniudn.com/jiathis_flash_issue.png Octoress jiathis Issue %}
+{%img http://7jpolu.com1.z0.glb.clouddn.com/jiathis_flash_issue.png Octoress jiathis Issue %}
 
 ##究其原因
 我们来看看出问题的HTML代码。

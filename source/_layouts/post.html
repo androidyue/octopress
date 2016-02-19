@@ -6,31 +6,22 @@ single: true
 <div>
 <article class="hentry" role="article">
   {% include article.html %}
-  {% include post/post_banner.html %}
-  <hr>
+  <div id="cyReward" role="cylabs" data-use="reward" align="middle"></div>
+  <script type="text/javascript" src="http://toolite.sinaapp.com/html/vote_tips.js" charset="utf-8"></script>
   
-  {% include post/ads.html %}
+  
+  <script type="text/javascript" src="http://1.toolite.sinaapp.com/droidyue_com/furi_netou.js" charset="utf-8"></script>
  
-  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- post_included -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:728px;height:90px"
-     data-ad-client="ca-pub-7565659593663612"
-     data-ad-slot="4976687343"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-
+  {% include post/random_recommend.html%}
+  
+  <script type="text/javascript" src="http://1.toolite.sinaapp.com/droidyue_com/weixin_gongzhonghao.js" charset="utf-8"></script>
+  
   <footer>
     <p class="meta">
       {% include post/author.html %}
       {% include post/date.html %}{% if updated %}{{ updated }}{% else %}{{ time }}{% endif %}
       {% include post/categories.html %}
     </p>
-    {% unless page.sharing == false %}
-      {% include post/sharing.html %}
-    {% endunless %}
     <p class="meta">
       {% if page.previous.url %}
         <a class="basic-alignment left" href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}">&laquo; {{page.previous.title}}</a>
@@ -38,15 +29,24 @@ single: true
       {% if page.next.url %}
         <a class="basic-alignment right" href="{{page.next.url}}" title="Next Post: {{page.next.title}}">{{page.next.title}} &raquo;</a>
         {% endif %}
-        {% include post/ujian.html %}
     </p>
+{% unless page.sharing == false %}
+	{% include post/sharing.html %}
+{% endunless %}
+<script type="text/javascript" src="http://1.toolite.sinaapp.com/droid_ref/post_sp_ref.js" charset="utf-8"></script>
   </footer>
   </article>
+
 {% if page.comments == true %}
   <section>
-   {% include post/duoshuo.html %}
+   {% include post/changyan.html %}
   </section>
 {% endif %}
+
+<link href="http://1.toolite.sinaapp.com/css/remote.css"  rel="stylesheet" type="text/css">
+<script type="text/javascript" charset="utf-8" src="http://1.toolite.sinaapp.com/droid_ref/post_end_attentions.js"></script>
+	{% include custom/asides/post_end_ad.html %}
+	
 </div>
 {% unless page.sidebar == false %}
 <aside class="sidebar">

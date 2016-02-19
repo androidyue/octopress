@@ -76,7 +76,7 @@ desc "preview the site in a web browser"
 task :preview do
   raise "### You haven't set anything up yet. First run `rake install` to set up an Octopress theme." unless File.directory?(source_dir)
   atom2rssDir = '~/osc_git/php_works/'
-  system "php #{atom2rssDir}/atom2rss.php #{public_dir}/atom.xml #{atom2rssDir}/atom2rss.xsl #{public_dir}/rss.xml"
+  #system "php #{atom2rssDir}/atom2rss.php #{public_dir}/atom.xml #{atom2rssDir}/atom2rss.xsl #{public_dir}/rss.xml"
   puts "Starting to watch source with Jekyll and Compass. Starting Rack on port #{server_port}"
   system "compass compile --css-dir #{source_dir}/stylesheets" unless File.exist?("#{source_dir}/stylesheets/screen.css")
   jekyllPid = Process.spawn({"OCTOPRESS_ENV"=>"preview"}, "jekyll --auto")
@@ -223,8 +223,9 @@ task :deploy do
 
   Rake::Task[:copydot].invoke(source_dir, public_dir)
   atom2rssDir = '~/osc_git/php_works/'
-  system "php #{atom2rssDir}/atom2rss.php #{public_dir}/atom.xml #{atom2rssDir}/atom2rss.xsl #{public_dir}/rss.xml"
+  #system "php #{atom2rssDir}/atom2rss.php #{public_dir}/atom.xml #{atom2rssDir}/atom2rss.xsl #{public_dir}/rss.xml"
   Rake::Task["#{deploy_default}"].execute
+  #system "bash /home/androidyue/common_tools/qiniu/sync_github_to_qiniu.sh"
 end
 
 desc "Generate website and deploy"

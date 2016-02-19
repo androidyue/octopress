@@ -1,0 +1,13 @@
+<script type="text/javascript">
+	var bestPosts = makeBestPostsDataSource();
+	
+	if (getRandomBoolean()) {
+		bestPosts = shuffleJsonObject(bestPosts);
+	}
+	
+	if (shouldLimitBestPosts()) {
+		var limit = getBestPostsLimitSize();
+		bestPosts = splitJSONObject(bestPosts, limit);
+	}
+	displaySection(shouldDisplayBestPosts(), isBestPostsInDebug(), bestPosts, makeBestPostsPrefix(), makeBestPostsSuffix(), sDroidBestPostsClass);
+</script>

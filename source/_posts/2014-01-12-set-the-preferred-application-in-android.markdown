@@ -42,7 +42,7 @@ public void testStartAppDetails() {
 }
 ```
 Then you navigate the user to the installedAppDetails and you could show some tips to click Button Clear Default. 
-{% img http://droidyueimg.qiniudn.com/choose_default_activity_dialog.png installed app details clear default %}
+{% img http://7jpolu.com1.z0.glb.clouddn.com/choose_default_activity_dialog.png installed app details clear default %}
 When users go back from installedAppDetails to your application check is there any default appliction now. If the default application(in general, it's not the previous one) remains repeat the above actions until there is not default one.
 
 ###No default One
@@ -59,7 +59,7 @@ public void testStartChooseDialog() {
 }
 ```
 The dialog is like this   
-{% img http://droidyueimg.qiniudn.com/choose_default_activity_dialog.png choose default activity dialog %}  
+{% img http://7jpolu.com1.z0.glb.clouddn.com/choose_default_activity_dialog.png choose default activity dialog %}  
 What's more, your tips is really essential. Make sure to notify that  "Use by default for this action" should be  checked. 
 
 ###How to Clear my own default

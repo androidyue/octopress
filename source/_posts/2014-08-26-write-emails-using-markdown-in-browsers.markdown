@@ -15,13 +15,7 @@ categories: Gmail Markdown 效率
 
 ##上图演示
   这里摘了一张图来说明如何使用
-{%img http://droidyueimg.qiniudn.com/markdown_here_example.png how to use markdown-here %}
+{%img http://7jpolu.com1.z0.glb.clouddn.com/markdown_here_example.png "how to use markdown-here" %}
 
 如果想取消转换，选中转换后的效果，同样选择**Mardown Toggle**就可以了
 
-
-###其他
-  * <a href="http://www.amazon.cn/gp/product/B0061XKRXA/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B0061XKRXA&linkCode=as2&tag=droidyue-23">代码大全</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B0061XKRXA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-  * <a href="http://www.amazon.cn/gp/product/B0031M9GHC/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B0031M9GHC&linkCode=as2&tag=droidyue-23">代码整洁之道</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B0031M9GHC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-  * <a href="http://www.amazon.cn/gp/product/B003BY6PLK/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B003BY6PLK&linkCode=as2&tag=droidyue-23">重构:改善既有代码的设计</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B003BY6PLK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-  * 

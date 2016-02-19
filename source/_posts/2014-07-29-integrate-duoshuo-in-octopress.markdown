@@ -52,6 +52,8 @@ Octopress默认自带了DISQUS，但是对于国内不是很好用。于是一�
 ```javascript linenos:false
  var duoshuoQuery = {short_name:"your_short_name"};
 ```
+关于short_name的这个值，需要从多说后台查找，如下图
+{%img http://7jpolu.com1.z0.glb.clouddn.com/duoshuo_short_name.png %}
 
 ###将文件嵌入到**`<body></body>`**
 将上面的文件嵌入到**source/_layouts/post.html**下，可参考下列代码。
@@ -98,11 +100,11 @@ Octopress默认自带了DISQUS，但是对于国内不是很好用。于是一�
 ##问题解决
 ###表象
 不要高兴的太早，集成后的多说还是有点小问题，就是当需要登陆或者输入邮箱地址的时候，会出现如下图的问题，登陆框的背后有一层带颜色的层。
-{%img http://droidyueimg.qiniudn.com/duoshuo_background_issue.png duoshuo issue in Octopress %}
+{%img http://7jpolu.com1.z0.glb.clouddn.com/duoshuo_background_issue.png duoshuo issue in Octopress %}
 
 ###原因
 具体原因是我所使用的css为所有的body div增加了一个背景。下图为id为ds-wrapper的div的背景属性
-{%img http://droidyueimg.qiniudn.com/div_background_property.png ds-wrapper div background %}
+{%img http://7jpolu.com1.z0.glb.clouddn.com/div_background_property.png ds-wrapper div background %}
 
 ###解决
 昨天晚上自己找到了一个可行的办法，思路就是对所有body div的设置不应用到id为ds-wrapper的div
