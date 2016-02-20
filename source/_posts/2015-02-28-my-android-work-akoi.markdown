@@ -14,7 +14,9 @@ categories: Android
 <!--more-->
 ##高清无码大图
 {% img http://7jpolu.com1.z0.glb.clouddn.com/akoi_ui.png %}
+
 {% img http://7jpolu.com1.z0.glb.clouddn.com/akoi_target_language.png %}
+
 {% img http://7jpolu.com1.z0.glb.clouddn.com/akoi_result_new.png %}
 
 ##等饭时的脑洞
@@ -29,12 +31,12 @@ categories: Android
 
 
 ##下载地址
-[点我下载](http://7jpqsg.com1.z0.glb.clouddn.com/akoi_1.2.apk)
+[点我下载](http://7jpqsg.com1.z0.glb.clouddn.com/akoi_1.3.apk)
 
 或者扫一扫：
 
 
-{% img http://7jpolu.com1.z0.glb.clouddn.com/akoi1.2.gif %}
+{% img http://7jpolu.com1.z0.glb.clouddn.com/akoi_1.3.gif %}
 
 ##特别感谢
   * 大麦 我的御用设计师，帮我做图标。多次往返于宋家庄与西北旺之间，辛苦。
@@ -50,7 +52,10 @@ categories: Android
 确实距离上次写应用已经三年了，三年前自己还在大学的时候，写过几个拿不出手的应用，那时候自己找图，写的App一点儿技术含量都没有。现在写这个应用完全是解决自己的需求，如果同时能帮助其他人，那么这个应用也是值得的。
 
 
+###开源了
+由于个人精力和水平有限，决定开源，借助社区的力量完善，如果你感兴趣，可以访问下面的地址贡献代码
 
+  * [Akoi-Translator](https://github.com/androidyue/Akoi-Translator)
 
 
 
