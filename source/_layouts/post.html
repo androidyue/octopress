@@ -28,7 +28,10 @@ single: true
 {% unless page.sharing == false %}
 	{% include post/sharing.html %}
 {% endunless %}
-<script type="text/javascript" src="http://7xr25o.com1.z0.glb.clouddn.com/post_end_rec.js" charset="utf-8"></script>
+<div id="post_rec"></div>
+<script type="text/javascript" charset="utf-8">
+$.getScript('http://7xr25o.com1.z0.glb.clouddn.com/post_end_rec_changable.js?v=' + Date.now());
+</script>
   </footer>
   </article>
 
