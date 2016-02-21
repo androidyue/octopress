@@ -30,7 +30,7 @@ categories: 职场
 
 ###求职者和招聘方需求相互矛盾，拍卖产品偏向谁？
 
-{%img http://7xk6z0.com1.z0.glb.clouddn.com/100offer_office.jpg %}
+{%img http://7jpolu.com1.z0.glb.clouddn.com/100offer_office.jpg %}
 
 「招聘方和求职方的需求是矛盾的，候选人希望企业信息足够透明，再向企业透露信息，企业方则希望尽快获得简历，可以直接打电话。我们非常重视求职方的体验。」
 
@@ -47,4 +47,4 @@ categories: 职场
 
 在竞争激烈的招聘领域，这家网站的独特思路让我看起来和所有其他的网站都不太一样。
 
-{%img http://7xk6z0.com1.z0.glb.clouddn.com/100offer_timeline.jpg %}
+{%img http://7jpolu.com1.z0.glb.clouddn.com/100offer_timeline.jpg %}
