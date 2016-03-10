@@ -29,4 +29,9 @@ footer: true
   * 限制条件：为了确保能被充分利用，将资源分配给更需要的人，请在看云至少有10篇有价值的文档。麻烦配合。
   * 更多了解：[看云](http://www.kancloud.cn/price)
 
-
+##Linux 命令 编辑器与shell编程
+  * 类型：纸质书
+  * 数量：一本
+  * 福利来源：个人图书
+  * 了解更多：[linux 命令 编辑器与shell编程](http://s.click.taobao.com/t?e=m%3D2%26s%3Dgvtnhyka35UcQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67hMxXcze%2BISoxT40F5yyh63M3gYQjCL89vSdxyvKgR5IYpon8UCVSYZ0GNrqi8kpijO6srjmTjLEPTVdWxpwukto73JLQDTiW8YOae24fhW0&pvid=10_113.45.170.252_338_1457534124308)
+  * 限制条件：北京地区
