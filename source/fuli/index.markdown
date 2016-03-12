@@ -33,5 +33,20 @@ footer: true
   * 类型：纸质书
   * 数量：一本
   * 福利来源：个人图书
-  * 了解更多：[linux 命令 编辑器与shell编程](http://s.click.taobao.com/t?e=m%3D2%26s%3Dgvtnhyka35UcQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67hMxXcze%2BISoxT40F5yyh63M3gYQjCL89vSdxyvKgR5IYpon8UCVSYZ0GNrqi8kpijO6srjmTjLEPTVdWxpwukto73JLQDTiW8YOae24fhW0&pvid=10_113.45.170.252_338_1457534124308)
+  * 了解更多：[linux 命令 编辑器与shell编程](http://union.click.jd.com/jdc?e=&p=AyIHZR5aEQISA1AYUyUCEwZTElMRBSJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQMTAVwTXxIdS0IJRmtCZBFaU0suHGFvBBV4JnAcUHoycDx1Dh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3NGlrR2zKsePD%2FqQexq3aztOCMhABXRhdFAAQB2UbXhEEFA5THVkXARMAZRw%3D&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsUAxQOXR9cCltXWwg%3D)
   * 限制条件：北京地区
+
+
+##蒋丰看日本：日本国会议员谈中国
+  * 类型：纸质书
+  * 数量：一本
+  * 福利来源：个人购买
+  * 了解更多：[蒋丰看日本：日本国会议员谈中国](http://union.click.jd.com/jdc?e=&p=AyIHZR5aEQISA1AYUyUCEgdcG10RACJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQISDlUdXxcdS0IJRmscZEpkFmQYHGdFVwpAPUFeRgIzGj9lDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3NGlrR2zKsePD%2FqQexq3aztOCMhABXRhcHQAWAmUbXhEEFA5TH1MUAhoEZRw%3D&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsVAhsHUx9ZCltXWwg%3D)
+  * 限制条件：北京地区
+
+##Facebook效应
+  * 类型：纸质书
+  * 数量：一本
+  * 福利来源：个人图书
+  * 了解更多：[Facebook效应](http://union.click.jd.com/jdc?e=&p=AyIHZR5aEQISA1AYUyUCEwNVG1IVBiJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQMWB1USWxEdS0IJRmtJA29uEHsvb2dgfTNhIWxeEFFWHBNDDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3NGlrR2zKsePD%2FqQexq3aztOCMhABXRhdFAAQB2UbXhEEFA5cGl8dABoAZRw%3D&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsUBhIHXBtfCltXWwg%3D)
+  * 限制条件：北京
