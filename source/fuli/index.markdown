@@ -50,3 +50,28 @@ footer: true
   * 福利来源：个人图书
   * 了解更多：[Facebook效应](http://union.click.jd.com/jdc?e=&p=AyIHZR5aEQISA1AYUyUCEwNVG1IVBiJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQMWB1USWxEdS0IJRmtJA29uEHsvb2dgfTNhIWxeEFFWHBNDDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3NGlrR2zKsePD%2FqQexq3aztOCMhABXRhdFAAQB2UbXhEEFA5cGl8dABoAZRw%3D&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsUBhIHXBtfCltXWwg%3D)
   * 限制条件：北京
+
+
+##广辞苑
+  * 类型：纸质书
+  * 数量：一本
+  * 福利来源：个人购买
+  * 了解更多：[广辞苑](http://union.click.jd.com/jdc?e=&p=AyIHZR5aEQISA1AYUyUCEgZXE1gXCyJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQITBV0YWRwdS0IJRmtsZnVMMlsEXmFqVypHJRBEFlECfTBTDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3NGlrR2zKsePD%2FqQexq3aztOCMhABXRhdFAAQB2UbXhEEGwRdGF4VAxoGZRw%3D&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsVAxAPVhlSCltXWwg%3D)
+  * 限制条件：北京
+  * 建议交易价格：100元
+
+##雪莱特cnlight家用一体化紫外线灯杀菌灯E27/25W
+  * 类型：杀菌灯
+  * 数量：一支
+  * 福利来源：个人购买
+  * 了解更多：[雪莱特cnlight家用一体化紫外线灯杀菌灯E27/25W](http://union.click.jd.com/jdc?e=&p=AyIHZRprHAMWA1QYa1FdSlkKKwJQR1MMSwUDUFZOGA5OREdcThlcGl8RAxEYDF4HSDIRfzN%2BCW1aFWUwUwFKeGAAT3sTFVZiC1krWRMKEQFVGFoUMhAFVRtSEQITAmUrOmcyRGlVGloUAxMFVRNTJQAUD1YdWhcAEjdVHl8TCxEPUxtbHAUWN1I%3D&t=W1dCFBBFC1pXUwkEAEAdQFkJBVIUBhYGVgQCUF5P)
+  * 限制交易区域：北京
+
+
+##赛嘉（seago） 便携家用紫外线杀菌消毒灯UV灯
+  * 类型：杀菌灯
+  * 数量：一支
+  * 福利来源：个人购买
+  * 了解更多：[赛嘉（seago） 便携家用紫外线杀菌消毒灯UV灯](http://union.click.jd.com/jdc?e=&p=AyIHZRhdHAsSAlMTWiUCFQRRGlkVABAGZV8ETVxNNwxeHlQJDBkNXg9JHUlSSkkFSRwSAFYfWhcCEAVUBAJQXk83C28taVBSVzd%2BORZKQkEgWw8Ld2F1ExdXJQAUD1YdWxYDEzdXGVsVCxYHVB5rJWNgNxR1WBYBGwdlGV0dARQGVxlbJQIXA1MSWRYDFAZUHV4lBQ%3D%3D&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsSARYGVxtZFwMNXhBHBg%3D%3D)
+  * 限制交易区域：北京
+
