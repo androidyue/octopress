@@ -60,6 +60,20 @@ footer: true
   * 限制条件：北京
   * 建议交易价格：100元
 
+##日语基础语法整理
+  * 类型：书籍
+  * 数量：一本
+  * 福利来源：个人购买
+  * 了解更多:[日语基础语法整理](http://union.click.jd.com/jdc?e=&p=AyIHZR5aEQISA1AYUyUCEwZdHFsVBSJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQMTD1IbWxIdS0IJRmtBYGYDFGYmFWFHeSpuWUh7dno%2BGVx1Dh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3NGlrR2zKsePD%2FqQexq3aztOCMhABXRhdFwEbAGUbXhELFwBXElIQBhUBZRw%3D&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsUAxoAVRtcCltXWwg%3D)
+  * 限制交易区域：北京
+
+##日语说词解字
+  * 类型：书籍
+  * 数量：一本
+  * 福利来源：个人购买
+  * 了解更多:[日语说词解字](http://union.click.jd.com/jdc?e=&p=AyIHZR5aEQISA1AYUyUCEw9RGlgUAiJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQMaA1QYWhUdS0IJRmtedWpaT2AYZWFbBCJpX0Zha28BGhtTDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3NGlrR2zKsePD%2FqQexq3aztOCMhABXRhdFwEbAGUbXhELFwBQG1oWBhYFZRw%3D&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsUChYGVhpbCltXWwg%3D)
+  
+
 ##雪莱特cnlight家用一体化紫外线灯杀菌灯E27/25W
   * 类型：杀菌灯
   * 数量：一支
