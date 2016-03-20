@@ -16,7 +16,7 @@ categories: Java 书籍
 {%img left http://7jpolu.com1.z0.glb.clouddn.com/head_first_java.jpg "head first java"%}
 
 Head First Java是所有编程或者Java初学者最适合的书籍，我很喜欢轻松和寓教于乐的Head First风格，这应该是最有意思的关于Java的书。无论是初级，中级还是高级都能从中有所收获。学习本书，你可以了解到类，对象，线程，集合等编程知识，还可以了解到泛型，枚举，可变参数和自动装箱等语言特性。本书中还涉及到了Java高级编程中的Swing，网络编程，IO操作等，可以让初学者对Java有比较完整地概念。如果你是一位Java初学者，不要犹豫，这本书最适合你了。  
-查看详细: <a href="http://s.click.taobao.com/t?e=m%3D2%26s%3DgyDfLf%2F9j%2FgcQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67hdCPHvvxRofbJxUEh8sgi%2FM3gYQjCL89vSdxyvKgR5IYpon8UCVSYb15Y5fs5g2zdENWbkrNyRRyUKkYAH12%2FP5bGhTON03RcYOae24fhW0&pvid=10_113.47.252.231_329_1456051415453" class="post_inner_book">Head First Java</a>
+查看详细: <a href="http://union.click.jd.com/jdc?e=&p=AyIHZR5aEQISA1AYUyUCEwdUGlsdAyJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQMSBlQbUxQdS0IJRmtmVXNTMh8vZWdXfSZLPhBYGgI3QBxlDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3NGlrR2zKsePD%2FqQexq3aztOCMhABXRhdFwEbAGUbXhELFwJUHV4QCxcPZRw%3D&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsUAhMGVRNaCltXWwg%3D">Head First Java</a>
 
 ##Head First 设计模式
 {%img left http://7jpolu.com1.z0.glb.clouddn.com/head_first_design_patterns.jpg "head first design pattern" %}
