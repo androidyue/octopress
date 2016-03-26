@@ -28,11 +28,11 @@ Study Jams 活动是一个免费的，纯公益性的活动，任何人都可以
 
 ## 课程预览视频
 
-<embed src="http://static.video.qq.com/TPout.swf?vid=u0189bvpj48&auto=0" allowFullScreen="true" quality="high" width="580" height="480" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"/>
+<embed src="http://static.video.qq.com/TPout.swf?vid=u0189bvpj48&auto=0" allowFullScreen="true" quality="high" height="480" width="100%" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"/>
 
 ## 课程中包含的 Googler 想对你说的话
 
-<embed src="http://static.video.qq.com/TPout.swf?vid=q0189eptczk&auto=0" allowFullScreen="true" quality="high" width="580" height="480" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"/>
+<embed src="http://static.video.qq.com/TPout.swf?vid=q0189eptczk&auto=0" allowFullScreen="true" quality="high" height="480" width="100%" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"/>
 
 ## 请注意
 
@@ -46,8 +46,12 @@ Study Jams 活动是一个免费的，纯公益性的活动，任何人都可以
 如果针对这个活动有任何问题，请联系我们的客服或者发送邮件到： 
 [study-jams-china@google.com](mailto:study-jams-china@google.com)
 
+>顺便说一句，该课程字幕由谷创字幕组（前GDG字幕组）的热心志愿者翻译，如果你也想参与字幕组做 Google 技术课程的翻译，请联系：lucheng@google.com 如果能够附上一份可爱的简历，那就最好了。
+
+
 ## 微信公众号
 
 了解更多活动动态，请关注 Google StudyJams 活动的微信公众号
 
 ![Google StudyJams 微信公众号](http://ww1.sinaimg.cn/large/8a41f469jw1f2813be87vj2078078mxq.jpg)
+
