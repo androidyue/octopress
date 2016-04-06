@@ -5,7 +5,7 @@ date: 2016-04-04 20:34
 comments: true
 categories: Shadowsocks Proxy
 ---
-做开发的同学，应该都会经常解除终端，有些时候我们在终端会做一些网络操作，比如下载gradle包等，由于一些你懂我也懂的原因，某些网络操作不是那么理想，这时候我们就需要设置代理来自由地访问网络。
+做开发的同学，应该都会经常接触终端，有些时候我们在终端会做一些网络操作，比如下载gradle包等，由于一些你懂我也懂的原因，某些网络操作不是那么理想，这时候我们就需要设置代理来自由地访问网络。
 
 Shadowsocks是我们常用的代理工具，它使用socks5协议，而终端很多工具目前只支持http和https等协议，对socks5协议支持不够好，所以我们为终端设置shadowsocks的思路就是将socks协议转换成http协议，然后为终端设置即可。仔细想想也算是适配器模式的一种现实应用吧。
 
@@ -149,6 +149,40 @@ alias hp="http_proxy=http://localhost:8123"
 ```
 
 如果想要更长久的设置代理，可以将`export http_proxy=http://localhost:8123`加入.bashrc或者.bash_profile文件
+
+###设置Git代理
+复杂一些的设置Git代理
+```java
+git clone https://android.googlesource.com/tools/repo --config http.proxy=localhost:8123
+
+Cloning into 'repo'...
+remote: Counting objects: 135, done
+remote: Finding sources: 100% (135/135)
+remote: Total 3483 (delta 1956), reused 3483 (delta 1956)
+Receiving objects: 100% (3483/3483), 2.63 MiB | 492 KiB/s, done.
+Resolving deltas: 100% (1956/1956), done.
+```
+
+其实这样还是比较复杂，因为需要记忆的东西比较多，下面是一个更简单的实现
+
+首先，在.bashrc或者.bash_profile文件加入这一句。
+```java
+gp=" --config http.proxy=localhost:8123"
+```
+
+然后执行source操作，更新当前bash配置。
+
+更简单的使用git的方法
+```java
+git clone  https://android.googlesource.com/tools/repo $gp
+
+Cloning into 'repo'...
+remote: Counting objects: 135, done
+remote: Finding sources: 100% (135/135)
+remote: Total 3483 (delta 1956), reused 3483 (delta 1956)
+Receiving objects: 100% (3483/3483), 2.63 MiB | 483 KiB/s, done.
+Resolving deltas: 100% (1956/1956), done.
+```
 
 开始自由快速的开发吧。
 
