@@ -74,7 +74,7 @@ Integer sum = 0;
 
 上面的代码`sum+=i`可以看成`sum = sum + i`，但是`+`这个操作符不适用于Integer对象，首先sum进行自动拆箱操作，进行数值相加操作，最后发生自动装箱操作转换成Integer对象。其内部变化如下
 ```java
-sum = sum.intValue() + i;
+int result = sum.intValue() + i;
 Integer sum = new Integer(result);   
 ```
 
