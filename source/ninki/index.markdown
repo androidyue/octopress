@@ -10,7 +10,7 @@ footer: true
 
 <script type="text/javascript">
 	var bestPosts = makeBestPostsDataSource();
-	bestPosts = makeBatchUrlTrackable(bestPosts, "ninki_posts");
+	
 	bestPosts = shuffleJsonObject(bestPosts);
 	displaySection(shouldDisplayBestPosts(), isBestPostsInDebug(), bestPosts, '<section>', makeBestPostsSuffix(), sDroidBestPostsClass);
 </script>
