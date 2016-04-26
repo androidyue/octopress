@@ -226,6 +226,8 @@ static class ThreadLocalMap {
   * 实现线程安全，非线程安全的对象使用ThreadLocal之后就会变得线程安全，因为每个线程都会有一个对应的实例
   * 承载一些线程相关的数据，避免在方法中来回传递参数
 
+**注意：Android的ThreadLocal与Java实现略有不同，但是原理是一致的**。
+
 ##参考文章
   * [Java ThreadLocal](http://tutorials.jenkov.com/java-concurrency/threadlocal.html)
   * [Threadlocals and memory leaks in J2EE](http://cs.oswego.edu/pipermail/concurrency-interest/2007-October/004456.html)
