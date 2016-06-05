@@ -40,6 +40,8 @@ allprojects {
   * TreeWalker module用来遍历java文件，并定义一些属性。
   * ThreeWalker module包含了多个子module，用来进行检查规范。
 
+注：checkstyle的配置文件，这里名称为checkstyle.xml 位置为项目根目录即可。
+
 一个简单的checkstyle配置文件如下，包含了检测import，whitespace,blocks等module.  
 ```
 <?xml version="1.0"?>
