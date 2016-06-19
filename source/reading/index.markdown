@@ -10,12 +10,18 @@ footer: true
 这里列举一些我读过的书籍，所列书籍个人认为都值得仔细咀嚼。
 
 ##在读
-[煮酒探西游](http://union.click.jd.com/jdc?e=&p=AyIHZR5aEQISA1AYUyUCEg5cG1ITASJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQIbDlUSXRYdS0IJRmtMXXJeBRoSEWFpAAobMhByGlsvZQdDDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3NGlrR2zKsePD%2FqQexq3aztOCMhcHUxhcEgcTAGUbXhIFEQRQElgSBxYDZRw%3D&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsVCxsHXB1YCltXWwg%3D)
+  * [挪威的森林](http://www.amazon.cn/gp/product/B00K189ZU2/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00K189ZU2&linkCode=as2&tag=droidyue-23)
 
->
 
 
 ##已读
+
+[煮酒探西游](http://union.click.jd.com/jdc?e=&p=AyIHZR5aEQISA1AYUyUCEg5cG1ITASJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQIbDlUSXRYdS0IJRmtMXXJeBRoSEWFpAAobMhByGlsvZQdDDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3NGlrR2zKsePD%2FqQexq3aztOCMhcHUxhcEgcTAGUbXhIFEQRQElgSBxYDZRw%3D&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsVCxsHXB1YCltXWwg%3D)
+> 一场颠覆诡异的西游记解读之旅，一部颠覆你对西游记认知的书籍。
+
+> 作者逻辑紧密，脑洞大开，读完不禁感叹，西游记根本不是电视剧里面的那种单纯的故事。
+
+
 [解忧杂货店](http://www.amazon.cn/gp/product/B00JZ96ZI8/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00JZ96ZI8&linkCode=as2&tag=droidyue-23)
 
 >本书为日本著名推理小说家 [东野圭吾](http://union.click.jd.com/jdc?e=&p=AyIHZR5aEQISA1AYUyUCEgBdG1sVCyJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQIVD1UbWxwdS0IJRmtuY0kEBU47cWEaRysBPVNLFmMdbT5lDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3NGlrR2zKsePD%2FqQexq3aztOCMhcHUxhcEgcTAGUbXhIFEQRQH14VChsPZRw%3D&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsVBRoHVRtSCltXWwg%3D) 的一部暖心之作。
