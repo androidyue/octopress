@@ -3,7 +3,7 @@ layout: post
 title: "如何在Android中避免创建不必要的对象"
 date: 2016-08-01 19:28
 comments: true
-categories: 
+categories: Android 内存优化
 ---
 
 在编程开发中，内存的占用是我们经常要面对的现实，通常的内存调优的方向就是尽量减少内存的占用。这其中避免创建不必要的对象是一项重要的方面。
