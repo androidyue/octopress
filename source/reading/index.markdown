@@ -15,6 +15,10 @@ footer: true
 
 
 ##已读
+[菊与刀](http://union.click.jd.com/jdc?e=&p=AyIHZR5aEQISA1AYUyUCEwBWE1oRACJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQMVBF0aXxcdS0IJRmtQVllYMAEBSGJTQwgFPkIYDGQVAQFlDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3NGlrR2zKsePD%2FqQexq3aztOCMhcHUxhcEgcTAGUbXhMDEAddGl4QAxEHZRxrRV1HRAtDDl1GRjdl&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsUBREPVB9ZCltXWwg%3D)
+
+> 一部关于二战之后美国如何处理日本的参考指南,深入分析了日本民族的特点,是一本研究日本的不错书籍.
+
 
 [煮酒探西游](http://union.click.jd.com/jdc?e=&p=AyIHZR5aEQISA1AYUyUCEg5cG1ITASJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQIbDlUSXRYdS0IJRmtMXXJeBRoSEWFpAAobMhByGlsvZQdDDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3NGlrR2zKsePD%2FqQexq3aztOCMhcHUxhcEgcTAGUbXhIFEQRQElgSBxYDZRw%3D&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsVCxsHXB1YCltXWwg%3D)
 > 一场颠覆诡异的西游记解读之旅，一部颠覆你对西游记认知的书籍。
