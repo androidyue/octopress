@@ -15,6 +15,11 @@ footer: true
 
 
 ##已读
+[雪国](http://union.click.jd.com/jdc?e=&p=AyIHZR5aEQISA1AYUyUCEwVVHVoQACJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQMQB1MaXhcdS0IJRmtBWWsZBkgEd2FhWwxjC0EAVHIgTy51Dh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3NGlrR2zKsePD%2FqQexq3aztOCMhcHUxhcEgcTAGUbXhMDGwRdGlMTBhUPZRxrRV1HRAtDDl1GRjdl&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsUABIBVB5ZCltXWwg%3D)
+
+> 川端康成诺贝尔文学奖代表作之一,日式美学的代表作.
+
+
 [菊与刀](http://union.click.jd.com/jdc?e=&p=AyIHZR5aEQISA1AYUyUCEwBWE1oRACJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQMVBF0aXxcdS0IJRmtQVllYMAEBSGJTQwgFPkIYDGQVAQFlDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3NGlrR2zKsePD%2FqQexq3aztOCMhcHUxhcEgcTAGUbXhMDEAddGl4QAxEHZRxrRV1HRAtDDl1GRjdl&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsUBREPVB9ZCltXWwg%3D)
 
 > 一部关于二战之后美国如何处理日本的参考指南,深入分析了日本民族的特点,是一本研究日本的不错书籍.
