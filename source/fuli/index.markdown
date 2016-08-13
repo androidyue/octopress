@@ -24,7 +24,6 @@ footer: true
 
 ##看云专业版年会员
   * 价值：360元/年
-  * 数量：暂定5个 (2016.3.7 ~ 2016.4.10)
   * 福利来源：本网站右侧展示banner交换所得
   * 更多了解：[看云](http://www.kancloud.cn/price)
 
@@ -80,7 +79,25 @@ footer: true
   * 状态：**已出**
   * 福利来源：个人购买
   * 了解更多:[日语说词解字](http://union.click.jd.com/jdc?e=&p=AyIHZR5aEQISA1AYUyUCEw9RGlgUAiJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQMaA1QYWhUdS0IJRmtedWpaT2AYZWFbBCJpX0Zha28BGhtTDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3NGlrR2zKsePD%2FqQexq3aztOCMhABXRhdFwEbAGUbXhELFwBQG1oWBhYFZRw%3D&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsUChYGVhpbCltXWwg%3D)
-  
+
+## 日语语法新思维
+  * 类型: 纸质书籍
+  * 数量: 一本
+  * 福利来源:个人购买
+  * 了解更多:[日语语法新思维](http://union.click.jd.com/jdc?e=&p=AyIHZRlcHQQbA1YaWCUCFgdUGl0UBRcDZV8ETVxNNwxeHlQJDBkNXg9JHUlSSkkFSRwSA1UaWhMDFQJRBAJQXk83PUYMYVRKUAZ4DGdUE1hUcjAca09fExdXJQAUD1YdWxYDEzdXGVsVCxYHVB5rJWNgNxR1XhIAEw9lHlgTBhcHVB5fJQIXAVUaUhUGEAZVElwlBSJXCk4YS1pHTxFPayU%3D&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsRAhMGUxpcEAYNXhBHBg%3D%3D)
+
+## 日语词汇新思维
+  * 类型:纸质书籍
+  * 数量:一本
+  * 来源:个人购买
+  * 了解更多: [日语词汇新思维：词源+联想记忆法](http://union.click.jd.com/jdc?e=&p=AyIHZR5aEQISA1AYUyUCEwBWG1kRBSJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQMVBFUZXxIdS0IJRmtPZHViM2AvQ2FreT5EW2ADeQQlTj9TDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3NGlrR2zKsePD%2FqQexq3aztOCMhcEUx9eFQMXA2UbXhMCEw5VHF0cBhYPZRxrRV1HRAtDDl1GRjdl&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsUBREHVx9cCltXWwg%3D)
+
+## 简明新解日语外来语词典
+  * 类型:纸质书籍
+  * 数量:一本
+  * 来源:个人购买
+  * 了解更多:[简明新解日语外来语词典](http://union.click.jd.com/jdc?e=&p=AyIHZR5aEQISA1AYUyUCEwRRH14QAiJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQMRA1EeXhUdS0IJRmtla1l3PhgpQmcUU0toJmhyb2MzZD5TDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3NGlrR2zKsePD%2FqQexq3aztOCMhcEUx9eFQMXA2UbXhMCEw5WG1kdABYAZRxrRV1HRAtDDl1GRjdl&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsUARYDUB5bCltXWwg%3D)
+
 
 ##雪莱特cnlight家用一体化紫外线灯杀菌灯E27/25W
   * 类型：杀菌灯
@@ -96,4 +113,17 @@ footer: true
   * 福利来源：个人购买
   * 了解更多：[赛嘉（seago） 便携家用紫外线杀菌消毒灯UV灯](http://union.click.jd.com/jdc?e=&p=AyIHZRhdHAsSAlMTWiUCFQRRGlkVABAGZV8ETVxNNwxeHlQJDBkNXg9JHUlSSkkFSRwSAFYfWhcCEAVUBAJQXk83C28taVBSVzd%2BORZKQkEgWw8Ld2F1ExdXJQAUD1YdWxYDEzdXGVsVCxYHVB5rJWNgNxR1WBYBGwdlGV0dARQGVxlbJQIXA1MSWRYDFAZUHV4lBQ%3D%3D&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsSARYGVxtZFwMNXhBHBg%3D%3D)
   * 限制交易区域：北京
+
+## 极客,程序员贴纸
+  * 四张(程序员及IT职业贴纸)
+  * 福利来源:活动赠送
+
+## Jawbone UP 2
+  * 类型:手环
+  * 福利来源:个人购买
+  * 注意:腕带已经损坏,附带充电设备
+  * 了解更多:[Jawbone Up 2](http://union.click.jd.com/jdc?e=&p=AyIHZRhdHQUQBFYeUiUCFQZcElgWAxQGZV8ETVxNNwxeHlQJDBkNXg9JHUlSSkkFSRwSAFQSUhYBEwFUBAJQXk83B0UgbXpXYzB7I0lfElsXcx1BSWxZNRdXJQAUD1YdWxYDEzdXGVsVCxYHVB5rJWNgNxR1WxwEEw9lHlgTBhcHVB5fJQIXAVUaUhQLEQRXG1olBSJXCk4YS1pHTxFPayU%3D&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsSAxsOVhhaEwMNXhBHBg%3D%3D)
+
+## 有线电视机顶盒及遥控
+  * 应该适用于北京地区的有线电视
 
