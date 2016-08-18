@@ -9,12 +9,18 @@ footer: true
 
 这里列举一些我读过的书籍，所列书籍个人认为都值得仔细咀嚼。
 
-##在读
-  * [挪威的森林](http://www.amazon.cn/gp/product/B00K189ZU2/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00K189ZU2&linkCode=as2&tag=droidyue-23)
-
-
 
 ##已读
+[断舍离](http://union.click.jd.com/jdc?e=&p=AyIHZR5aEQISA1AYUyUCEgRRElMcAiJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQIRA1wTUhUdS0IJRmtSUXFMUk04EGBXeVREO3QAW0dcUFxlDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3NGlrR2zKsePD%2FqQexq3aztOCMhcHUxhcEgcTAGUbXhMCFwFTHFIRAREHZRxrRV1HRAtDDl1GRjdl&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsVARYOXRJbCltXWwg%3D)
+
+> 一部有"毒"的书
+
+> 不仅仅教会了如何理清物品与自己的关系,更教会了我们通过对看得见的世界如何影响看不见的时间
+
+> 断=断绝不需要的东西，舍=舍弃多余的废物，离=脱离对物品的执着。
+
+
+
 [雪国](http://union.click.jd.com/jdc?e=&p=AyIHZR5aEQISA1AYUyUCEwVVHVoQACJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQMQB1MaXhcdS0IJRmtBWWsZBkgEd2FhWwxjC0EAVHIgTy51Dh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3NGlrR2zKsePD%2FqQexq3aztOCMhcHUxhcEgcTAGUbXhMDGwRdGlMTBhUPZRxrRV1HRAtDDl1GRjdl&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsUABIBVB5ZCltXWwg%3D)
 
 > 川端康成诺贝尔文学奖代表作之一,日式美学的代表作.
