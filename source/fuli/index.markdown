@@ -56,11 +56,24 @@ footer: true
   * 了解更多：[Facebook效应](http://union.click.jd.com/jdc?e=&p=AyIHZR5aEQISA1AYUyUCEwNVG1IVBiJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQMWB1USWxEdS0IJRmtJA29uEHsvb2dgfTNhIWxeEFFWHBNDDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3NGlrR2zKsePD%2FqQexq3aztOCMhABXRhdFAAQB2UbXhEEFA5cGl8dABoAZRw%3D&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsUBhIHXBtfCltXWwg%3D)
   * 限制条件：北京
 
+## 海底捞你学不会
+  * 类型:纸质书
+  * 数量:一本
+  * 福利来源:女友购买
+  * 了解更多:[海底捞你学不会](http://union.click.jd.com/jdc?e=&p=AyIHZR5aEQISA1AYUyUCEgFTGFIUCiJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQIUAVYSWh0dS0IJRmteeFBjNU5aHWBRTx1sCU5QcWQuRQtlDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3NGlrR2zKsePD%2FqQexq3aztOCMhcEUx9eFQMXA2UbXhMBEQdTHVwVBBQAZRxrRV1HRAtDDl1GRjdl&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsVBBQEXBpTCltXWwg%3D)
+
 ## 褚橙你也学不会
   * 类型:图书
   * 数量:一本
   * 福利来源:女友购买
   * 了解更多:[褚橙你也学不会](http://union.click.jd.com/jdc?e=&p=AyIHZR5aEQISA1AYUyUCEgBSE14SCiJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQIVAF0eXB0dS0IJRmtOfG1nLAECdGducS9DHkBrbHEpZyFDDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3NGlrR2zKsePD%2FqQexq3aztOCMhcEUx9eFQMXA2UbXhMBEQdSHF4cChEDZRxrRV1HRAtDDl1GRjdl&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsVBRUPUBxTCltXWwg%3D)
+
+## 你在为谁工作
+  * 类型:图书
+  * 数量:一本
+  * 福利来源:他人赠送
+  * 了解更多:[你在为谁工作](http://union.click.jd.com/jdc?e=&p=AyIHZR5aEQISA1AYUyUCEwZRGF4VByJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQMTA1YeWxAdS0IJRmtuR3FHN3lFQmFQW09GOklGbV1SeVpDDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3NGlrR2zKsePD%2FqQexq3aztOCMhcEUx9eFQMXA2UbXhMBEQdTHFsVAxYDZRxrRV1HRAtDDl1GRjdl&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsUAxYEUBteCltXWwg%3D)
+
 
 ##广辞苑
   * 类型：纸质书
