@@ -11,6 +11,18 @@ footer: true
 
 
 ##已读
+[褚时健传](http://union.click.jd.com/jdc?e=&p=AyIHZR5aEQISA1AYUyUCEg5UGFwSBiJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQIbBlYcXBEdS0IJRmt1RWxcNm4NaGdgBFdGRRRVTAArGgZTDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3NGlrR2zKsePD%2FqQexq3aztOCMhcHUxhcEgcTAGUbXhMBFAVcElkcABUCZRxrRV1HRAtDDl1GRjdl&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsVCxMEUhxfCltXWwg%3D)
+
+> 一部朴素真实的传记,非鸡汤.
+
+> 褚时健，这是一个在中国烟草史上举足轻重的名字，这是一位将地方工厂发展成世界行业巨头的能人，临近退休却折戟沉沙。
+
+> 十几年后，褚时健的名字因为橙子享誉大江南北，以70几岁高龄重新创业的故事，激励和影响了无数的人，褚橙也被称为“励志橙”。
+
+> 王石、吴晓波作序推荐。
+
+
+
 [断舍离](http://union.click.jd.com/jdc?e=&p=AyIHZR5aEQISA1AYUyUCEgRRElMcAiJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQIRA1wTUhUdS0IJRmtSUXFMUk04EGBXeVREO3QAW0dcUFxlDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3NGlrR2zKsePD%2FqQexq3aztOCMhcHUxhcEgcTAGUbXhMCFwFTHFIRAREHZRxrRV1HRAtDDl1GRjdl&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsVARYOXRJbCltXWwg%3D)
 
 > 一部有"毒"的书
