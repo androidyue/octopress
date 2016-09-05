@@ -195,7 +195,7 @@ I/MainActivity( 5046): testInheritableThreadLocal =droidyue.com
   * 如果应用使用了线程池，那么之前的线程实例处理完之后出于复用的目的依然存活
   * 所以，ThreadLocal设定的值被持有，导致内存泄露。
 
-上面的逻辑是清晰的，可是ThreadLocal并不会产生内存泄露，因为ThreadLocalMap做选择key的时候，并不是直接选择ThreadLocal实例，而是ThreadLocalMap实例的弱引用。
+上面的逻辑是清晰的，可是ThreadLocal并不会产生内存泄露，因为ThreadLocalMap在选择key的时候，并不是直接选择ThreadLocal实例，而是ThreadLocal实例的弱引用。
 ```java
 static class ThreadLocalMap {
 
