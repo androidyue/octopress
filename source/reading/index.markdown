@@ -11,6 +11,15 @@ footer: true
 
 
 ##已读
+[只是为了好玩:Linux之父林纳斯自传](https://www.amazon.cn/gp/product/B00MB51SAI/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00MB51SAI&linkCode=as2&tag=droidyue-23)
+
+> 这是一本关于Linux创始人的传记
+
+> 从中你会了解到关于Linux,开源等很多有见解的观点
+
+> 读完本书之后,对先前模糊的Linus的印象更加具体.尤其是对其直率的个性印象深刻.
+
+
 [褚时健传](http://union.click.jd.com/jdc?e=&p=AyIHZR5aEQISA1AYUyUCEg5UGFwSBiJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQIbBlYcXBEdS0IJRmt1RWxcNm4NaGdgBFdGRRRVTAArGgZTDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3NGlrR2zKsePD%2FqQexq3aztOCMhcHUxhcEgcTAGUbXhMBFAVcElkcABUCZRxrRV1HRAtDDl1GRjdl&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsVCxMEUhxfCltXWwg%3D)
 
 > 一部朴素真实的传记,非鸡汤.
