@@ -124,3 +124,9 @@ categories: 树莓派 折腾
   * js脚本运行工具phantomjs
 
 树莓派很便宜,但是购买之前还是要再三思考,确保物尽其用.
+
+## 补充1:
+文章发出后,很多朋友问我,该具体怎么玩树莓派,说来话长,于是从精挑细选了一本介绍如何玩树莓派的书籍
+
+  * [树莓派 Raspberry Pi 实战指南](http://union.click.jd.com/jdc?e=&p=AyIHZR5aEQISA1AYUyUCEgFVGF4UBSJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQIUB1YeWhIdS0IJRmtza2JjB08GVmFEBA18OVIFbwUtayhDDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3NGlrR2zKsePD%2FqQexq3aztOCMhcHVB1SEwcaAGUbXhMAFwFWG1IWBhAOZRxrRV1HRAtDDl1GRjdl&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsVBBIEUBpcCltXWwg%3D)
+
