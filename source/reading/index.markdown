@@ -11,6 +11,15 @@ footer: true
 
 
 ##已读
+[浪潮之巅](http://union.click.jd.com/jdc?e=&p=AyIHZR5aEQISA1AYUyUCEgRRGVscByJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQIRA1cbUhAdS0IJRmthBFBeKWAYaGFAeSl%2FEBJHTH4RBVpTDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3NGlrR2zKsePD%2FqQexq3aztOCMhcHUxhcEgcTAGUbXhMHFgNXGlodAxoCZRxrRV1HRAtDDl1GRjdl&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsVARYFVRJeCltXWwg%3D)
+
+> 一本硅谷IT科技公司的史书
+
+> 书中介绍了AT&T、IBM、苹果、英特尔、微软、思科、雅虎和Google等公司被推上历史的浪潮之尖.分析了一些ATT,雅虎等公司如何走向衰落.
+
+> 本书可以算是IT人不可错过的一本好书.
+
+
 [只是为了好玩:Linux之父林纳斯自传](https://www.amazon.cn/gp/product/B00MB51SAI/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00MB51SAI&linkCode=as2&tag=droidyue-23)
 
 > 这是一本关于Linux创始人的传记
