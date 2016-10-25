@@ -17,6 +17,7 @@
 		}
 		
 		var destLink = getParamValue('url');
+		destLink = window.atob(destLink);
 		if (destLink == undefined) {
 			destLink = 'http://droidyue.com';
 		}
