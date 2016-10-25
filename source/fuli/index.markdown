@@ -38,6 +38,7 @@ footer: true
   * 类型：纸质书
   * 数量：一本
   * 福利来源：别人赠送
+  * 状态：已出
   * 了解更多：[只是为了好玩: Linux之父林纳斯自传](http://www.amazon.cn/gp/product/B00MB51SAI/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00MB51SAI&linkCode=as2&tag=droidyue-23)
 
 
@@ -74,6 +75,11 @@ footer: true
   * 福利来源:他人赠送
   * 了解更多:[你在为谁工作](http://union.click.jd.com/jdc?e=&p=AyIHZR5aEQISA1AYUyUCEwZRGF4VByJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQMTA1YeWxAdS0IJRmtuR3FHN3lFQmFQW09GOklGbV1SeVpDDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3NGlrR2zKsePD%2FqQexq3aztOCMhcEUx9eFQMXA2UbXhMBEQdTHFsVAxYDZRxrRV1HRAtDDl1GRjdl&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsUAxYEUBteCltXWwg%3D)
 
+## 忏悔录
+  * 类型：图书
+  * 数量：上下册
+  * 福利来源：他人赞助
+  * 了解更多：[忏悔录](http://union.click.jd.com/jdc?e=&p=AyIHZR5aEQISA1AYUyUCEgVXH14cBiJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQIQBVEeUhEdS0IJRmsLflNgKxIoT2EaBClQI2xfVUIdHC1DDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3NGlrR2zKsePD%2FqQexq3aztOCMhcEUx9eFQMXA2UbXhMEEANQHFITBRIHZRxrRV1HRAtDDl1GRjdl&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsVABADUBJfCltXWwg%3D)
 
 ##广辞苑
   * 类型：纸质书
@@ -132,6 +138,12 @@ footer: true
   * 了解更多：[赛嘉（seago） 便携家用紫外线杀菌消毒灯UV灯](http://union.click.jd.com/jdc?e=&p=AyIHZRhdHAsSAlMTWiUCFQRRGlkVABAGZV8ETVxNNwxeHlQJDBkNXg9JHUlSSkkFSRwSAFYfWhcCEAVUBAJQXk83C28taVBSVzd%2BORZKQkEgWw8Ld2F1ExdXJQAUD1YdWxYDEzdXGVsVCxYHVB5rJWNgNxR1WBYBGwdlGV0dARQGVxlbJQIXA1MSWRYDFAZUHV4lBQ%3D%3D&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsSARYGVxtZFwMNXhBHBg%3D%3D)
   * 限制交易区域：北京
 
+## 华三H3C Aolynk SOHO-S1008A-CN 8口桌面式非网管傻瓜式交换机
+  * 数量：一个
+  * 福利来源：他人赠送
+  * 了解更多：[华三H3C Aolynk SOHO-S1008A-CN 8口桌面式非网管傻瓜式交换机](http://union.click.jd.com/jdc?e=&p=AyIHZRlTFgsbAVUTXiUCFwZTE1IUBBECZV8ETVxNNwxeHlQJDBkNXg9JHUlSSkkFSRwSAlQdUxwDFARQBAJQXk83VGdBfFgMTiB7OxZjEno9SA9KS0tQAxdXJQAUD1YdWxYDEzdXGVsVCxYHVB5rJWNgNxR1XRIGFgZlHlgTBhcHVB5fJQIXAVMZXxEFEQBSGF8lBSJXCk4YS1pHTxFPayU%3D&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsQAxQPXBpdFgcNXhBHBg%3D%3D)
+
+
 ## 极客,程序员贴纸
   * 四张(程序员及IT职业贴纸)
   * 福利来源:活动赠送
@@ -139,6 +151,7 @@ footer: true
 ## Jawbone UP 2
   * 类型:手环
   * 福利来源:个人购买
+  * 状态：已出
   * 注意:腕带已经损坏,附带充电设备
   * 了解更多:[Jawbone Up 2](http://union.click.jd.com/jdc?e=&p=AyIHZRhdHQUQBFYeUiUCFQZcElgWAxQGZV8ETVxNNwxeHlQJDBkNXg9JHUlSSkkFSRwSAFQSUhYBEwFUBAJQXk83B0UgbXpXYzB7I0lfElsXcx1BSWxZNRdXJQAUD1YdWxYDEzdXGVsVCxYHVB5rJWNgNxR1WxwEEw9lHlgTBhcHVB5fJQIXAVUaUhQLEQRXG1olBSJXCk4YS1pHTxFPayU%3D&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsSAxsOVhhaEwMNXhBHBg%3D%3D)
 
