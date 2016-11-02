@@ -11,6 +11,15 @@ footer: true
 
 
 ##已读
+[十日谈](http://union.click.jd.com/jdc?e=&p=AyIHZR5aEQISA1AYUyUCEw9dHl8QBiJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQMaD1AfXhEdS0IJRmsQfGcdXXNaTWBtQxR%2FI0wcDF9RfiZDDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3NGlrR2zKsePD%2FqQexq3aztOCMhcHUxhcEgcTAGUbXhMLEgRdEl4SBhUFZRxrRV1HRAtDDl1GRjdl&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsUChoCUR5fCltXWwg%3D)
+
+> 实际上这不是一本小黄书
+
+> 作者为卜伽丘(1311-1375)，意大利著名作家。《十日谈》是他的代表作，也是欧洲文学史上第一部现实主义巨著。
+
+> 书中的故事和一切事物一样，可以有益也可以有害，完全取决于听故事的人。
+
+
 [浪潮之巅](http://union.click.jd.com/jdc?e=&p=AyIHZR5aEQISA1AYUyUCEgRRGVscByJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQIRA1cbUhAdS0IJRmthBFBeKWAYaGFAeSl%2FEBJHTH4RBVpTDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3NGlrR2zKsePD%2FqQexq3aztOCMhcHUxhcEgcTAGUbXhMHFgNXGlodAxoCZRxrRV1HRAtDDl1GRjdl&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsVARYFVRJeCltXWwg%3D)
 
 > 一本硅谷IT科技公司的史书
