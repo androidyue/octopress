@@ -11,6 +11,15 @@ footer: true
 
 
 ##已读
+[喻世明言](http://union.click.jd.com/jdc?e=&p=AyIHZR5aEQISA1AYUyUCEwdWElgQASJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQMSBFwYXhYdS0IJRmtsSlZ6MlwEHWJndQoaP1IBTUEVZFtTDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3NGlrR2zKsePD%2FqQexq3aztOCMhcHUxhcEgcTAGUbXhMKGwRVHV0SAxIDZRxrRV1HRAtDDl1GRjdl&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsUAhEOVh5YCltXWwg%3D)
+
+> 一部劝人行善的白话小说
+
+> 自高中起就喜欢冯梦龙的作品，直到今日才完整读完一本。
+
+> 《喻世明言》共有40卷，每卷为一个短篇小说，多取材于现实生活，主题涵盖爱情、婚姻、朋友情义等。故事精彩，读起来惊叹不已。
+
+
 [十日谈](http://union.click.jd.com/jdc?e=&p=AyIHZR5aEQISA1AYUyUCEw9dHl8QBiJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQMaD1AfXhEdS0IJRmsQfGcdXXNaTWBtQxR%2FI0wcDF9RfiZDDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3NGlrR2zKsePD%2FqQexq3aztOCMhcHUxhcEgcTAGUbXhMLEgRdEl4SBhUFZRxrRV1HRAtDDl1GRjdl&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsUChoCUR5fCltXWwg%3D)
 
 > 实际上这不是一本小黄书
