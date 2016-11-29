@@ -11,6 +11,15 @@ footer: true
 
 
 ##已读
+[计算机是怎样跑起来的](http://union.click.jd.com/jdc?e=&p=AyIHZR5aEQISA1AYUyUCEgBdE1kcBiJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQIVD10ZUhEdS0IJRmt0e1ZUAEMfTmcVR1JpPRNRFmEMfltTDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3NGlrR2zKsePD%2FqQexq3aztOCMhcHUxhcEgcTAGUbXhwDFwRQG10UAhYBZRxrRV1HRAtDDl1GRjdl&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsVBRoPVxJfCltXWwg%3D)
+
+> 一本浅显易懂的科普书籍
+
+> 程序员看了有一种豁然开朗的感觉，不时可能发出原来这样子的感叹。
+
+> 日文版重印18次！
+
+
 [喻世明言](http://union.click.jd.com/jdc?e=&p=AyIHZR5aEQISA1AYUyUCEwdWElgQASJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQMSBFwYXhYdS0IJRmtsSlZ6MlwEHWJndQoaP1IBTUEVZFtTDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3NGlrR2zKsePD%2FqQexq3aztOCMhcHUxhcEgcTAGUbXhMKGwRVHV0SAxIDZRxrRV1HRAtDDl1GRjdl&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsUAhEOVh5YCltXWwg%3D)
 
 > 一部劝人行善的白话小说
