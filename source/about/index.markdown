@@ -27,12 +27,12 @@ footer: true
   * 非技术相关的思考和胡思乱想天马星空记录
 
 ##关于我
-  * Android 工程师, [Infoq译者](http://www.infoq.com/cn/author/%E6%AE%B5%E5%BB%BA%E5%8D%8E), [2015 GDG Devfest讲师](http://chinagdg.org/2015-devfest-beijing/)
+  * Android 工程师, [Infoq译者](http://www.infoq.com/cn/author/%E6%AE%B5%E5%BB%BA%E5%8D%8E), [GDG 北京线下演讲者](http://chinagdg.org/2015-devfest-beijing/),[droidcon Beijing 2016演讲嘉宾](http://droidcon.cfict.com.cn/meeting/list_en.asp?id=3355&nid=1368)
   * 不是90后，89年出生的保定人在北京
   * 喜欢终端上完成操作，对GUI有点偏见
   * 一个优秀的程序员应该是一位艺术家，其代码不可增不可减。
   * 语言：普通话，英语，保定话，日本语，Java，Python，Ruby等
-  * 两台机器：**Sony Vaio With Fedora 17**    &&  Macbook Pro Retina, 15-inch
+  * 机器：Macbook Pro Retina 13-inch    &&  Macbook Pro Retina, 15-inch
   * 联系方式：andrewallanwallace#gmail.com
   
 ###微信扫一扫
