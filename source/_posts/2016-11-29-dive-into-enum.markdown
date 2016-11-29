@@ -174,7 +174,7 @@ public static void main(String[] args) {
         }
     }
 ```
-不过,通常情况下switch-case支持类似int的类型,那么它是怎么做到对Enum的支持呢,我们不放反编译上述方法看一下字节码的真实情况.
+不过,通常情况下switch-case支持类似int的类型,那么它是怎么做到对Enum的支持呢,我们反编译上述方法看一下字节码的真实情况.
 
 ```java
 public static void main(java.lang.String[]);

@@ -133,7 +133,7 @@ ContextThemeWrapper也优先处理了LayoutManager服务
     }
 ```
 
-##那到底改用哪个Context
+##那到底该用哪个Context
   * 如果服务和UI相关，则用Activity
   * 如果是类似ALARM_SERVICE,CONNECTIVITY_SERVICE建议有限选用Application Context
   * 如果出现出现了内存泄漏，排除问题，可以考虑使用Application Context
