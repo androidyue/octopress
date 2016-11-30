@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "你造么,Android中程序的停止状态"
+title: "关于Android中App的停止状态"
 date: 2014-07-14 19:46
 comments: true
 categories: Android
