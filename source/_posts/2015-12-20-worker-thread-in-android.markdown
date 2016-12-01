@@ -134,6 +134,7 @@ try {
 ###串行带来的问题
 
 Android团队关于AsyncTask执行策略进行了多次修改，修改大致如下：
+
   * 自最初引入到Donut(1.6)之前，任务串行执行
   * 从Donut到GINGERBREAD_MR1(2.3.4),任务被修改成了并行执行
   * 从HONEYCOMB（3.0）至今，任务恢复至串行，但可以设置`executeOnExecutor()`实现并行执行。
