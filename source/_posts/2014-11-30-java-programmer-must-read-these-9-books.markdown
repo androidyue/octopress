@@ -81,3 +81,15 @@ Java领域最有影响力和价值的著作之一，拥有20多年教学与研�
 本文原文为[http://javarevisited.blogspot.com/2013/01/top-5-java-programming-books-best-good.html](http://javarevisited.blogspot.com/2013/01/top-5-java-programming-books-best-good.html)
 
 译文再原文基础上采用意译较多，并在某些地方进行了些许修改。
+
+
+
+
+> 互联网行业的年轻人，他们面对着怎样的职业瓶颈、困惑与未来选择？过去，这鲜有人关心。资深的职场人，也多半优先选择熟人去推荐机会。
+
+> 100offer致力于改变现状，帮互联网行业最好的人才发现更好的机会。使用[100offer.com](https://100offer.com/?utm_source=droidyue&utm_medium=display&utm_campaign=droidyue_blog&campaign_code=droidyue)或100offer App，可以一周内获得中国、美国等数千家优质企业的工作机会。
+
+
+<a href="https://100offer.com/?utm_source=droidyue&utm_medium=display&utm_campaign=droidyue_blog&campaign_code=droidyue"><img src="http://7jpolu.com1.z0.glb.clouddn.com/100offer.jpg"></a>
+
+
