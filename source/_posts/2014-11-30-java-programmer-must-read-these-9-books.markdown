@@ -90,6 +90,6 @@ Java领域最有影响力和价值的著作之一，拥有20多年教学与研�
 > 100offer致力于改变现状，帮互联网行业最好的人才发现更好的机会。使用[100offer.com](https://100offer.com/?utm_source=droidyue&utm_medium=display&utm_campaign=droidyue_blog&campaign_code=droidyue)或100offer App，可以一周内获得中国、美国等数千家优质企业的工作机会。
 
 
-<a href="https://100offer.com/?utm_source=droidyue&utm_medium=display&utm_campaign=droidyue_blog&campaign_code=droidyue"><img src="http://7jpolu.com1.z0.glb.clouddn.com/100offer.jpg"></a>
+<a href="https://100offer.com/?utm_source=droidyue&utm_medium=display&utm_campaign=droidyue_blog&campaign_code=droidyue"><img class="no_boarder_class" src="http://7jpolu.com1.z0.glb.clouddn.com/100offer.jpg"></a>
 
 
