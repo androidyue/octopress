@@ -11,6 +11,14 @@ footer: true
 
 
 ##已读
+[你一定爱读的极简欧洲史](http://union.click.jd.com/jdc?e=&p=AyIHZR5aEQISA1AYUyUCEgZXElkVBiJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQITBVwZWxEdS0IJRmt1R29TCGATC2BOTwUaJUtHVFwlfDNlDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3NGlrR2zKsePD%2FqQexq3aztOCMhcHUxhcEgcTAGUbXhwCEwVVGVsWBRIEZRxrRV1HRAtDDl1GRjdl&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsVAxAOVxtfCltXWwg%3D)
+
+> 历史，是最好的避险秘籍
+
+> 把复杂的历史讲的很简单明了。
+
+> 一本有见地、理解深入、值得好好读一读的书
+
 [计算机是怎样跑起来的](http://union.click.jd.com/jdc?e=&p=AyIHZR5aEQISA1AYUyUCEgBdE1kcBiJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQIVD10ZUhEdS0IJRmt0e1ZUAEMfTmcVR1JpPRNRFmEMfltTDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3NGlrR2zKsePD%2FqQexq3aztOCMhcHUxhcEgcTAGUbXhwDFwRQG10UAhYBZRxrRV1HRAtDDl1GRjdl&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsVBRoPVxJfCltXWwg%3D)
 
 > 一本浅显易懂的科普书籍
