@@ -11,6 +11,14 @@ footer: true
 
 
 ##已读
+[警世通言](http://union-click.jd.com/jdc?e=0&p=AyIHZR5aEQISA1AYUyUCEg5cGVsdASJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQIbDlcbUxYdS0IJRmtnYBVQVGVBSGBLUyUFW3RSalMzel1lDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3VRprR2zKsePD%2FqQexq3aztOCMhcHUxhcEgcTAGUbXhwAFQBVG14XBRsOZRxrRV1HRAtDDl1GRjdlK2s%3D&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsVCxsFVRNYCltXWwg%3D)
+
+> 中国古代白话短篇小说的一座高峰
+
+> 宋元时期的小说占比居多,爱情故事占比很大
+
+> 冯梦龙三言作品之一
+
 [你一定爱读的极简欧洲史](http://union.click.jd.com/jdc?e=&p=AyIHZR5aEQISA1AYUyUCEgZXElkVBiJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQITBVwZWxEdS0IJRmt1R29TCGATC2BOTwUaJUtHVFwlfDNlDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3NGlrR2zKsePD%2FqQexq3aztOCMhcHUxhcEgcTAGUbXhwCEwVVGVsWBRIEZRxrRV1HRAtDDl1GRjdl&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsVAxAOVxtfCltXWwg%3D)
 
 > 历史，是最好的避险秘籍
