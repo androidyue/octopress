@@ -11,6 +11,15 @@ footer: true
 
 
 ##已读
+[米](http://union-click.jd.com/jdc?e=0&p=AyIHZR5aEQISA1AYUyUCEgNTE1sQBCJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQIWAV0bXhMdS0IJRmsPS3MBB0IoEWIIYR0bMkZYdwZQSS5DDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3VRprR2zKsePD%2FqQexq3aztOCMhcHUxhcEgcTAGUbXhwHEANTGVoRBxQHZRxrRV1HRAtDDl1GRjdlK2s%3D&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsVBhQPVR5dCltXWwg%3D)
+
+> 中国当代著名作家 苏童 的作品
+
+> 根据本书改编的电影《大鸿米店》曾被禁止放映了很久，现已解封。
+
+> 一部描写人性丑恶的小说，所有和冯家有关的人都充满了悲剧属性。
+
+
 [警世通言](http://union-click.jd.com/jdc?e=0&p=AyIHZR5aEQISA1AYUyUCEg5cGVsdASJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQIbDlcbUxYdS0IJRmtnYBVQVGVBSGBLUyUFW3RSalMzel1lDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3VRprR2zKsePD%2FqQexq3aztOCMhcHUxhcEgcTAGUbXhwAFQBVG14XBRsOZRxrRV1HRAtDDl1GRjdlK2s%3D&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsVCxsFVRNYCltXWwg%3D)
 
 > 中国古代白话短篇小说的一座高峰
