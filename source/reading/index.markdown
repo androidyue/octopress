@@ -11,6 +11,14 @@ footer: true
 
 
 ##已读
+[丑陋的中国人](http://union-click.jd.com/jdc?e=0&p=AyIHZR5aEQISA1AYUyUCEgBSGlIdBCJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQIVAFQSUxMdS0IJRmtsfnFuUxw%2FfWdBBBNYH3NcUg8hQBtTDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3VRprR2zKsePD%2FqQexq3aztOCMhcHUxhcEgcTAGUbXhwEEgBcGV8XBxAPZRxrRV1HRAtDDl1GRjdlK2s%3D&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsVBRUGXBNdCltXWwg%3D)
+
+> 台湾通俗历史作家柏杨先生的著作
+
+> 一部揭露中国人丑陋面孔的报告，书已出版几十载，然而里面提到的丑陋面依然存在，并无改善。
+
+> 在中国，只要一件事侵犯到了两个人以上的权利时，绝对不会有人挺身而出，提出抗议。
+
 [米](http://union-click.jd.com/jdc?e=0&p=AyIHZR5aEQISA1AYUyUCEgNTE1sQBCJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQIWAV0bXhMdS0IJRmsPS3MBB0IoEWIIYR0bMkZYdwZQSS5DDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3VRprR2zKsePD%2FqQexq3aztOCMhcHUxhcEgcTAGUbXhwHEANTGVoRBxQHZRxrRV1HRAtDDl1GRjdlK2s%3D&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsVBhQPVR5dCltXWwg%3D)
 
 > 中国当代著名作家 苏童 的作品
