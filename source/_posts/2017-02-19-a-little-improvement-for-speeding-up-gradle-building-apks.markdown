@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "一个关于打包提速的小改进"
+title: "一个关于安卓打包提速的小改进"
 date: 2017-02-19 20:19
 comments: true
 categories: Android Gradle 
