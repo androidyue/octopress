@@ -27,11 +27,6 @@ footer: true
   * 福利来源：本网站右侧展示banner交换所得
   * 更多了解：[看云](http://www.kancloud.cn/price)
 
-## 计算机是怎样跑起来的
-  * 类型：纸质书
-  * 数量：一本
-  * 了解更多:[计算机是怎样跑起来的](http://union.click.jd.com/jdc?e=&p=AyIHZR5aEQISA1AYUyUCEgBdE1kcBiJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQIVD10ZUhEdS0IJRmt%2BX1FFDmQ7R2JVUzNeXVwHYBkpZARDDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3NGlrR2zKsePD%2FqQexq3aztOCMhcEUx9eFQMXA2UbXhwDFwRRG1sXARsEZRxrRV1HRAtDDl1GRjdl&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsVBRoPVxJfCltXWwg%3D)
-
 
 ##蒋丰看日本：日本国会议员谈中国
   * 类型：纸质书
@@ -122,47 +117,3 @@ footer: true
 ## 有线电视机顶盒及遥控
   * 应该适用于北京地区的有线电视
 
-##Linux 命令 编辑器与shell编程
-  * 类型：纸质书
-  * 数量：一本
-  * 状态：已出
-  * 福利来源：个人图书
-  * 了解更多：[linux 命令 编辑器与shell编程](http://union.click.jd.com/jdc?e=&p=AyIHZR5aEQISA1AYUyUCEwZTElMRBSJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQMTAVwTXxIdS0IJRmtCZBFaU0suHGFvBBV4JnAcUHoycDx1Dh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3NGlrR2zKsePD%2FqQexq3aztOCMhABXRhdFAAQB2UbXhEEFA5THVkXARMAZRw%3D&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsUAxQOXR9cCltXWwg%3D)
-  * 限制条件：北京地区
-
-##日语说词解字
-  * 类型：书籍
-  * 数量：一本
-  * 状态：**已出**
-  * 福利来源：个人购买
-  * 了解更多:[日语说词解字](http://union.click.jd.com/jdc?e=&p=AyIHZR5aEQISA1AYUyUCEw9RGlgUAiJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQMaA1QYWhUdS0IJRmtedWpaT2AYZWFbBCJpX0Zha28BGhtTDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3NGlrR2zKsePD%2FqQexq3aztOCMhABXRhdFwEbAGUbXhELFwBQG1oWBhYFZRw%3D&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsUChYGVhpbCltXWwg%3D)
-
-##只是为了好玩:Linux之父林纳斯自传
-  * 类型：纸质书
-  * 数量：一本
-  * 福利来源：别人赠送
-  * 状态：已出
-  * 了解更多：[只是为了好玩: Linux之父林纳斯自传](http://www.amazon.cn/gp/product/B00MB51SAI/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00MB51SAI&linkCode=as2&tag=droidyue-23)
-
-##Facebook效应
-  * 类型：纸质书
-  * 数量：一本
-  * 状态：**已出**
-  * 福利来源：个人图书
-  * 了解更多：[Facebook效应](http://union.click.jd.com/jdc?e=&p=AyIHZR5aEQISA1AYUyUCEwNVG1IVBiJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQMWB1USWxEdS0IJRmtJA29uEHsvb2dgfTNhIWxeEFFWHBNDDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3NGlrR2zKsePD%2FqQexq3aztOCMhABXRhdFAAQB2UbXhEEFA5cGl8dABoAZRw%3D&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsUBhIHXBtfCltXWwg%3D)
-  * 限制条件：北京
-
-##日语基础语法整理
-  * 类型：书籍
-  * 数量：一本
-  * 状态：**已出**
-  * 福利来源：个人购买
-  * 了解更多:[日语基础语法整理](http://union.click.jd.com/jdc?e=&p=AyIHZR5aEQISA1AYUyUCEwZdHFsVBSJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQMTD1IbWxIdS0IJRmtBYGYDFGYmFWFHeSpuWUh7dno%2BGVx1Dh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3NGlrR2zKsePD%2FqQexq3aztOCMhABXRhdFwEbAGUbXhELFwBXElIQBhUBZRw%3D&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsUAxoAVRtcCltXWwg%3D)
-  * 限制交易区域：北京
-
-## Jawbone UP 2
-  * 类型:手环
-  * 福利来源:个人购买
-  * 状态：已出
-  * 注意:腕带已经损坏,附带充电设备
-  * 了解更多:[Jawbone Up 2](http://union.click.jd.com/jdc?e=&p=AyIHZRhdHQUQBFYeUiUCFQZcElgWAxQGZV8ETVxNNwxeHlQJDBkNXg9JHUlSSkkFSRwSAFQSUhYBEwFUBAJQXk83B0UgbXpXYzB7I0lfElsXcx1BSWxZNRdXJQAUD1YdWxYDEzdXGVsVCxYHVB5rJWNgNxR1WxwEEw9lHlgTBhcHVB5fJQIXAVUaUhQLEQRXG1olBSJXCk4YS1pHTxFPayU%3D&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsSAxsOVhhaEwMNXhBHBg%3D%3D)
