@@ -1,0 +1,16 @@
+<html>
+	<script src="http://7jpncc.com1.z0.glb.clouddn.com/jquery.min.js"></script>
+	<script type="text/javascript" src="http://7xr25o.com1.z0.glb.clouddn.com/blogutils.js" charset="utf-8"></script>
+	<script type="text/javascript">
+		function redirectPage(destUrl) {
+			window.location.href = destUrl;
+		}
+		
+		var destLink = getParamValue('url');
+		if (destLink == undefined) {
+			destLink = 'http://droidyue.com';
+		}
+		destLink = decodeURIComponent(destLink);
+		redirectPage(destLink);
+	</script>
+</html>
