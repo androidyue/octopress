@@ -9,8 +9,14 @@ footer: true
 
 这里列举一些我读过的书籍，所列书籍个人认为都值得仔细咀嚼。
 
+[看见](https://www.amazon.cn/gp/product/B00LO5EJNO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00LO5EJNO&linkCode=as2&tag=droidyue-23)
 
-##已读
+> 央视知名记者、主持人柴静，首度出书讲述十年央视生涯。个人成长的告白书，中国社会十年变迁的备忘录
+
+> 偏文艺，但更加写实，带你了解你可能忽略的问题
+
+> 看完之后略带伤感和思考，尤其是前一本读完的书是《丑陋的中国人》
+
 [丑陋的中国人](http://union-click.jd.com/jdc?e=0&p=AyIHZR5aEQISA1AYUyUCEgBSGlIdBCJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQIVAFQSUxMdS0IJRmtsfnFuUxw%2FfWdBBBNYH3NcUg8hQBtTDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3VRprR2zKsePD%2FqQexq3aztOCMhcHUxhcEgcTAGUbXhwEEgBcGV8XBxAPZRxrRV1HRAtDDl1GRjdlK2s%3D&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsVBRUGXBNdCltXWwg%3D)
 
 > 台湾通俗历史作家柏杨先生的著作
