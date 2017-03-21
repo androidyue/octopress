@@ -9,6 +9,15 @@ footer: true
 
 这里列举一些我读过的书籍，所列书籍个人认为都值得仔细咀嚼。
 
+
+[从0到1:开启商业与未来的秘密](https://www.amazon.cn/gp/product/B00RWP6BOU/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00RWP6BOU&linkCode=as2&tag=droidyue-23)
+
+> 硅谷创投教父、PayPal创始人作品，斯坦福大学改变未来的一堂课，为世界创造价值的商业哲学。
+
+> 很多优秀的观点，可以拓宽自己的认识。
+
+> 完成日期：2017/3/21
+
 [看见](https://www.amazon.cn/gp/product/B00LO5EJNO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00LO5EJNO&linkCode=as2&tag=droidyue-23)
 
 > 央视知名记者、主持人柴静，首度出书讲述十年央视生涯。个人成长的告白书，中国社会十年变迁的备忘录
