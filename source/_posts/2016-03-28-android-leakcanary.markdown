@@ -173,7 +173,8 @@ NOOP，即No Operation Performed，无操作指令。常用的编译器技术会
 
 
 ##实践中的问题
-  * 如果targetSdkVersion为23，在6.0的机器上会存在问题，卡死，因为LeakCanary并没有很好支持[Marshmallow运行时权限](http://droidyue.com/blog/2016/01/17/understanding-marshmallow-runtime-permission/)，所以始终得不到sd卡权限，进而导致卡死。
+  * ~~如果targetSdkVersion为23，在6.0的机器上会存在问题，卡死，因为LeakCanary并没有很好支持[Marshmallow运行时权限](http://droidyue.com/blog/2016/01/17/understanding-marshmallow-runtime-permission/)，所以始终得不到sd卡权限，进而导致卡死。~~
+  * 目前LeakCanary已经完美支持运行时权限，大家可以放心使用。
 
 ##注意
   * 目前LeakCanary一次只能报一个泄漏问题，如果存在内存泄漏但不是你的模块，并不能说明这个模块没有问题。建议建议将非本模块的泄漏解决之后，再进行检测。
