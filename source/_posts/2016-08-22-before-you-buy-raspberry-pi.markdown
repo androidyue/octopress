@@ -61,7 +61,7 @@ categories: 树莓派 折腾
 ### 树莓派板子
 这个是必不可少的,目前来说,最新的是三代,建议选择要选购最新的.
 
-[树莓派购买地址](http://s.click.taobao.com/t?e=m%3D2%26s%3Df6ZGuoGzBXUcQipKwQzePOeEDrYVVa64LKpWJ%2Bin0XLjf2vlNIV67lRBEt9fZGXB0e71iVTN2RzM3gYQjCL89vSdxyvKgR5IYpon8UCVSYb15Y5fs5g2zSq7CQVxqFEujUVD%2FJG4O4tJFT4OGjNoyE7JzNSx6OYNxg5p7bh%2BFbQ%3D&pvid=10_118.247.4.215_192_1471158628562)
+[树莓派购买地址](https://s.click.taobao.com/t?e=m%3D2%26s%3DipZBrVjUNPocQipKwQzePOeEDrYVVa64Qih%2F7PxfOKS5VBFTL4hn2ZAjY1sSUHRSc4zWPc6e823M3gYQjCL89vSdxyvKgR5IYpon8UCVSYY8adpyqfOGuyh37tAy5cF3foyLpRdzEyTNiASMxOD6RyGFCzYOOqAQ)
 
 ### TF卡
   * 也称sd卡,起硬盘的作用
@@ -79,7 +79,6 @@ categories: 树莓派 折腾
 ### 电源
   * 需要购买
   * 树莓派要求的输出电流(2.1A),普通安卓手机的电源无法满足
-  * 推荐：[树莓派3专用5v2.5a电源含带开关的电源线](https://s.click.taobao.com/t?e=m%3D2%26s%3DYn8moyz2v%2BIcQipKwQzePOeEDrYVVa64LKpWJ%2Bin0XLjf2vlNIV67nkX46ZYfBDptTN3K9waqqjM3gYQjCL89vSdxyvKgR5IYpon8UCVSYb15Y5fs5g2zSq7CQVxqFEu8v5XPGCNToEzmlniqrZQ07MD8MMA16mvomfkDJRs%2BhU%3D&pvid=10_117.100.136.71_7626_1482673734920)
  
 ### 散热片
   * 建议购买
