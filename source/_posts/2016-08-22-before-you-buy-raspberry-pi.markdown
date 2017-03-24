@@ -134,3 +134,6 @@ categories: 树莓派 折腾
 
 ## 补充2
   * [树莓派3代B型传感器套件 包含16种传感器](https://s.click.taobao.com/t?e=m%3D2%26s%3DC0D1WNsa%2FkAcQipKwQzePOeEDrYVVa64LKpWJ%2Bin0XLjf2vlNIV67gJaOZeI%2BkuIF%2FSaKyaJTUbM3gYQjCL89vSdxyvKgR5IYpon8UCVSYZZln0vafkv4GAtvLiJtd%2BYlrfKbc84rldy6biH%2FHXYoR%2FeYmCjoUYzxiXvDf8DaRs%3D&pvid=10_116.243.181.163_528_1486887990075)
+
+## 补充3
+  * [最新的树莓派 Zero出货了，相比上面的三代来说，更小巧，价格更便宜](https://s.click.taobao.com/t?e=m%3D2%26s%3DXcyO7nddAMYcQipKwQzePOeEDrYVVa64LKpWJ%2Bin0XLjf2vlNIV67ml7L1vYPurExa9spvDO8CnM3gYQjCL89vSdxyvKgR5IYpon8UCVSYY8adpyqfOGuyh37tAy5cF38v5XPGCNToFRef0auTclzXv2ChGnHMsLomfkDJRs%2BhU%3D&pvid=10_117.100.100.144_540_1490361868018)  
