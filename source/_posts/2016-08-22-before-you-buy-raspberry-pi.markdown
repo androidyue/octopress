@@ -61,7 +61,7 @@ categories: 树莓派 折腾
 ### 树莓派板子
 这个是必不可少的,目前来说,最新的是三代,建议选择要选购最新的.
 
-[树莓派购买地址](https://s.click.taobao.com/t?e=m%3D2%26s%3DfnCPOmkkRZccQipKwQzePOeEDrYVVa64LKpWJ%2Bin0XLjf2vlNIV67uMChjThxKrlBuky%2F0Sep%2BHM3gYQjCL89vSdxyvKgR5IYpon8UCVSYZX2Sv0hL74AN8N%2BPMnFT4glrfKbc84rlceJbhCJEtLFYXncyHKkzHmxiXvDf8DaRs%3D&pvid=10_116.243.161.89_447_1491404313125)
+[树莓派购买地址](https://s.click.taobao.com/t?e=m%3D2%26s%3DamWLbmV1XgccQipKwQzePOeEDrYVVa64LKpWJ%2Bin0XJRAdhuF14FMT1lcDSXifeVJ1gyddu7kN9vRUYbRlHU7J%2B%2BSDWneZ66INJ8WUjAPUqkT6EZztYEhsqTGz9ILkhfHHdyogwR%2Bmif3d%2F3%2BY0U2sYOae24fhW0&pvid=53_117.100.123.217_1135_1491715886620)
 
 ### TF卡
   * 也称sd卡,起硬盘的作用
