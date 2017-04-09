@@ -7,8 +7,18 @@ sharing: true
 footer: true
 ---
 
-这里列举一些我读过的书籍，所列书籍个人认为都值得仔细咀嚼。
+这里列举一些我读过的书籍，记录下自己的读书历程。
 
+
+[Gradle for Android 中文版](http://union-click.jd.com/jdc?e=0&p=AyIHZR5aEQISA1AYUyUCEg9dH10RCiJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQIaD1EdXx0dS0IJRmtUakcHCVwJXmJVHQF9WBNWE1gVejhDDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3VRprR2zKsePD%2FqQexq3aztOCMhcHUxhcEgcTAGUbXh0CFAddHVocChQEZRxrRV1HRAtDDl1GRjdlK2s%3D&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsVChoDUx9TCltXWwg%3D)
+
+> 一本简单讲解关于Android中关于Gradle相关的书籍，是快速掌握和理解Gradle的有效辅助书籍。
+
+> 读起来很轻松，理解容易。
+
+> 推荐给所有的Android程序员。
+
+> 完成日期：2017/4/5
 
 [从0到1:开启商业与未来的秘密](https://www.amazon.cn/gp/product/B00RWP6BOU/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00RWP6BOU&linkCode=as2&tag=droidyue-23)
 
