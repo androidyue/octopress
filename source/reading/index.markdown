@@ -7,7 +7,7 @@ sharing: true
 footer: true
 ---
 
-这里列举一些我读过的书籍，记录下自己的读书历程。
+这里列举一些我读过的书籍，记录下自己的读书历程。其中大部分书籍是在通勤路上通过[Kindle电子书阅读器](https://www.amazon.cn/gp/product/B0186FESGW/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B0186FESGW&linkCode=as2&tag=droidyue-23)完成。
 
 
 [Gradle for Android 中文版](http://union-click.jd.com/jdc?e=0&p=AyIHZR5aEQISA1AYUyUCEg9dH10RCiJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQIaD1EdXx0dS0IJRmtUakcHCVwJXmJVHQF9WBNWE1gVejhDDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3VRprR2zKsePD%2FqQexq3aztOCMhcHUxhcEgcTAGUbXh0CFAddHVocChQEZRxrRV1HRAtDDl1GRjdlK2s%3D&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsVChoDUx9TCltXWwg%3D)
