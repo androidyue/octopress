@@ -9,6 +9,15 @@ footer: true
 
 这里列举一些我读过的书籍，记录下自己的读书历程。其中大部分书籍是在通勤路上通过[Kindle电子书阅读器](https://www.amazon.cn/gp/product/B0186FESGW/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B0186FESGW&linkCode=as2&tag=droidyue-23)完成。
 
+[麦克阿瑟传](https://www.amazon.cn/gp/product/B00DFV1CS0/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00DFV1CS0&linkCode=as2&tag=droidyue-23)
+
+> 麦克阿瑟是一位传奇的人物，历经两次世界大战，与法国一道反击德国，出任西点军校校长，解放马尼拉，占领并辅助日本走向民主，朝鲜战争仁川登陆等等。
+
+> 他是一个伟大的人物，但却是一个极为自负的人。本传记很客观，将麦克阿瑟完整地展现出来。
+
+> 书本比较厚，但很值得阅读，会给你带来很多不一样的认知
+
+> 完成日期：2017/4/19
 
 [Gradle for Android 中文版](http://union-click.jd.com/jdc?e=0&p=AyIHZR5aEQISA1AYUyUCEg9dH10RCiJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQIaD1EdXx0dS0IJRmtUakcHCVwJXmJVHQF9WBNWE1gVejhDDh43Vx1TFgQSBFQaaxcAEgdcH1sUByI3VRprR2zKsePD%2FqQexq3aztOCMhcHUxhcEgcTAGUbXh0CFAddHVocChQEZRxrRV1HRAtDDl1GRjdlK2s%3D&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsVChoDUx9TCltXWwg%3D)
 
