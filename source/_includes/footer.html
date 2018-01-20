@@ -1,17 +1,16 @@
 {% include custom/footer.html %}
 <div id="includedContentRefEnd"></div>
-<script type="text/javascript" charset="utf-8">
-	loadJs('{{ root_url }}/javascripts//baidu_analytics.js');
+<script type="text/javascript" charset="utf-8" src="{{ root_url }}/javascripts//baidu_analytics.js">
 </script> 
 
 <script type="text/javascript">
 var jiathis_config = {data_track_clickback:'true'};
 </script>
-<script type="text/javascript" src="http://v3.jiathis.com/code/jia.js?uid=1341450790773388" charset="utf-8"></script>
+<script type="text/javascript" src="https://v3.jiathis.com/code/jia.js?uid=1341450790773388" charset="utf-8"></script>
 <!-- JiaThis Button END -->
 
 <script type="text/javascript" src="{{ root_url }}/javascripts/toastr.min.js"></script>
-<link href="http://7jpncc.com1.z0.glb.clouddn.com/toastr.min_v1.css" rel="stylesheet"/>
+<link href="{{ root_url}}/stylesheets/toastr.min_v1.css" rel="stylesheet"/>
 <div id="toast"></div>
 <script type="text/javascript">
 	loadJsWithoutCache("{{ root_url }}/javascripts/rec_dialog.js");

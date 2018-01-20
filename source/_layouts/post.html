@@ -6,9 +6,7 @@ single: true
 <div>
 <article class="hentry" role="article">
   {% include article.html %}
-  <script type="text/javascript"  charset="utf-8">
-	loadJs("{{ root_url }}/javascripts/vote_tips.js");
-  </script>
+  <script type="text/javascript"  charset="utf-8" src="{{ root_url }}/javascripts/vote_tips.js"></script>
   {% include post/page_bottom_ads.html %}
   <div id="post_rec"></div>
   <br/>
@@ -32,9 +30,7 @@ single: true
 {% unless page.sharing == false %}
 	{% include post/sharing.html %}
 {% endunless %}
-<script type="text/javascript" charset="utf-8">
-$.getScript('{{ root_url }}/javascripts//post_end_rec_changable.js?v=' + Date.now());
-</script>
+<script type="text/javascript" charset="utf-8" src="{{ root_url }}/javascripts//post_end_rec_changable.js"></script>
   </footer>
   </article>
 
@@ -44,7 +40,7 @@ $.getScript('{{ root_url }}/javascripts//post_end_rec_changable.js?v=' + Date.no
   </section>
 {% endif %}
 
-<link href="http://7xr25o.com1.z0.glb.clouddn.com/remote.css"  rel="stylesheet" type="text/css">
+<link href="{{ root_url}}/stylesheets/remote.css"  rel="stylesheet" type="text/css">
 <script type="text/javascript" charset="utf-8" src="{{ root_url }}/javascripts/post_end_attentions.js"></script>
 	{% include custom/asides/post_end_ad.html %}
 	
