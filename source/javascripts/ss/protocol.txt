@@ -1,0 +1,19 @@
+pv_count
+  * type: random/fixed
+  * value: n
+
+pv_time
+  * type: random/fixed
+  * value: n
+
+referers
+  * linkUrl
+
+UA
+  * list
+
+fromUrls
+  * list
+
+一次会话多少pv
+perpage_time 一个页面停留时间

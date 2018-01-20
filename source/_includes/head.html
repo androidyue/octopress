@@ -22,9 +22,9 @@
   <link href="http://7jpolu.com1.z0.glb.clouddn.com/favicon.png" rel="icon">
   <link href="{{ root_url }}/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="{{ site.subscribe_rss }}" rel="alternate" title="{{site.title}}" type="application/atom+xml">
-  <script src="http://7jpncc.com1.z0.glb.clouddn.com/ad.js"></script>
-  <script src="http://7jpncc.com1.z0.glb.clouddn.com/modernizr-2.0.js"></script>
-  <script src="http://7jpncc.com1.z0.glb.clouddn.com/jquery.min.js"></script>
+  <script src="{{ root_url }}/javascripts/ad.js"></script>
+  <script src="{{ root_url }}/javascripts/modernizr-2.0.js"></script>
+  <script src="{{ root_url }}/javascripts/jquery.min.js"></script>
   <script type="text/javascript" charset="utf-8">
       function setCookie(name,value,days) {
           if (days) {
@@ -86,21 +86,17 @@
               loadJsNormally(jsUrl);
           }
       }
-      loadJs('http://7xr25o.com1.z0.glb.clouddn.com/blogutils.js');
   </script>
-  <script type="text/javascript"  charset="utf-8">
-		loadJs("http://7xr25o.com1.z0.glb.clouddn.com/book_rec_base.js");
-  </script>
+  <script type="text/javascript" charset="utf-8" src="{{ root_url }}/javascripts/blogutils.js"></script>
+  <script type="text/javascript"  charset="utf-8" src="{{ root_url }}/javascripts/book_rec_base.js"></script>
   <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
-  <script src="http://7jpncc.com1.z0.glb.clouddn.com/octopress.js" type="text/javascript"></script>
+  <script src="{{ root_url }}/javascripts/octopress.js" type="text/javascript"></script>
   {% include custom/head.html %}
-  <script type="text/javascript" src="http://7xr25o.com1.z0.glb.clouddn.com/trackurl_maker.js" charset="utf-8"></script>
-  <script type="text/javascript"  charset="utf-8">
-      loadJs("http://7xr25o.com1.z0.glb.clouddn.com/remote_head.js");
-      loadJs("http://7xr25o.com1.z0.glb.clouddn.com/best_posts_data_source.js");
-      loadJs("http://7xr25o.com1.z0.glb.clouddn.com/common_book_data_source.js");
-      loadJs("http://7xr25o.com1.z0.glb.clouddn.com/program_book_data_source.js");
-      loadJs("http://7xr25o.com1.z0.glb.clouddn.com/android_book_data.js");
-      loadJs("http://7xr25o.com1.z0.glb.clouddn.com/java_book_data.js");
-  </script>
+  <script type="text/javascript" src="{{ root_url }}/javascripts/trackurl_maker.js" charset="utf-8"></script>
+  <script type="text/javascript" src="{{ root_url }}/javascripts/remote_head.js" charset="utf-8"></script>
+  <script type="text/javascript" src="{{ root_url }}/javascripts/best_posts_data_source.js" charset="utf-8"></script>
+  <script type="text/javascript" src="{{ root_url }}/javascripts/common_book_data_source.js" charset="utf-8"></script>
+  <script type="text/javascript" src="{{ root_url }}/javascripts/program_book_data_source.js" charset="utf-8"></script>
+  <script type="text/javascript" src="{{ root_url }}/javascripts/android_book_data.js" charset="utf-8"></script>
+  <script type="text/javascript" src="{{ root_url }}/javascripts/java_book_data.js" charset="utf-8"></script>
 </head>

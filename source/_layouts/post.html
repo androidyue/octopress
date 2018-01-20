@@ -7,7 +7,7 @@ single: true
 <article class="hentry" role="article">
   {% include article.html %}
   <script type="text/javascript"  charset="utf-8">
-	loadJs("http://7xr25o.com1.z0.glb.clouddn.com/vote_tips.js");
+	loadJs("{{ root_url }}/javascripts/vote_tips.js");
   </script>
   {% include post/page_bottom_ads.html %}
   <div id="post_rec"></div>
@@ -33,7 +33,7 @@ single: true
 	{% include post/sharing.html %}
 {% endunless %}
 <script type="text/javascript" charset="utf-8">
-$.getScript('http://7xr25o.com1.z0.glb.clouddn.com/post_end_rec_changable.js?v=' + Date.now());
+$.getScript('{{ root_url }}/javascripts//post_end_rec_changable.js?v=' + Date.now());
 </script>
   </footer>
   </article>
@@ -45,7 +45,7 @@ $.getScript('http://7xr25o.com1.z0.glb.clouddn.com/post_end_rec_changable.js?v='
 {% endif %}
 
 <link href="http://7xr25o.com1.z0.glb.clouddn.com/remote.css"  rel="stylesheet" type="text/css">
-<script type="text/javascript" charset="utf-8" src="http://7xr25o.com1.z0.glb.clouddn.com/post_end_attentions.js"></script>
+<script type="text/javascript" charset="utf-8" src="{{ root_url }}/javascripts/post_end_attentions.js"></script>
 	{% include custom/asides/post_end_ad.html %}
 	
 </div>
