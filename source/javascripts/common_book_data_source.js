@@ -9,7 +9,7 @@ function appendCommonBooks(name, alimamaLink, amazonLink) {
 
 function shouldDisplayCommonBook() {
    
-	return isDesktop() || isWeixinBrowser();
+	return false;
 }
 
 function makeCommonBookPrefix() {

@@ -9,7 +9,7 @@ function appendAndroidBooks(name, alimamaLink, amazonLink) {
 
 function shouldDisplayAndroidBook() {
    
-	return isDesktop() || isWeixinBrowser();
+	return false;
 }
 
 function makeAndroidBookPrefix() {

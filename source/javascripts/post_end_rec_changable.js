@@ -148,7 +148,7 @@ function getBanner() {
 
         
 function shouldShowBanner() {
-    return  true;
+    return  false;
 }
         
 

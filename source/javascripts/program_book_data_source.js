@@ -10,7 +10,7 @@ function appendProgramBooks(name, alimamaLink, amazonLink) {
 
 
 function shouldDisplayProgramBook() {
-    return isDesktop() || isWeixinBrowser(); 
+    return false; 
 }
 
 function makeProgramBookPrefix() {

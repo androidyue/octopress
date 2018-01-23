@@ -10,4 +10,4 @@ var rightAnli = '<h4 align="center">特别推荐</h4>';
 	addRightAnli("http://union-click.jd.com/jdc?d=pKL4Bt", "http://7jpolu.com1.z0.glb.clouddn.com/diandongyashua.jpg", "diandongyashua")
 
 	addRightAnli("http://union-click.jd.com/jdc?d=fCCe9R", "http://7jpolu.com1.z0.glb.clouddn.com/bailing_diandongyashua.jpg", "bailing_diandongyashua")
-	document.write(rightAnli);
+	//document.write(rightAnli);

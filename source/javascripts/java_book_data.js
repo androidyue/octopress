@@ -10,7 +10,7 @@ function appendJavaBooks(name ,alimamaLink, amazonLink) {
 
 function shouldDisplayJavaBook() {
    
-	return isDesktop() || isWeixinBrowser();
+	return false;
 }
 
 function makeJavaBookPrefix() {
