@@ -1,0 +1,47 @@
+---
+layout: post
+title: "网站第一次被黑的记录"
+date: 2018-01-23 22:14
+comments: true
+categories: 网站 CDN SSL HTTPS
+---
+一直以来技术小黑屋的博客都运行良好，总以为一个全部静态的博客不会导致被黑。直到最近才着实地体验了一次被黑的滋味。仅以此文记录一下，便于给同样问题的人一些帮助。
+
+大概是周三（2018年1月17号）的时候，有人反馈，访问我的网站，会跳转到支付宝。当然还奇怪，调到支付宝有个甚用，后来使用手机上的浏览器才发现。这个跳转回自动的打开支付宝然后领取红包。又是一起为了支付宝红包的行为。以前听说过用有人用基站发短信领取，没想到居然这么快居然和我扯上关系了。
+<!--more-->
+
+于是我就顺着这个问题，进行了一系列的调查。
+首先，由于微信的屏蔽，我得到了这样的一个比较有效的信息。
+![https://js.droidyue.com/images/droidyue_alipay_hongbao_issue.jpeg](https://js.droidyue.com/images/droidyue_alipay_hongbao_issue.jpeg)
+
+得到了跳转的链接，接下来就需要确认从哪里跳过去的。由于之前有过相关浏览器的经验，于是写了一个简单的webView，然后答应出来了所有的网络请求。得到的请求如下
+![https://js.droidyue.com/images/alipay_droidyue_web_request_2.jpg](https://js.droidyue.com/images/alipay_droidyue_web_request_2.jpg)
+
+
+然后使用特别容易出现的联通网络，挨个查找接近跳转链接的请求。比如`book_rec_base.js`,果然不看不知道，一看吓一跳。
+![https://js.droidyue.com/images/china_unicom_issue_js_1.jpg](https://js.droidyue.com/images/china_unicom_issue_js_1.jpg)
+
+天哪，在太原机房的文件居然这么简单粗暴的修改成了支付宝跳转链接，WTF。别的机房是不是有问题呢？后来试了几个非联通网络没有发现问题。
+
+## 为什么只有联通下才出现，而其他运营商不出现问题呢，这是一个疑问。
+
+原因其实很简单，我使用了七牛的CDN，一个网络请求会根据客户端的运营商和地理位置择优选择机房的备份。而北京联通的用户，则不幸的都被导向了有问题的山西太原联通机房。
+
+## 到底是被运营商劫持了还是文件被而已修改了呢
+我是这样验证的，使用一个不发生劫持的运营商（比如香港主线）然后绑定hosts，指定访问太原机房的服务器，看一下是什么结果。
+![https://js.droidyue.com/images/droidyue_force_access_taiyuan_1.jpg](https://js.droidyue.com/images/droidyue_force_access_taiyuan_1.jpg)
+
+我们可以看到这个文件确实被修改了。
+
+## 怎么解决呢
+本以为在七牛强制刷新这个文件的缓存能解决问题，可是谁知道呢，貌似被刷新之后，没过多久又变成了跳转支付宝的内容，貌似像是一个自动定时修改的脚本。
+
+### 初步解决方案
+我把相关的这些js文件全部转向放在github pages上，果然没有问题了。
+
+目前我准备把网站支持https。初步尝试了cloudflare发现确实不错，可是在移动运营商下居然访问不了，原因你懂我也懂。后来发现又拍云可以自动创建Let's Encrypted的证书并且支持续签，于是才下决心试一试又拍云。
+
+忍不住打个广告，由于我的又拍云初始容量有限，欢迎大家使用我的邀请链接注册  https://console.upyun.com/register/?invite=Hkw6NeiBZ   注册并完成认证，赠送 61 元免费代金券。
+
+最后，对这段时间中招的同学表示歉意，以后小黑屋博客将更加安全有序运行，当然会逐步恢复之前的文章更新进度。感谢有你的支持。
+
