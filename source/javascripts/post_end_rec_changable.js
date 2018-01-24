@@ -112,9 +112,9 @@ function getAdBanner() {
     //    addRightAnli('http://droidyue.com', 'http://7jpolu.com1.z0.glb.clouddn.com/alipay_hongbao.jpg', 'alipay');
     //content = content + '<br/><img img class="no_boarder_class" style="max-Width:100%" src="http://7jpolu.com1.z0.glb.clouddn.com/kotlin_in_action_jd.png">'
     //content = content + '<br/><a class="hencoder"  href="http://hencoder.com/?utm_source=jishuxiaoheiwu&utm_medium=banner&utm_content=juhe&utm_campaign=q3_extension"><img class="no_boarder_class"  style="max-Width:100%" src="https://ws1.sinaimg.cn/large/610dc034ly1fjlkrojt3oj20qo04740w.jpg"></a><br/>';
-    content = content + '<a href="http://union-click.jd.com/jdc?d=0yfHIc">玩客云 私人云盘 迅雷 玩客奖励计划 极速下载 隐私加密 手机扩容 多屏播放 轻NAS 科技蓝</a><br>';
+    //content = content + '<a href="http://union-click.jd.com/jdc?d=0yfHIc">玩客云 私人云盘 迅雷 玩客奖励计划 极速下载 隐私加密 手机扩容 多屏播放 轻NAS 科技蓝</a><br>';
 
-    content = content + '<a href="http://union-click.jd.com/jdc?d=xetvGb">流量总是不够用，可以试试这个超实惠套餐计划，从此肆无忌惮上网了</a><br>'
+    //content = content + '<a href="http://union-click.jd.com/jdc?d=xetvGb">流量总是不够用，可以试试这个超实惠套餐计划，从此肆无忌惮上网了</a><br>'
 
     //content = content + '<br/><a class="quanmingyunjisuan"  href="https://s.click.taobao.com/t?e=m%3D2%26s%3D%2F1TzyEhCvYAcQipKwQzePCperVdZeJviEViQ0P1Vf2kguMN8XjClAi13s8SG16rKEc82SNFneui3V2HVNDCdH05rfwqVmiO6Ze9HHTCkYP%2BA%2BwYsJaxBaudn1BbglxZYxUhy8exlzcpAFEHVckI7b93srg%2FL%2FeD3keUEnoKELDlWYetMiZZgV%2BSx6OrKqagyklzFeKMz7Cc%2FGaP4xw11%2FizZhcM3IxQF"><img class="no_boarder_class"  style="max-Width:100%" src="http://7jpolu.com1.z0.glb.clouddn.com/quanming_yunjisuan.jpg"></a><br/>';
     if (isWeixinBrowser()) {
@@ -148,7 +148,7 @@ function getBanner() {
 
         
 function shouldShowBanner() {
-    return  false;
+    return  true;
 }
         
 
