@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://droidyue.com
+url: https://droidyue.com
 title: 技术小黑屋
 subtitle: 
 author: androidyue 
-simple_search: http://google.com/search
+simple_search: https://google.com/search
 description: "技术小黑屋，一个关于Android和Java有态度的分享博客"
 keywords: "Java,Android,Linux,Python,内存泄露，性能优化，最键实践"
 

@@ -1,4 +1,4 @@
-var scrolltotop={setting:{startline:100,scrollto:0,scrollduration:1000,fadeduration:[500,100]},controlHTML:'<img src="http://7jpolu.com1.z0.glb.clouddn.com/arrow37.png" />',controlattrs:{offsetx:5,offsety:5},anchorkeyword:'#top',state:{isvisible:false,shouldvisible:false},scrollup:function(){if(!this.cssfixedsupport)
+var scrolltotop={setting:{startline:100,scrollto:0,scrollduration:1000,fadeduration:[500,100]},controlHTML:'<img src="https://asset.droidyue.com/image/arrow37.png" />',controlattrs:{offsetx:5,offsety:5},anchorkeyword:'#top',state:{isvisible:false,shouldvisible:false},scrollup:function(){if(!this.cssfixedsupport)
 this.$control.css({opacity:0})
 var dest=isNaN(this.setting.scrollto)?this.setting.scrollto:parseInt(this.setting.scrollto)
 if(typeof dest=="string"&&jQuery('#'+dest).length==1)
