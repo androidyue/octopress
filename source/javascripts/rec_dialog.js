@@ -20,7 +20,7 @@ toastr.options = {
 // /*if (isMobile()) {
 //     recDialogContent = recDialogContent + '<p align="center">来自技术小黑屋的红包</p><a href="http://droidyue.com/2018_hongbaoyu.html"><img width="200" src="http://7jpolu.com1.z0.glb.clouddn.com/dahongbao.png"></a>';
 // } else {*/
-//     recDialogContent = recDialogContent + '<p align="center">微信赞赏支持持续原创</p><img width="200" src="http://7jpolu.com1.z0.glb.clouddn.com/zanshang_normal_qr.png">'
+//     recDialogContent = recDialogContent + '<p align="center">微信赞赏支持持续原创</p><img width="200" src="https://asset.droidyue.com/image/zanshang_normal_qr.png">'
 // /*}*/
 
 // /*

@@ -118,9 +118,9 @@ function getAdBanner() {
 
     //content = content + '<br/><a class="quanmingyunjisuan"  href="https://s.click.taobao.com/t?e=m%3D2%26s%3D%2F1TzyEhCvYAcQipKwQzePCperVdZeJviEViQ0P1Vf2kguMN8XjClAi13s8SG16rKEc82SNFneui3V2HVNDCdH05rfwqVmiO6Ze9HHTCkYP%2BA%2BwYsJaxBaudn1BbglxZYxUhy8exlzcpAFEHVckI7b93srg%2FL%2FeD3keUEnoKELDlWYetMiZZgV%2BSx6OrKqagyklzFeKMz7Cc%2FGaP4xw11%2FizZhcM3IxQF"><img class="no_boarder_class"  style="max-Width:100%" src="http://7jpolu.com1.z0.glb.clouddn.com/quanming_yunjisuan.jpg"></a><br/>';
     if (isWeixinBrowser()) {
-        content = content + '<img class="no_boarder_class" width="300" src="http://7jpolu.com1.z0.glb.clouddn.com/zanshangma_yuanchunag.jpeg" style="display:block;margin:auto;">'
+        content = content + '<img class="no_boarder_class" width="300" src="https://asset.droidyue.com/image/zanshangma_yuanchunag.jpeg" style="display:block;margin:auto;">'
     } else {
-        content = content + '<p align="center">微信赞赏支持原创</p><img class="no_boarder_class" width="300" src="http://7jpolu.com1.z0.glb.clouddn.com/zanshang_normal_qr.png" style="display:block;margin:auto;">'
+        content = content + '<p align="center">微信赞赏支持原创</p><img class="no_boarder_class" width="300" src="https://asset.droidyue.com/image/zanshang_normal_qr.png" style="display:block;margin:auto;">'
     }    
     //content = content + '<br/><a class="shumeipai"  href="http://droidyue.com/blog/2016/08/22/before-you-buy-raspberry-pi/"><img class="no_boarder_class"  style="max-Width:100%" src="http://7jpolu.com1.z0.glb.clouddn.com/Raspberry_Pi_Banner.jpg"></a><br/>';
 
