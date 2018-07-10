@@ -21,7 +21,9 @@ var recDialogContent = '';
 //if (isMobile()) {
 //    recDialogContent = recDialogContent + '<p align="center">来自技术小黑屋的红包</p><a href="http://droidyue.com/2018_hongbaoyu.html"><img width="200" src="http://7jpolu.com1.z0.glb.clouddn.com/dahongbao.png"></a>';
 //} else {*/
-recDialogContent = recDialogContent + '<p align="center">很有意思的网络协议讲解</p><img width="200" src="https://asset.droidyue.com/image/qutan_wangluo_xieyi.png">'
+/*recDialogContent = recDialogContent + '<p align="center">很有意思的网络协议讲解</p><img width="200" src="https://asset.droidyue.com/image/qutan_wangluo_xieyi.png">'*/
+
+recDialogContent = recDialogContent + '<p align="center">货真价实的Kotlin讲解</p><img width="200" src="https://asset.droidyue.com/image/kotlin_zhangtao.jpeg">'
 /*}*/
 
 /*
