@@ -8,10 +8,11 @@ footer: true
 ---
 Hi，请考虑捐赠支持域名费用和七牛CDN费用。您的支持将鼓励我继续创作！
 
-###微信（金额随意）
-<img src="http://7jpolu.com1.z0.glb.clouddn.com/weixin_pay.jpg" width="218" title="Donate for me" class="no_boarder_class">
-###支付宝（金额随意）
-{%img http://7jpolu.com1.z0.glb.clouddn.com/alipay.JPG Donate By AliPay %}
+### 微信（金额随意）
+<img src="https://asset.droidyue.com/image/permanent/wechat_zanshang_code.png" width="218" title="Donate for me" class="no_boarder_class">
+
+### 支付宝（金额随意）
+<img src="https://asset.droidyue.com/image/permanent/alipay_code.png" width="218">
 
 ###Paypal
 
