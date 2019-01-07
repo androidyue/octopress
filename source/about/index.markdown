@@ -41,7 +41,6 @@ footer: true
 ###新浪微博
 我的新浪微博是[技术小黑屋](http://weibo.com/androidyue/) ，欢迎大家关注。
 
-{% include post/zhihu_live.html %}
   
 ##欢(tu)迎(hao)捐(xuan)赠(fu)
   * [捐赠，支持更好创作](http://droidyue.com/donate/)
