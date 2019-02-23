@@ -9,7 +9,7 @@ categories: Mac
 
 <!--more-->
 
-![没合适的分辨率](http://7jpolu.com1.z0.glb.clouddn.com/less_fenbianlv.png)
+![没合适的分辨率](https://asset.droidyue.com/broken_images/mac_less_resolution.png)
 
 我的显示器是1920 * 1080的分辨率，结果找不到，只有上图的两个。
 
@@ -20,9 +20,9 @@ categories: Mac
 无意中Google到了一个小窍门，能调出更多的分辨率来。
 
 1.  进入显示设置界面，如下图
-![Display Settings](http://7xr357.com1.z0.glb.clouddn.com/less_resolution.png)
+![Display Settings](https://asset.droidyue.com/broken_images/mac_resolution_setting.png)
 
 2.  安装Option键，然后点击Scaled选择框，就会出现更多的分辨率。如下图
-![more resolutions](http://7xr357.com1.z0.glb.clouddn.com/more_resolutions.png)
+![more resolutions](https://asset.droidyue.com/broken_images/mac_resolution_option_more.png)
 
 简单记录一下，希望可以帮到别人。进行享用大显示器的乐趣吧。
