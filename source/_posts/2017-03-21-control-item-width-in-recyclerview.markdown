@@ -12,7 +12,7 @@ categories: Android RecyclerView
 
 关于控制RecyclerView item的宽度，说起来还不是那么清晰，上一张图，就明白了。
 
-![http://7jpolu.com1.z0.glb.clouddn.com/recyclerview_item_width.png](http://7jpolu.com1.z0.glb.clouddn.com/recyclerview_item_width.png)
+![recyclerview_item_width.png](https://asset.droidyue.com/broken_images/recycler_view_width.png)
 
   * 上面的实际上是一个Grid布局
   * 前三行每个item均分RecyclerView的宽度
