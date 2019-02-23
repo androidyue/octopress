@@ -129,10 +129,10 @@ gradle提供了性能分析的功能，就profile，使用很简单，执行任�
 ./gradlew assembleChinaRelease --profile
 ```
 待到执行完毕，在project根目录下的build/reports/profile目录有对应的结果文件，如profile-2017-04-08-23-06-37.html，使用浏览器打开，看到的效果是这样的
-![gradle profile summary](http://7jpolu.com1.z0.glb.clouddn.com/gradle_profile_summary.jpeg)
+![gradle profile summary](https://asset.droidyue.com/broken_images/profile_report.jpeg)
 
 从上面的summary可知，上面的主要耗时表现在Task Execution上，于是我们切换到Task Execution这个tab
-![Gradle profile task execution](http://7jpolu.com1.z0.glb.clouddn.com/gradle_profile_task_execution.png)
+![Gradle profile task execution](https://asset.droidyue.com/broken_images/task_execution.jpeg)
 
 我们可以发现上面的`:apps:droidyue:crashlyticsUploadDeobsChinaRelease`居然耗费了4m26.26s，那么这是一个什么任务呢？
 
