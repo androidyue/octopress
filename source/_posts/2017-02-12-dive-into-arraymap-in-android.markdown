@@ -15,7 +15,7 @@ categories: Android
   * android.util和android.support.v4.util都包含对应的ArrayMap类
 
 ## ArrayMap的内部结构
-![ArrayMap internal strucuture](http://7jpolu.com1.z0.glb.clouddn.com/arraymap_internal_structure.png)
+![ArrayMap internal strucuture](https://asset.droidyue.com/broken_images/arraymap_internal_structure.jpg)
 
 如上图所示，在ArrayMap内部有两个比较重要的数组，一个是mHashes,另一个是mArray。
 
@@ -109,7 +109,7 @@ ArrayMap提供给我们进行插入数据的API有
   * 根据key的hashcode在mHashes表中二分查找确定合适的位置。
   * 如果新添加的数据的索引不是最后位置，在需要对这个索引之后的全部数据向后移动
 
-![ArrayMap put](http://7jpolu.com1.z0.glb.clouddn.com/arraymap_move_to_right.png)
+![ArrayMap put](https://asset.droidyue.com/broken_images/arraymap_put.jpg)
 
 ### key为null时
 当key为null时，其实和其他正常的key差不多，只是对应的hashcode会默认成0来处理。
