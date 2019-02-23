@@ -106,7 +106,7 @@ categories: Android
 ## 作为Android程序员，如何把握好技术的宽度和深度
 对于Android来说，有太多的诱惑，比如React Native，小程序，热更新，插件化。
 
-![http://olabqc6d8.bkt.clouddn.com/t_genius.jpeg](http://olabqc6d8.bkt.clouddn.com/t_genius.jpeg)
+![t_genius.jpeg](https://asset.droidyue.com/broken_images/kuandu_guangdu.jpeg)
 
 我理解的应该是先从宽度上拓展，然后在尽心深度研究。
 
@@ -266,7 +266,7 @@ Flipboard常用的库（部分）
   * 关于舒适区，学习区和恐惧区的理论
 
 ### 理论
-![http://olabqc6d8.bkt.clouddn.com/p87099358-1.jpg](http://olabqc6d8.bkt.clouddn.com/p87099358-1.jpg) 
+![shushiqu](https://asset.droidyue.com/broken_images/shushiqu.jpeg) 
 
   * “舒适区”， 对于你来说是没有学习难度的知识或者习以为常的事务，自己可以处于舒适心理状态。 
 
