@@ -21,7 +21,7 @@ public static void main(String[] args) {
 
 以上代码很简单，不用赘述。那我们使用NetBeans的profile插件 来看一下关于Object对象分配的stacktrace
 
-![http://7jpolu.com1.z0.glb.clouddn.com/object_allocation_stacktrace.png](http://7jpolu.com1.z0.glb.clouddn.com/object_allocation_stacktrace.png)
+![object_allocation_stacktrace.png](https://asset.droidyue.com/broken_images/object_stacktrace.png)
 
 从stacktrace中，我们可以发现
 
