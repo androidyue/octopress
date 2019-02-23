@@ -58,10 +58,10 @@ categories: 博客
 
 举个例子，我在写[《树莓派入手指南》](http://droidyue.com/blog/2016/08/22/before-you-buy-raspberry-pi/)总，提到TF卡即SD卡，不久后得到了这样的纠正。这就纠正了我的错误认知。
 
-![http://7jpolu.com1.z0.glb.clouddn.com/tfcard.png](http://7jpolu.com1.z0.glb.clouddn.com/tfcard.png)
+![tfcard.png](https://asset.droidyue.com/broken_images/tfcard.jpeg)
 
 在我的[《关于Android Log的一些思考》](http://droidyue.com/blog/2015/11/01/thinking-about-android-log/) 文章评论中，得到了很多更优的反馈，比如
-![http://7jpolu.com1.z0.glb.clouddn.com/better_idea.jpeg](http://7jpolu.com1.z0.glb.clouddn.com/better_idea.jpeg)
+![better_idea.jpeg](https://asset.droidyue.com/broken_images/log_comment.jpeg)
 
 所以，写出博客，收益的不只是别人，还有自己。
 
