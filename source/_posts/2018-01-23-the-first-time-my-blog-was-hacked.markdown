@@ -12,14 +12,14 @@ categories: 网站 CDN SSL HTTPS
 
 于是我就顺着这个问题，进行了一系列的调查。
 首先，由于微信的屏蔽，我得到了这样的一个比较有效的信息。
-![https://js.droidyue.com/images/droidyue_alipay_hongbao_issue.jpeg](https://js.droidyue.com/images/droidyue_alipay_hongbao_issue.jpeg)
+![droidyue_alipay_hongbao_issue.jpeg](https://asset.droidyue.com/image/2019_02/alipay_hongbao_issue.jpg)
 
 得到了跳转的链接，接下来就需要确认从哪里跳过去的。由于之前有过相关浏览器的经验，于是写了一个简单的webView，然后答应出来了所有的网络请求。得到的请求如下
-![https://js.droidyue.com/images/alipay_droidyue_web_request_2.jpg](https://js.droidyue.com/images/alipay_droidyue_web_request_2.jpg)
+![alipay_droidyue_web_request_2.jpg](https://asset.droidyue.com/broken_images/webrequest_details.jpg)
 
 
 然后使用特别容易出现的联通网络，挨个查找接近跳转链接的请求。比如`book_rec_base.js`,果然不看不知道，一看吓一跳。
-![https://js.droidyue.com/images/china_unicom_issue_js_1.jpg](https://js.droidyue.com/images/china_unicom_issue_js_1.jpg)
+![china_unicom_issue_js_1.jpg](https://asset.droidyue.com/broken_images/china_unicom_server.jpg)
 
 天哪，在太原机房的文件居然这么简单粗暴的修改成了支付宝跳转链接，WTF。别的机房是不是有问题呢？后来试了几个非联通网络没有发现问题。
 
@@ -29,7 +29,7 @@ categories: 网站 CDN SSL HTTPS
 
 ## 到底是被运营商劫持了还是文件被而已修改了呢
 我是这样验证的，使用一个不发生劫持的运营商（比如香港主线）然后绑定hosts，指定访问太原机房的服务器，看一下是什么结果。
-![https://js.droidyue.com/images/droidyue_force_access_taiyuan_1.jpg](https://js.droidyue.com/images/droidyue_force_access_taiyuan_1.jpg)
+![droidyue_force_access_taiyuan1.jpg](https://asset.droidyue.com/broken_images/force_host.jpg)
 
 我们可以看到这个文件确实被修改了。
 
