@@ -28,7 +28,7 @@ adb shell am set-debug-app -w com.example.jishuxiaoheiwu.appdebugsample
 
 执行上面的命令，当我们再次启动目标应用时，会得到这样的画面
 
-![Android Waiting For Debugger Dialog](http://7jpolu.com1.z0.glb.clouddn.com/android_waiting_for_debugger_dialog.png)  
+![Android Waiting For Debugger Dialog](https://asset.droidyue.com/broken_images/android_debug_dialog.png)  
 
 然后，我们就会有足够的时间，来使用Run--> Attach Debugger to Android Process 来绑定进程debug。  绑定后对话框消失，下次启动就是正常的启动（没有上面的对话框了）
 
