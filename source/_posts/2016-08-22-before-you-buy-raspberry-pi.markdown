@@ -13,7 +13,7 @@ categories: 树莓派 折腾
 
 从一问世就受到了极客的热捧,现在最新的为第三代.它长成这个样子
 
-![RaspBerry Pi 3](http://7jpolu.com1.z0.glb.clouddn.com/rasp-pi-3-board.png)
+![RaspBerry Pi 3](https://asset.droidyue.com/broken_images/raspberry_pi.jpg)
 
 以树莓派3为例,它的硬件配置已经很强悍了
 
@@ -53,7 +53,7 @@ categories: 树莓派 折腾
   * VPN服务器
 
 除此之外,一些网友列出的树莓派的用途还有
-![What can Raspberry do](http://7jpolu.com1.z0.glb.clouddn.com/what_can_raspberry_do.png)
+![What can Raspberry do](https://asset.droidyue.com/broken_images/raspberry_pi_applications.jpg)
 
 查看详细链接为[34 个使用 Raspberry Pi 的酷创意](https://linuxtoy.org/archives/cool-ideas-for-raspberry-pi.html)  
   
