@@ -48,7 +48,7 @@ categories: Android
   * 在遍历结束后，没有被标记为存活的对象都被视为垃圾，需要后续进行回收处理
   * 主流的JVM一般都采用这种算法的垃圾回收器实现
 
-![http://7xuvjz.com1.z0.glb.clouddn.com/how_gc_works.png](http://7xuvjz.com1.z0.glb.clouddn.com/how_gc_works.png)
+![how_gc_works.png](https://asset.droidyue.com/broken_images/how_gc_works.png)
 
 以上图为例，我们可以知道
 
@@ -264,7 +264,7 @@ public class SensorListenerActivity extends Activity {
 ### Android Memory Monitors
 Android Memory Monitor内置于Android Studio中，用于展示应用内存的使用和释放情况。它大致长成这个样子
 
-![http://7xuvjz.com1.z0.glb.clouddn.com/heap_monitor.gif](http://7xuvjz.com1.z0.glb.clouddn.com/heap_monitor.gif)
+![heap_monitor.gif](https://asset.droidyue.com/broken_images/android_memory_monitor.gif)
 
 当你的App占用的内存持续增加，而且你同时出发GC，也没有进行释放，那么你的App很有可能发生了内存泄漏问题。
 
@@ -287,7 +287,7 @@ Android Memory Monitor内置于Android Studio中，用于展示应用内存的�
   * 对象x的Retained Set指的是如果对象x被GC移除，可以释放总的对象的集合。
   * 对象x的Retained Heap指的就是上述x的Retained Set的占用内存大小。
 
-![http://7jpolu.com1.z0.glb.clouddn.com/shallow_heap_retained_heap.png](http://7jpolu.com1.z0.glb.clouddn.com/shallow_heap_retained_heap.png)
+![shallow_heap_retained_heap.png](https://asset.droidyue.com/broken_images/shallow_heap_vs_retained_heap.png)
 
 以上图做个例子，进行分析
 
@@ -304,7 +304,7 @@ Android Memory Monitor内置于Android Studio中，用于展示应用内存的�
   * 上述情况下，我们可以说x是y的统治者
   * 最近统治者指的是离对象y最近的统治者。
 
-![http://7jpolu.com1.z0.glb.clouddn.com/dominator_tree.png](http://7jpolu.com1.z0.glb.clouddn.com/dominator_tree.png)
+![dominator_tree.png](https://asset.droidyue.com/broken_images/dorminator_tree.png)
 
 上图中
 
