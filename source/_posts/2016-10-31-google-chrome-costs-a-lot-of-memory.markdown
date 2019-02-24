@@ -14,7 +14,7 @@ Mac电脑是一款程序员得力的开发机器,而Chrome也是一个高效率�
 
 打开电脑进程管理器，发现了Chrome进程居然这么多。
 
-![http://7jpolu.com1.z0.glb.clouddn.com/google_chrome_helper_process.png](http://7jpolu.com1.z0.glb.clouddn.com/google_chrome_helper_process.png)
+![google_chrome_helper_process.png](//asset.droidyue.com/broken_images/chrome_helper_process.png)
 
 后来Google到了一些解决方案，做法如下
 
@@ -23,7 +23,7 @@ Mac电脑是一款程序员得力的开发机器,而Chrome也是一个高效率�
 3. 选择`Show advanced settings`  
 4. 点击Privacy下面的Content Settings  
 5. 向下翻到Plugins,选择如下图的`Let me choose when to run plugin content`  
-![http://7jpolu.com1.z0.glb.clouddn.com/chrome_plugin_settings.png](http://7jpolu.com1.z0.glb.clouddn.com/chrome_plugin_settings.png)
+![chrome_plugin_settings.png](https://asset.droidyue.com/broken_images/chrome_plugin_settings.png)
 
 实际上，上面的操作主要是关闭一些Flash相关的插件。因为Flash是电脑中的散热大户，比如同样一段视频，在国内的优酷（使用flash）播放，小本本的温度摸上去真让人心疼，然而在YouTube（使用HTML5）则几乎温度没有什么上升。
 
