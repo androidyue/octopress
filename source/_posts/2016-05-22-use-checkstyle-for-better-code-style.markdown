@@ -114,9 +114,9 @@ Total time: 10.819 secs
 ##Android Studio Run之前执行checkstyle
   1.选择菜单`Run--Edit Configurations`  
   2.选择`Android Application--app`，然后点击`Before Launch`区域的绿色加号
-![Checkstyle Before Run](http://7jpolu.com1.z0.glb.clouddn.com/run_checkstyle.png)  
+![Checkstyle Before Run](https://asset.droidyue.com/broken_images/before_launch.png)  
   3.点击下拉菜单`Gradle-aware Make`，出现如下输入对话框
-![Input Checkstyle](http://7jpolu.com1.z0.glb.clouddn.com/input_checkstyle.png)    
+![Input Checkstyle](https://asset.droidyue.com/broken_images/after_launch.png)    
   4.输入checkstyle，然后从联想列表中选择对应的checkstyle,保存。  
   5.再次运行就可以从Gradle Console中看到有checkstyle任务先执行了。
 
