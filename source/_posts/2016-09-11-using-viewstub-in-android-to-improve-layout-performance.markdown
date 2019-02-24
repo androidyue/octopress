@@ -21,7 +21,7 @@ categories: Android 性能优化
 
 
 ## ViewStub使用场景
-![http://7jpolu.com1.z0.glb.clouddn.com/viestub_demo.png](http://7jpolu.com1.z0.glb.clouddn.com/viestub_demo.png)
+![viestub_demo.png](https://asset.droidyue.com/broken_images/android_viewstub.png)
 
 如上图所示,
 
