@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
 <!--more-->
 
 当退出MainActivity时，得到了LeakCanary的内存泄漏报告。如下图。
-![http://7jpolu.com1.z0.glb.clouddn.com/device-2016-11-04-081558_compressed.png](http://7jpolu.com1.z0.glb.clouddn.com/device-2016-11-04-081558_compressed.png)
+![Leakcanary leaks](https://asset.droidyue.com/broken_images/leakcanary_leaks.png)
 
 奇怪了，为什么PowerManager会持有Activity的实例呢，按照理解，PowerManager应该是持有Application的Context对象的。
 
@@ -60,7 +60,7 @@ final void setOuterContext(Context context) {
 }
 ```
 因此Activity与ContextImpl的关系如下图
-![http://7jpolu.com1.z0.glb.clouddn.com/QQ20161108-0.png](http://7jpolu.com1.z0.glb.clouddn.com/QQ20161108-0.png)
+![http://7jpolu.com1.z0.glb.clouddn.com/QQ20161108-0.png](https://asset.droidyue.com/broken_images/acitivyt_context_impl.png)
 
 SystemServiceRegistry.java中获取PowerManager的实现。
 ```java
