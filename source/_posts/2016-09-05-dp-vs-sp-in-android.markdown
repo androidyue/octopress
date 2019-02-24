@@ -35,15 +35,15 @@ categories: Android 轻知识
 ```
 得到的效果是这个样子
 
-![dp and sp both normal](http://7jpolu.com1.z0.glb.clouddn.com/dp_sp_normal.jpg)
+![dp and sp both normal](https://asset.droidyue.com/broken_images/dp_and_sp.webp)
 
 但是,当我们进入系统设置中修改字体大小时
 
-![system font settings](http://7jpolu.com1.z0.glb.clouddn.com/system_font_settings.jpg)
+![system font settings](https://asset.droidyue.com/broken_images/change_system_font_size.webp)
 
 再次进入之前的界面,发现了一些不一样的东西.
 
-![dp and sp strange](http://7jpolu.com1.z0.glb.clouddn.com/dp_sp_with_biggest_text.jpg)
+![dp and sp strange](https://asset.droidyue.com/broken_images/difference_after_changed.webp)
 
 由此看来
    
