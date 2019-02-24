@@ -68,7 +68,7 @@ protected void onDraw(Canvas canvas) {
 ```
 之后后的效果图如下
 
-![LineChartView](http://7jpolu.com1.z0.glb.clouddn.com/LineChartView1-180x300.png)
+![LineChartView](https://asset.droidyue.com/broken_images/first_image.png)
 
 
 因情况而已，你可能不许要支持padding，但是我还是建议你加上对padding的处理，以备后用。
@@ -76,7 +76,7 @@ protected void onDraw(Canvas canvas) {
 ##绘制折线图
 首先，为了便于理解，我们先看一看，最终的折线图的样子。
 
-![LineChartView](http://7jpolu.com1.z0.glb.clouddn.com/LineChartView2.png)
+![LineChartView](https://asset.droidyue.com/broken_images/second_image.png)
 
 想要绘制上图，实际上需要很多的点坐标，及x轴的值与y轴的值。为了简单，我们这里只需要提供y轴的值，而x轴的值就是y轴值数组的索引。
 
