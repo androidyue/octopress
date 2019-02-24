@@ -1,0 +1,66 @@
+---
+layout: post
+title: "终端反编译字节码利器 CFR"
+date: 2019-02-24 21:11
+comments: true
+categories: 
+---
+最近在研究一下class字节码的东西，尝试将class文件反编译成java文件。尝试了很多的工具，比如JD-GUI及其插件以及各种在线反编译，始终感觉不够酷，毕竟我是一个比较依赖终端的人，所以尝试找一些能否在终端可以实现反编译的工具。
+
+<!--more--> 
+
+还是Google好，很快就找到了一个很满意的工具。
+
+  * 它是一个jar包
+  * 名称叫做CFR(Class File Reader)
+  * 支持反编译class文件和jar包
+
+如下介绍两个常用的命令使用
+
+## 反编译class文件
+```java
+java -jar ~/Documents/scripts/cfr-0.139.jar JavaTest.class
+/*
+ * Decompiled with CFR 0.139.
+ */
+import java.io.PrintStream;
+
+public class JavaTest {
+    public void functionOne() {
+        System.out.println("functionOne");
+    }
+
+    public void functionTwo() {
+        System.out.println("functionTwo");
+    }
+}
+```
+
+## 反编译jar包
+```bash
+java -jar ~/Documents/scripts/cfr-0.139.jar ~/Documents/scripts/cfr-0.139.jar --outputdir /tmp/outputdir
+Processing org.benf.cfr.reader.api.CfrDriver
+Processing org.benf.cfr.reader.api.ClassFileSource
+Processing org.benf.cfr.reader.api.OutputSinkFactory
+Processing org.benf.cfr.reader.api.SinkReturns
+Processing org.benf.cfr.reader.bytecode.analysis.opgraph.Graph
+...
+```
+执行上述命令结束后，从输出目录(outputdir)下就能找到对应的java文件了。
+
+
+## 包装成脚本
+### 反编译某个class文件
+```bash
+#!/bin/bash
+java -jar ~/Documents/scripts/cfr-0.139.jar $1
+```
+
+### 反编译某个jar包
+```bash
+#!/bin/bash
+java -jar ~/Documents/scripts/cfr-0.139.jar $1 --outputdir $2
+```
+
+## 资源
+  * [http://www.benf.org/other/cfr/index.html](http://www.benf.org/other/cfr/index.html)
