@@ -91,7 +91,7 @@ gpush()
 
 ##快速打开应用详情页
 如下就是App详情页，使用这个页，我们可以卸载，强制停止，清除缓存，数据等操作。
-![AppDetails](http://7xqzcv.com1.z0.glb.clouddn.com/app_details.jpg)
+![AppDetails](https://asset.droidyue.com/broken_images/app_details.jpeg)
 
 使用这个脚本，我们可以快速地进入这个页面
 ```bash
