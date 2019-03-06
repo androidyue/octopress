@@ -42,7 +42,8 @@ tail -200f ~/Library/Logs/squid/squid-access.log
 ####客户端查看
 使用SquidMan客户端查看也是一种选择，选择Window-->Tools即可看到如下的界面
 
-{%img http://7jpolu.com1.z0.glb.clouddn.com/squidman_tools.png %}
+![squidman access_log](https://asset.droidyue.com/broken_images_2015/squid_man_access_log.png)
+
 
 Access Log不会自动追加最新的请求日志，需要再次点击Access Log按钮才可以。
 ###问题解决
@@ -55,7 +56,8 @@ Access Log不会自动追加最新的请求日志，需要再次点击Access Log
 
 解决方法，在配置文件中找到如下代码
 
-{%img http://7jpolu.com1.z0.glb.clouddn.com/squidman_403.png  %}
+
+![http access allow all](https://asset.droidyue.com/broken_images_2015/squidman_http_access_allow_all.png)
 
 替换为`http_access allow all`，即允许所有的HTTP访问，停止Squiman，然后重新启动，如果失败，再次点击重新启动即可。
 
