@@ -151,6 +151,8 @@ Task id #239
 
 如果singleTask Activity所在的应用进程存在，但是singleTask Activity实例不存在，那么从别的应用启动这个Activity，新的Activity实例会被创建，并放入到所属进程所在的Task中，并位于栈顶位置。
 
+![]()
+
 {%img http://7jpolu.com1.z0.glb.clouddn.com/singletask_acrossapp_application_exists_activity_nonexists.jpg %}
 
 

@@ -11,7 +11,7 @@ categories: Android ANR
 ##什么是ANR
 ANR全称`Application Not Responding`，意思就是程序未响应。如果一个应用无法响应用户的输入，系统就会弹出一个ANR对话框，如下图所示,用户可以自行选择继续等待亦或者是停止当前程序。
 
-{%img http://7jpolu.com1.z0.glb.clouddn.com/android_anr.png %}
+![ANR dialog](https://asset.droidyue.com/broken_images_2015/anr_dialog.png)
 
 ##出现场景
   * 主线程被IO操作（从4.0之后网络IO不允许在主线程中）阻塞。
