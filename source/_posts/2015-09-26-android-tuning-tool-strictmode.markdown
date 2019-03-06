@@ -283,7 +283,7 @@ D/StrictMode(23890): 	at dalvik.system.NativeStart.main(Native Method)
 ##其他技巧
 除了通过日志查看之外，我们也可以在开发者选项中开启严格模式，开启之后，如果主线程中有执行时间长的操作，屏幕则会闪烁，这是一个更加直接的方法。
 
-{% img  http://7jpolu.com1.z0.glb.clouddn.com/strictmode_developer_tools.png %}
+![StrictMode settings](https://asset.droidyue.com/broken_images_2015/strictmode_settings.png) 
 
 ##问题来了
 ###日志的时间靠谱么
