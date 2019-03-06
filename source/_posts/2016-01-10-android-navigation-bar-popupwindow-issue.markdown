@@ -12,7 +12,7 @@ categories: Android
   * 问题应该出现在5.0 Lollipop版本及以上
   * 遮挡的现象如下图,Navigation Bar位于了PopupWindow的上层，明显是一种问题。
 
-![Android Navigation Bar Issue](http://7jpolu.com1.z0.glb.clouddn.com/navigation_issue.png)
+![Android Navigation Bar Issue](https://asset.droidyue.com/broken_images/subdir/navigation_bar_overlap.png)
 
 ##我的实现代码
 ```java
@@ -40,7 +40,7 @@ private void showPopupWindow() {
 ```
 
 ##修改好的效果
-![Good PopupWindow](http://7jpolu.com1.z0.glb.clouddn.com/navigation_bar_good.png)
+![Good PopupWindow](https://asset.droidyue.com/broken_images/subdir/navigation_bar_good.png)
 
 ##更佳的方法
 感谢来自Github的网友提出了一个更优秀的方案。很简单，设置如下代码即可
