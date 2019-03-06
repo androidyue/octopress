@@ -11,7 +11,8 @@ categories: Android
 lint是Android提供的一个静态代码分析的工具，使用这个工具可以帮助我们找出Android项目中潜在的bug，安全，性能，可用性，辅助性和国际化等问题，同时还可以查找出错误拼写，提示开发者更正。
 
 ###lint的工作流程
-{%img http://7jpolu.com1.z0.glb.clouddn.com/lint_workflow.png %}
+
+![lint workflow](https://asset.droidyue.com/broken_images_2015/lint_workflow.png)
 
 上图为lint的工作流程图，下面为一些元素的简短说明。
 
@@ -37,8 +38,7 @@ lint的检查结果可以从终端，Android Studio等IDE工具，或者生成�
 ###Android Sutdio
 选择菜单Analyze-->Configure Current File Analysis-->Configure Inspections 清空所有的检查项，然后如下图勾选**Calling new methods on older versions** 和 **Using inlined constants on older versions**
 
-
-{%img  http://7jpolu.com1.z0.glb.clouddn.com/android_studio_lint_custom.png %}
+![Android Studio Lint](https://asset.droidyue.com/broken_images_2015/android_studio_lint.png)
 
 然后执行Analyze--> Inspect Code，然后查看底部的Inspection即可
 
