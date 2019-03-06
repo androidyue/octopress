@@ -39,15 +39,17 @@ Android系统中的Activity可以说一件很赞的设计，它在内存管理�
 
 ###Android 5.0之前的表现
 这种Activity新生成的实例会放入发送Intent的Task的栈的顶部。下图为启动同一程序内的Activity。
-{%img http://7jpolu.com1.z0.glb.clouddn.com/pre_lollipop_standard_activity_in_same_app.jpg pre_lollipop_standard_activity_in_same_app %}
+
+![pre_lollipop_standard_activity_in_same_app](https://asset.droidyue.com/broken_images_2015/standard_same_app_same_task.jpg)
 
 
 下面的图片展示跨程序之间调用，新生成的Activity实例会放入发送Intent的Task的栈的顶部，尽管它们属于不同的程序。
-{%img http://7jpolu.com1.z0.glb.clouddn.com/pre_lollipop_standard_activity_across_app.jpg  pre_lollipop_standard_activity_across_app %}
+
+![pre_lollipop cross app](https://asset.droidyue.com/broken_images_2015/standard_cross_app.jpg)
 
 但是当我们打开任务管理器，则会有一点奇怪，应为显示的任务是Gallery，展示的界面确实另一个程序的Activity（因为其位于Task的栈顶）。  
 
-{%img  http://7jpolu.com1.z0.glb.clouddn.com/pre_lollipop_task_manager_across_app.jpg %}
+![pre_lollipop_task_manager_across_app](https://asset.droidyue.com/broken_images_2015/pre_lollipop_task_manager_across_app.jpg)
 
 这时候如果我们从Gallery应用切换到拨号应用，再返回到Gallery，看到的还是这个非Gallery的Activity，如果我们想要对Gallery进行操作，必须按Back键返回到Gallery界面才可以。确实有点不太合理。
 
@@ -57,22 +59,25 @@ Android系统中的Activity可以说一件很赞的设计，它在内存管理�
 
 跨应用之间启动Activity，会创建一个新的Task，新生成的Activity就会放入刚创建的Task中。如下图
 
-{%img http://7jpolu.com1.z0.glb.clouddn.com/lollipop_across_app_new_task.jpg %}
+![lollipop_across_app_new_task](https://asset.droidyue.com/broken_images_2015/lollipop_across_app_new_task.jpg)
+
 
 同时任务管理器查看任务也显得更加合理了。
 
-{%img http://7jpolu.com1.z0.glb.clouddn.com/lollipop_task_manager_standard.jpg %}
+![lollipop_task_manager_standard](https://asset.droidyue.com/broken_images_2015/lollipop_task_manager_standard.jpg)
 
 假设之前存在我们的测试程序，然后从Gallery又分享文件到我们的测试程序，则对应的任务管理器展示效果如下。  
 
-{%img http://7jpolu.com1.z0.glb.clouddn.com/lollipop_standard_across_app_alread_exists.jpg %}
+![lollipop_standard_across_app_alread_exists.jpg](https://asset.droidyue.com/broken_images_2015/lollipop_standard_across_app_alread_exists.jpg)
 
 使用场景：standard这种启动模式适合于撰写邮件Activity或者社交网络消息发布Activity。如果你想为每一个intent创建一个Activity处理，那么就是用standard这种模式。
 
 
 ##singleTop
 singleTop其实和standard几乎一样，使用singleTop的Activity也可以创建很多个实例。唯一不同的就是，**如果调用的目标Activity已经位于调用者的Task的栈顶，则不创建新实例，而是使用当前的这个Activity实例，并调用这个实例的onNewIntent方法**。
-{%img http://7jpolu.com1.z0.glb.clouddn.com/singletop.jpg %}
+
+![singletop](https://asset.droidyue.com/broken_images_2015/singletop.jpg)
+
 在singleTop这种模式下，我们需要处理应用这个模式的Activity的onCreate和onNewIntent两个方法，确保逻辑正常。
 
 ###使用场景 
@@ -93,12 +98,12 @@ singleTask这个模式和前面提到的standard和singleTop截然不同。**使
 ###同一程序内
 如果系统中不存在singleTask Activity的实例，那么就需要创建这个Activity的实例，并且将这个实例放入和调用者相同的Task中并位于栈顶。
 
-{%img http://7jpolu.com1.z0.glb.clouddn.com/singletask_inapp_create_new_instance.jpg %}
+![singletask_inapp_create_new_instance](https://asset.droidyue.com/broken_images_2015/singletask_inapp_create_new_instance.jpg)
 
 
 如果singleTask Activity实例已然存在，那么在Activity回退栈中，所有位于该Activity上面的Activity实例都将被销毁掉（销毁过程会调用Activity生命周期回调），这样使得singleTask Activity实例位于栈顶。与此同时，Intent会通过onNewIntent传递到这个SingleTask Activity实例。
 
-{%img http://7jpolu.com1.z0.glb.clouddn.com/singletask_sameapp_instance_exists.jpg %}
+![singletask_inapp_instance_exists](https://asset.droidyue.com/broken_images_2015/singletask_inapp_instance_exists.jpg)
 
 
 然而在Google关于singleTask的[文档](http://developer.android.com/guide/components/tasks-and-back-stack.html)有这样一段描述
@@ -129,18 +134,20 @@ Task id #239
 ```
 完成上面的修改，我们看一下效果，Task的变化如下图
 
-{%img http://7jpolu.com1.z0.glb.clouddn.com/singleTaskTaskAffinity.jpg %}
+![singleTaskTaskAffinity](https://asset.droidyue.com/broken_images_2015/singleTaskTaskAffinity.jpg)
+
 同时，系统中的任务管理器效果也会相应变化
 
-{%img http://7jpolu.com1.z0.glb.clouddn.com/singletask_task_affinity_task_manger.jpg %}
+![singletask_task_affinity_task_manger](https://asset.droidyue.com/broken_images_2015/singletask_task_affinity_task_manger.jpg)
 
 ###跨应用之间
 在跨应用Intent传递时，如果系统中不存在singleTask Activity的实例，那么讲创建一个新的Task，然后创建SingleTask Activity的实例，将其放入新的Task中。Task变化如下。
 
-{%img http://7jpolu.com1.z0.glb.clouddn.com/singletask_across_app_no_instance.jpg %}
+![singletask_across_app_no_instance](https://asset.droidyue.com/broken_images_2015/singletask_across_app_no_instance.jpg)
+
 系统的任务管理器也会如下变化
 
-{%img http://7jpolu.com1.z0.glb.clouddn.com/singletask_acrossapp_no_instance_taskmanager.jpg %}
+![singletask_acrossapp_no_instance_taskmanager](https://asset.droidyue.com/broken_images_2015/singletask_acrossapp_no_instance_taskmanager.jpg)
 
 如果singleTask Activity所在的应用进程存在，但是singleTask Activity实例不存在，那么从别的应用启动这个Activity，新的Activity实例会被创建，并放入到所属进程所在的Task中，并位于栈顶位置。
 
