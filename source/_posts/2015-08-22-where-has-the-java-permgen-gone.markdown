@@ -28,7 +28,7 @@ categories: Java JVM
 
 同时，HotSpot虚拟机的每种类型的垃圾回收器都需要特殊处理永久代中的元数据。将元数据从永久代剥离出来，不仅实现了对元空间的无缝管理，还可以简化Full GC以及对以后的并发隔离类元数据等方面进行优化。
 
-{%img http://7jpolu.com1.z0.glb.clouddn.com/removal_of_permen_gen.jpg %}
+![Perm gen to Native memory space](https://asset.droidyue.com/broken_images_2015/perm_gen_native_memory_space.jpg)
 
 ##移除永久代的影响
 由于类的元数据分配在本地内存中，元空间的最大可分配空间就是系统可用内存空间。因此，我们就不会遇到永久代存在时的内存溢出错误，也不会出现泄漏的数据移到交换区这样的事情。最终用户可以为元空间设置一个可用空间最大值，如果不进行设置，JVM会自动根据类的元数据大小动态增加元空间的容量。
@@ -44,7 +44,7 @@ categories: Java JVM
 
 元空间虚拟机负责元空间的分配，其采用的形式为组块分配。组块的大小因类加载器的类型而异。在元空间虚拟机中存在一个全局的空闲组块列表。当一个类加载器需要组块时，它就会从这个全局的组块列表中获取并维持一个自己的组块列表。当一个类加载器不再存活，那么其持有的组块将会被释放，并返回给全局组块列表。类加载器持有的组块又会被分成多个块，每一个块存储一个单元的元信息。组块中的块是线性分配（指针碰撞分配形式）。组块分配自内存映射区域。这些全局的虚拟内存映射区域以链表形式连接，一旦某个虚拟内存映射区域清空，这部分内存就会返回给操作系统。
 
-{%img http://7jpolu.com1.z0.glb.clouddn.com/mmap_virtual_space.jpg %}
+![virtual space ](https://asset.droidyue.com/broken_images_2015/virtual_space_mmapp.jpg)
 
 上图展示的是虚拟内存映射区域如何进行元组块的分配。类加载器1和3表明使用了反射或者为匿名类加载器，他们使用了特定大小组块。 而类加载器2和4根据其内部条目的数量使用小型或者中型的组块。
 
@@ -60,6 +60,7 @@ categories: Java JVM
 下面是一些改进的工具，用来获取更多关于元空间的信息。
 
   * jmap -clstats PID 打印类加载器数据。（-clstats是-permstat的替代方案，在JDK8之前，-permstat用来打印类加载器的数据）。下面的例子输出就是DaCapo’s Avrora benchmark程序的类加载器数据
+
 ```bash
 $ jmap -clstats <PID>
 Attaching to process ID 6476, please wait...
@@ -78,11 +79,10 @@ class_loader classes  	bytes parent_loader 	alive? type
 0x000000074004a708	116   316053	0x000000074004a760   dead  	sun/misc/Launcher$AppClassLoader@0x00000007c0038190
 0x00000007400752f8	538  773854	0x000000074004a708   dead  	org/dacapo/harness/DacapoClassLoader@0x00000007c00638b0
 total = 6  	1310   2314112   		N/A	   alive=1, dead=5 	N/A    
-```
+``` 
 
-  * **jstat -gc LVMID** 用来打印元空间的信息，具体内容如下
-
-{%img http://7jpolu.com1.z0.glb.clouddn.com/jstat.jpg %}
+  **jstat -gc LVMID** 用来打印元空间的信息，具体内容如下
+![jstat](https://asset.droidyue.com/broken_images_2015/jstat.jpg)
   * **jcmd PID GC.class_stats** 一个新的诊断命令，用来连接到运行的JVM并输出详尽的类元数据的柱状图。
 
 **注意**：在JDK 6 build 13下，需要加上**‑XX:+UnlockDiagnosticVMOptions** 才能正确使用jcmd这个命令。
@@ -141,7 +141,7 @@ Index Super InstBytes KlassBytes annotations   CpAll MethodCount Bytecodes Metho
 ##存在的问题
 前面已经提到，元空间虚拟机采用了组块分配的形式，同时区块的大小由类加载器类型决定。类信息并不是固定大小，因此有可能分配的空闲区块和类需要的区块大小不同，这种情况下可能导致碎片存在。元空间虚拟机目前并不支持压缩操作，所以碎片化是目前最大的问题。
 
-{%img http://7jpolu.com1.z0.glb.clouddn.com/fragment_issue.jpg %}
+![Issues](https://asset.droidyue.com/broken_images_2015/native_memory_issue.jpg)
 
 ##关于作者
 Monica Beckwith是一位在硬件行业有着10多年经验的性能研究工程师。她目前在Servergy公司任性能架构师一职。该公司为一家提供高效服务器的创业公司。此外，Monica曾在Sun，Oracle和AMD等公司致力于服务器端JVM优化。Monica还是JavaOne 2013会议的演讲嘉宾。想要关注的可以在twitter上查找@mon_beck。
