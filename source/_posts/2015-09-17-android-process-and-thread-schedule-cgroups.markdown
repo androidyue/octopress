@@ -27,7 +27,6 @@ while True:
 ```
 
 执行脚本`python loop.py`，使用top查看该进程的CPU使用情况,CPU使用率接近100%。
-{% img http://7jpolu.com1.z0.glb.clouddn.com/cpu_cost_no_limit.png %}
 
 然后我们将会通过修改配置，利用cgroups将该进程的CPU使用率降低到10%
 
@@ -84,7 +83,6 @@ echo 100000 > cpu.cfs_quota_us
 ```
 
 再次查看进程id为12093的CPU使用率，已成功降低到10%左右。
-{% img http://7jpolu.com1.z0.glb.clouddn.com/cpu_cost_with_limit.png %}
 
 ##cgroups在Android中的应用
 在Android中也存在cgroups，涉及到CPU的目前只有两个，一个是apps，路径为`/dev/cpuctl/apps`。另一个是bg_non_interactive，路径为`/dev/cpuctl/apps/bg_non_interactive`
