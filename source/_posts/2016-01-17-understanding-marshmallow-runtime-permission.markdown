@@ -13,7 +13,7 @@ Android 6.0，代号棉花糖，自发布伊始，其主要的特征运行时权
 在6.0以前的系统，都是权限一刀切的处理方式，**只要用户安装，Manifest申请的权限都会被赋予，并且安装后权限也撤销不了**。  
 这种情况下，当我们从Google Play安装一个应用，在安装之前会得到这样的权限提示信息。
 
-![Permission](http://7jpolu.com1.z0.glb.clouddn.com/pre-marshmallow-permission.jpg)
+![Permission](https://asset.droidyue.com/broken_images/subdir/quanxian_yidaoqie.jpg)
 
 当上述对话框弹出后，用户只有两种选择：
 
@@ -27,7 +27,7 @@ Android 6.0，代号棉花糖，自发布伊始，其主要的特征运行时权
 
 何为运行时权限呢？举个栗子，以某个需要拍照的应用为例，当运行时权限生效时，其Camera权限不是在安装后赋予，而是在应用运行的时候进行请求权限（比如当用户按下”相机拍照“按钮后）看到的效果则是这样的
 
-![Requesting Camera Permission](http://7jpolu.com1.z0.glb.clouddn.com/marshmallow-permission.png)
+![Requesting Camera Permission](https://asset.droidyue.com/broken_images/subdir/android_runtime_permission_dialog.jpg)
 
 接下来，对于Camera权限的处理完全权交给用户。是不是有点像苹果系统的处理呢，不要说这是抄袭，暂且称为师夷长技以制夷。
 
@@ -162,7 +162,7 @@ protected void onActivityResult(int requestCode, int resultCode, Intent data) {
 
 各个权限分组与其具体的权限，可以参考下图：
 
-![Permission Groups and detailed permissions](http://ww4.sinaimg.cn/large/6a195423jw1ezwpc11cs0j20hr0majwm.jpg)
+![Permission Groups and detailed permissions](https://asset.droidyue.com/broken_images/subdir/android_permission_list.jpg)
 
 ##必须要支持运行时权限么
 目前应用实际上是可以不需要支持运行时权限的，但是最终肯定还是需要支持的，只是时间问题而已。
