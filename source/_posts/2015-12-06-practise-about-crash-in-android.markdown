@@ -75,7 +75,7 @@ I/SimpleUncaughtExceptionHandler(22469):  at dalvik.system.NativeStart.main(Nati
 ##不出现应用崩溃对话框
 在Android崩溃的时候，我们都会看到类似这样的对话框
 
-![app crash](http://7jpolu.com1.z0.glb.clouddn.com/app_crash.png)
+![app crash](https://asset.droidyue.com/broken_images_2015/android_crash_dialog.png)
 
 然而，实际上有些情况下是不需要展示这个对话框的，一个常用的例子，我的程序中一个不太重要的推送服务采用了单独的进程，当这个进程崩溃时，实际上是可以允许不让用户感知的。
 
