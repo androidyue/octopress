@@ -74,10 +74,6 @@ end
   * [Qiniu_Uploader](https://github.com/androidyue/Qiniu_Uploader)
 
 
-##使用七牛
-下面的是七牛的一位员工的QQ二维码，想要使用七牛（每月免费10G流量）并得到更多优惠，请联系她，注明来自技术小黑屋。
-
-![http://7jpolu.com1.z0.glb.clouddn.com/qiniu_tina.jpg](http://7jpolu.com1.z0.glb.clouddn.com/qiniu_tina.jpg)
 
 
 
