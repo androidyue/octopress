@@ -17,7 +17,8 @@ categories: 效率 Markdown Chrome
   * 支持table扩展
 
 ##示例效果
-{%img http://7jpolu.com1.z0.glb.clouddn.com/markdown_view_sample.png "markdown reader" %}
+
+![Markdown reader](https://asset.droidyue.com/broken_images_2014/markdown_here.png)
 
 ##使用心得
 很不错的一款插件，支持file协议，检测到文件变化很迅速，目测比百度网盘还要快，排版很棒。
