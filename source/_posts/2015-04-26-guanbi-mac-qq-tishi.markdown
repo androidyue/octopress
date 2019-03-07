@@ -9,15 +9,15 @@ categories: Mac
 <!--more-->
 如下图   
 
-{%img http://7jpolu.com1.z0.glb.clouddn.com/qq_notification.png QQ Notification %}
+![QQ Notification](https://asset.droidyue.com/broken_images_2015/qq_notification.png)
+
 
 这是多么脑残的产品想出来的啊，多么地泄露隐私啊。于是果断查看QQ设置，没有办法取消横幅展示。于是另寻办法。
 
 
 实际上在Mac系统中有对通知的设置，打开**系统偏好设置** -- **通知** 找到QQ，然后将**QQ提示样式**设置成无即可。如下图
 
-
-{%img http://7jpolu.com1.z0.glb.clouddn.com/qq_notification_turn_off.png Turn off QQ Notification %}
+![QQ Notification Settings](https://asset.droidyue.com/broken_images_2015/qq_notification_settings.png)
 
 同理，Mac版微信也可以进行这样的设置。
 ###推荐一本书
