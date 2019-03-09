@@ -35,7 +35,8 @@ Android的设置界面实现比较简单,有时甚至只需要使用一个简单
 </PreferenceScreen>
 ```
 ##层级关系
-{%img http://7jpolu.com1.z0.glb.clouddn.com/preference_family_tree.png preferece family tree %}
+
+![Preference Family Tree](https://asset.droidyue.com/broken_images_2014/preference_hierachy.png)
 
 ##删除Preference
   * 删除key为rmcache的Preference,这个Preference是PreferenceScreen root的子节点.
