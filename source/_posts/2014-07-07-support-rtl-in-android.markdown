@@ -23,15 +23,20 @@ categories: Android
 
 
 未加入android:supportsRtl="true" 阿拉伯语(RTL)的示例.  
-{%img http://7jpolu.com1.z0.glb.clouddn.com/no_rtl_support_ar.png 240 400 layout without rtl support%}
+
+![layout without rtl support](https://asset.droidyue.com/broken_images_2014/without_rtl_support.png)
+
+
 
 
 加入该属性的英文(LTR)语言效果.  
-{%img http://7jpolu.com1.z0.glb.clouddn.com/rtl_support_en.png 240 400 rtl support english%}
+
+![RTL support English](https://asset.droidyue.com/broken_images_2014/rtl_english.png)
 
 
 加入该属性的阿拉伯语(RTL)语言效果.  
-{%img http://7jpolu.com1.z0.glb.clouddn.com/rtl_support_ar.png 240 400   rtl support arabic %}
+
+![Rtl suport Arabic](https://asset.droidyue.com/broken_images_2014/rtl_arabic.png)
 
   * 将所有的左右(left/right)布局属性替换成开始结束(start/end)属性.
 如下述代码,使用paddingLeft
@@ -46,7 +51,8 @@ categories: Android
 	    />   
 ```
 阿拉伯语下的效果图为  
-{%img http://7jpolu.com1.z0.glb.clouddn.com/padding_left.png paddingLeft Arabic %}
+
+![RTL paddingLeft Arabic](https://asset.droidyue.com/broken_images_2014/rtl_paddingLeft.png)
 如上面所说,RTL语言是以右作为开始,所以paddingLeft明显不符合规则.
 那我们使用paddingStart看一下.
 ```xml
@@ -60,7 +66,8 @@ categories: Android
 	    />   
 ```
 上述代码在阿拉伯语下的效果图:  
-{%img http://7jpolu.com1.z0.glb.clouddn.com/padding_start.png paddingStart Arabic %}
+
+![Arabic paddingStart RTL](https://asset.droidyue.com/broken_images_2014/rtl_paddingStart.png)
 
 ##高级处理
   * android:layoutDirection 设置组件的布局方向
