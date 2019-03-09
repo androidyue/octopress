@@ -20,7 +20,7 @@ Alert是一种提示信息或者警告信息的对话框,一旦显示到用户�
 
 对应的效果图:
 
-{%img http://7jpolu.com1.z0.glb.clouddn.com/js_alert.png javascript alert dialog %}
+![Javascript Alert](https://asset.droidyue.com/broken_images_2014/js_alert.png)
 
 ###onJsAlert API 介绍
 
