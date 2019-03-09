@@ -9,12 +9,14 @@ categories: Mac
 ##问题
 从Fedora切换到Linux下,有很多不适应,与其说不适应不如说不爽,其中一个就是今天要说的终端输入exit的问题.在Linux发行版中,输入exit会推出当前窗口,而Mac居然不是,弄出来一个特别脑残的Process Completed,中文版提示大概是提示进程已完成. 然后什么也不能做,只能关闭.真心有点搞不懂这么设计的用意是什么.
 <!--more-->
-{%img http://7jpolu.com1.z0.glb.clouddn.com/terminal_process_finished.png Mac Terminal Process Completed %}
+
+![Mac Terminal Process Completed](https://asset.droidyue.com/broken_images_2014/progress_completed_mac_terminal.png)
 
 ##解决
 当然遇到问题,解决是很必要的,其实简单修改就可以解决问题.
 设置Settings--Shell--When the shell exits 选择close the window 或如图.
-{%img http://7jpolu.com1.z0.glb.clouddn.com/terminal_set_close_exit.png Mac Terminal Set Close Window When Exists %}
+
+![Mac Terminal Set Close Window When Exists](https://asset.droidyue.com/broken_images_2014/close_window_when_shell_exists.png)
 
 ###Others
   * <a href="http://www.amazon.cn/gp/product/B00A11060M/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00A11060M&linkCode=as2&tag=droidyue-23">Mac功夫:OSX的300多个技巧和小窍门</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B00A11060M" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
