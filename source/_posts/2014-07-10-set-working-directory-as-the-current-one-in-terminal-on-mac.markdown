@@ -28,11 +28,13 @@ sudo chmod a+x /usr/local/bin/nt
 
 ##修改Terminal设置
 选择Preferences--Startup--New tabs open with 或者如下图.
-{%img http://7jpolu.com1.z0.glb.clouddn.com/system_terminal_working_path.png Mac Set Terminal Wroking Directory %}
+
+![Mac Set Terminal Working Directory](https://asset.droidyue.com/broken_images_2014/terminal_new_tab_current_path.png)
 
 ##修改iTerm设置
 选择Preferences--Profile--General--Working Directory 或者如下图
-{%img http://7jpolu.com1.z0.glb.clouddn.com/iterm_set_working_path.png Mac iTerm Set Working Directory %}
+
+![Mac Iterm2 set Working Directory](https://asset.droidyue.com/broken_images_2014/iterm_newtab_current_path.png)
 
 ##Others
   * <a href="http://www.amazon.cn/gp/product/B004BR2OW0/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B004BR2OW0&linkCode=as2&tag=droidyue-23">开始Mac:实战手册</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=droidyue-23&l=as2&o=28&a=B004BR2OW0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
