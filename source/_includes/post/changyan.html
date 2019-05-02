@@ -1,20 +1,17 @@
-<div class="social-share"></div>
-<br/>
-<!-- 来必力City版安装代码 -->
-<div id="lv-container" data-id="city" data-uid="MTAyMC80MTk3MC8xODUxNw==">
+<link rel="stylesheet" href="https://asset.droidyue.com/gitalk/gitalk.css">
+<script src="https://asset.droidyue.com/gitalk/gitalk.min.js"></script>
+<div id="gitalk-container"></div>
 <script type="text/javascript">
-   (function(d, s) {
-       var j, e = d.getElementsByTagName(s)[0];
+	var gitalk = new Gitalk({
+  		clientID: 'c6dab5d2becf02e6568f',
+  		clientSecret: '9541ee96975f1661eab6f69811d0730d348c6546',
+  		repo: 'comments_droidyuecom',
+  		owner: 'droidyuecom',
+  		admin: ['droidyuecom'],
+  		// Ensure uniqueness and length less than 50
+  		id: location.pathname.replace("/blog/", "").substring(0,50),      
+  		distractionFreeMode: false  // Facebook-like distraction free mode
+})
 
-       if (typeof LivereTower === 'function') { return; }
-
-       j = d.createElement(s);
-       j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
-       j.async = true;
-
-       e.parentNode.insertBefore(j, e);
-   })(document, 'script');
+gitalk.render('gitalk-container')
 </script>
-<noscript>为正常使用来必力评论功能请激活JavaScript</noscript>
-</div>
-<!-- City版安装代码已完成 -->
