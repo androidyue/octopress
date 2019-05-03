@@ -51,7 +51,7 @@ titlecase: true       # Converts page and post titles to titlecase
 
 # list each of the sidebar modules you want to include, in the order you want them to appear.
 # To add custom asides, create files in /source/_includes/custom/asides/ and add them to the list like 'custom/asides/custom_aside_name.html'
-default_asides: [custom/asides/android_push.html ,custom/asides/right_banner.html,  custom/asides/notice.html, asides/recent_posts.html ,  custom/asides/blogroll.html,custom/asides/common_book_recommend.html, custom/asides/friend_links.html,custom/asides/recommend.html, custom/asides/category_recommend.html, custom/asides/sidebar_ad.html, asides/best_posts.html, custom/asides/jd_ads.html, custom/asides/wechat.html]
+default_asides: [custom/asides/right_banner.html,  custom/asides/notice.html, asides/recent_posts.html ,  custom/asides/blogroll.html,custom/asides/common_book_recommend.html, custom/asides/friend_links.html,custom/asides/recommend.html, custom/asides/category_recommend.html, custom/asides/sidebar_ad.html, asides/best_posts.html, custom/asides/jd_ads.html, custom/asides/wechat.html,custom/asides/android_push.html]
 
 # Each layout uses the default asides, but they can have their own asides instead. Simply uncomment the lines below
 # and add an array with the asides you want to use.
