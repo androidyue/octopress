@@ -486,3 +486,5 @@ fun testSubstring0() {
   * [研究学习Kotlin的一些方法](https://droidyue.com/blog/2017/05/08/how-to-study-kotlin/)
   * [Kotlin 中的 Lambda 与 inline](https://droidyue.com/blog/2019/04/27/lambda-inline-noinline-crossinline/)
   * [有点意思的Kotlin的默认参数与JVMOverloads](https://droidyue.com/blog/2018/10/14/dive-into-kotlin-default-arguments-and-jvmoverloads/)
+
+{%include post/kotlin_hexin_biancheng.html %}
