@@ -4,6 +4,7 @@
   <header role="banner">{% include header.html %}</header>
   <nav role="navigation">{% include navigation.html %}</nav>
   <div id="main">
+    {% include custom/top_banner.html %}
     <div id="content">
       {{ content | expand_urls: root_url }}
     </div>
