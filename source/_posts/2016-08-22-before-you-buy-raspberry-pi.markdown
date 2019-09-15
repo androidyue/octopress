@@ -61,20 +61,20 @@ categories: 树莓派 折腾
 ### 树莓派板子
 这个是必不可少的,目前来说,最新的是三代,建议选择要选购最新的.
 
-[树莓派购买地址](https://s.click.taobao.com/t?e=m%3D2%26s%3DamWLbmV1XgccQipKwQzePOeEDrYVVa64LKpWJ%2Bin0XJRAdhuF14FMT1lcDSXifeVJ1gyddu7kN9vRUYbRlHU7J%2B%2BSDWneZ66INJ8WUjAPUqkT6EZztYEhsqTGz9ILkhfHHdyogwR%2Bmif3d%2F3%2BY0U2sYOae24fhW0&pvid=53_117.100.123.217_1135_1491715886620)
+[树莓派购买地址](https://s.click.taobao.com/t?e=m%3D2%26s%3DRWsD6a%2F54BocQipKwQzePOeEDrYVVa64LKpWJ%2Bin0XLjf2vlNIV67hdyFPmiAkJmNq%2BDna%2F8eQfM3gYQjCL89qULerPwKfMITpQijA3xo75eIKLAlJ3Pcl9EeTtntI440rU7bvMfl7G%2B1LxC%2FpNWue0tZlFsNzyVskmx5kiO8DrXn%2F66GKkZXbj8Cm8j3o1mUit14LS34Bue52JXY6YUE6Jn5AyUbPoV&scm=null&pvid=null&app_pvid=59590_11.15.104.24_496_1568519976601&ptl=floorId:17741;originalFloorId:17741;app_pvid:59590_11.15.104.24_496_1568519976601&union_lens=lensId%3AOPT%401568519889%400b883623_104f_16d3312232e_afaf%4001)
 
 ### TF卡
   * 也称sd卡,起硬盘的作用
   * 如没有,需要购买
   * **建议的容量8G或者以上**.
   * 建议单独从京东或天猫上购买。
-  * 推荐：[金士顿 16G](https://s.click.taobao.com/t?e=m%3D2%26s%3DPznSC3MbYUMcQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67oVyT62DOxkm7km9mWjOCUbM3gYQjCL89vSdxyvKgR5IYpon8UCVSYa0Y5H7SRGlljbN5Lj4uDgdR1vdRbvMIqTsUdEykNJqqxrHip5TDoqW&pvid=10_117.100.136.71_7646_1482673558764)即可.
+  * 推荐：[忆捷32g内存卡c10存储高速](https://s.click.taobao.com/t?e=m%3D2%26s%3DlxH9KdxRc1YcQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67nFoVtxl4Jc2Qev46Oo1utTM3gYQjCL89qULerPwKfMITpQijA3xo75eIKLAlJ3Pcl9EeTtntI440rU7bvMfl7HCAnK%2BvkbZYerGXyndJcjzzRD18rVfQC6EuM7wkVK6rhIjP5Uhv22U0Oo9mDAR9qRSkgH4YGBV2MYl7w3%2FA2kb&scm=null&pvid=null&app_pvid=59590_11.8.51.166_488_1568520179479&ptl=floorId:17741;originalFloorId:17741;app_pvid:59590_11.8.51.166_488_1568520179479&union_lens=lensId%3AOPT%401568520150%400b8ede9e_10a0_16d33161c8d_1763%4001)即可.
 
 ### TF卡读卡器
   * 用来将系统镜像写到TF卡中
   * 非必需,根据需求购买
   * 另外一些支持拆卸SD卡的Android手机也可以实现读卡器的功能
-  * 推荐：[aszune多合一高速读卡器 多功能SD/TF/MS/PSP手机相机内存卡](https://s.click.taobao.com/t?e=m%3D2%26s%3Dtx92UoDB9KccQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67tcaUqBHDIydLzyWwQxzkU%2FM3gYQjCL89vSdxyvKgR5IYpon8UCVSYa8QQ2rDp0VRYQr13kiO08GlrfKbc84rldXkrGSpNbO1w6XNX%2Byi3HbxiXvDf8DaRs%3D&pvid=10_117.100.136.71_7297_1482673861615)
+  * 推荐：[川宇usb3.0高速读卡器多合一sd卡万能tf卡华为手机多功能电脑两用](https://s.click.taobao.com/t?e=m%3D2%26s%3D0crn01wJ6mscQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67sJg63J6euFAjGYPrSmetxHM3gYQjCL89qULerPwKfMITpQijA3xo75eIKLAlJ3Pcl9EeTtntI440rU7bvMfl7GtIwDR8QcO6JVQsf2EEWrdskmx5kiO8DrXn%2F66GKkZXfoJfbOdKu%2BcbonU57CVY3C0UGVWyr8gTw%3D%3D&scm=null&pvid=null&app_pvid=59590_11.186.131.41_489_1568520273636&ptl=floorId:17741;originalFloorId:17741;app_pvid:59590_11.186.131.41_489_1568520273636&union_lens=lensId%3AOPT%401568520245%400b08195d_0fc1_16d33178fe4_4d6a%4001)
 
 ### 电源
   * 需要购买
