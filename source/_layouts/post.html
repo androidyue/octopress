@@ -36,7 +36,8 @@ single: true
 {% endunless %}
   </footer>
   </article>
-
+{% include post/geektime_post_banner.html %}
+<br/>
 {% if page.comments == true %}
   <section>
    {% include post/changyan.html %}
@@ -44,7 +45,8 @@ single: true
 {% endif %}
 
 <link href="{{ root_url}}/stylesheets/remote.css"  rel="stylesheet" type="text/css">
-	{% include custom/asides/post_end_ad.html %}
+	
+{% include custom/asides/post_end_ad.html %}
 	
 </div>
 {% unless page.sidebar == false %}
