@@ -61,8 +61,13 @@ footer: true
 
 以下是我的好基友，他们既是Android牛人，也是活跃在社区，乐于分享帮助他人，推动技术进步的有为青年。
 
-<script type="text/javascript" charset="utf-8">
-	loadJs("http://7xr25o.com1.z0.glb.clouddn.com/gfriends.js");
-</script>
+  * [干货集中营](http://gank.io/?utm_source=droidyuecom)
+  * [Codekk](http://b.codekk.com/?from=droidyuecom)
+  * [Trinea](https://www.trinea.cn/?utm_source=droidyuecom)
+  * [秋百万的博客](https://www.liaohuqiu.net/?utm_source=droidyuecom)
+  * [胡凯的博客](http://hukai.me/?utm_source=droidyuecom)
+  * [开源实验室](https://kymjs.com/?utm_source=droidyuecom)
+  * [Gityuan](http://gityuan.com/?utm_source=droidyuecom)
+  * [GcsSloop](https://www.gcssloop.com/?utm_source=droidyuecom)
 
-上述排名根据其网站域名由A到Z排列。
+如果想要增加友情链接，请移步到这里  [https://droidyue.com/links/](https://droidyue.com/links/)
