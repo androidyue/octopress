@@ -76,3 +76,8 @@ You have new mail in /var/mail/pi
 
 正如上面英文说得，这个文件会被冲掉，未来某个时间你还需要重新设置。所以按照文章中的修改即可。
 
+## 推荐阅读
+  * [树莓派入手指南](https://droidyue.com/blog/2016/08/22/before-you-buy-raspberry-pi/)
+  * [树莓派安装jdk 8](https://droidyue.com/blog/2020/02/23/install-jdk-on-raspberry-pi/)
+  * [树莓派 Gitlab问题整理](https://droidyue.com/blog/2020/03/29/install-gitlab-on-raspberry-pi-issues/)
+  * [修复ssh 首次登录树莓派失败的问题](https://droidyue.com/blog/2020/03/29/ssh-raspberrypi-failure/)
