@@ -261,14 +261,14 @@ fun String.isPhoneNumber(): Boolean = TODO()
 
 ## 使用方法引用
 ```kotlin
-//Do not
 
 data class NewsItem(val content: String, val isFake: Boolean)
 
+//Do not
 fun normalLambda() {
     arrayOf<NewsItem>().filter { it.isFake }.let { print(it) }
 }
-
+//Do 
 fun methodReference() {
     arrayOf<NewsItem>().filter(NewsItem::isFake).let(::print)
 }
