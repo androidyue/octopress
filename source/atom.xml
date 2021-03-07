@@ -21,7 +21,7 @@ layout: nil
     <link href="{{ site.url }}{{ post.url }}"/>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <id>{{ site.url }}{{ post.id }}</id>
-    <content type="html"><![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}]]></content>
+    <content type="html"><![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}<br/><img src="https://asset.droidyue.com/image/2020_05/droidyue_gzh_green_png.png"  class="no_boarder_class" style="max-width:100%" /><br/>]]></content>
   </entry>
   {% endfor %}
 </feed>
