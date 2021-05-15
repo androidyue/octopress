@@ -10,6 +10,7 @@ categories: Mac MBP Login Reboot Shutdown Online
 <!--more--> 
 ## 查看运行时间
 ```java
+uptime
 17:35  up  7:13, 3 users, load averages: 2.57 2.75 2.56
 ```
 
