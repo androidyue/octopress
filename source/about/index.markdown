@@ -36,7 +36,7 @@ footer: true
   * 联系方式：andrewallanwallace#gmail.com
   
 ###微信扫一扫
-{%img http://7jpolu.com1.z0.glb.clouddn.com/my_weixin_qrcode.jpg 200 200 add weixin %}
+{%img https://asset.droidyue.com/image/2020_05/droidyue_gzh_green_png.png  add weixin %}
 
 ###新浪微博
 我的新浪微博是[技术小黑屋](http://weibo.com/androidyue/) ，欢迎大家关注。
