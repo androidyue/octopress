@@ -3,7 +3,7 @@ layout: post
 title: "跨平台 Markdown 编辑器 Typora 独家上架数码荔枝，新用户券后仅需 81 元"
 date: 2021-12-25 14:54
 comments: true
-categories: Markdown Mac Windows Editor 
+categories: Markdown Mac Windows Editor 正版软件 
 ---
 
 Typora 是一款广受好评的桌面 Markdown 编辑器，经过长达 6 年的测试，Typora 近期正式发布 1.0 版本，终于进入正式版时代并开启付费模式。
