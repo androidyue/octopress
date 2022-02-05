@@ -3,7 +3,7 @@ layout: post
 title: "Mac 终端下 实现 安装 ipa 包到 iPhone 真机"
 date: 2022-01-03 21:54
 comments: true
-categories: Mac Terminal 终端 iOS iPhone iPad 正版软件 Android Flutter 
+categories: Mac Terminal 终端 iOS iPhone iPad Android Flutter 
 ---
  
 
