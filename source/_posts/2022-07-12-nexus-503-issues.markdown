@@ -1,0 +1,39 @@
+---
+layout: post
+title: "Nexus Repo 503 错误解决"
+date: 2022-07-12 08:40
+comments: true
+categories: Nexus Linux Mac Gradle Android 
+---
+
+
+最近访问Nexus Repo 曝出了下面的503 问题
+
+```java
+http://your_server:8081/nexus/content/repositories/xxxx/module/3.0.0/module-3.0.0.pom. Return code is: 503, ReasonPhrase:Service Unavailable. ->
+
+```
+
+尝试重新启动 Nexus Repo 服务也没有解决。
+
+<!--more-->
+
+后来定位到问题是代理相关设置导致。具体修改
+
+```java
+systemProp.https.proxyPort=1080
+systemProp.http.proxyHost=127.0.0.1
+org.gradle.jvmargs=-Xmx10240m -XX\:MaxPermSize\=4096m -XX\:+HeapDumpOnOutOfMemoryError -Dfile.encoding\=UTF-8
+org.gradle.daemon=true
+systemProp.https.proxyHost=127.0.0.1
+org.gradle.parallel=true
+systemProp.http.proxyPort=1080
+```
+
+把上面设计到代理的内容删除即可。即删除下面内容
+```java
+systemProp.https.proxyPort=1080
+systemProp.http.proxyHost=127.0.0.1
+systemProp.https.proxyHost=127.0.0.1
+systemProp.http.proxyPort=1080
+```
