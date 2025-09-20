@@ -24,12 +24,18 @@ module HighlightCode
         begin
           highlighted_code = Pygments.highlight(code, :lexer => lang, :formatter => 'html', :options => {:encoding => 'utf-8', :startinline => true})
         rescue MentosError
-          raise "Pygments can't parse unknown language: #{lang}."
+          # Fall back to no syntax highlighting for unknown languages
+          highlighted_code = "<pre>#{code}</pre>"
         end
         File.open(path, 'w') {|f| f.print(highlighted_code) }
       end
     else
-      highlighted_code = Pygments.highlight(code, :lexer => lang, :formatter => 'html', :options => {:encoding => 'utf-8', :startinline => true})
+      begin
+        highlighted_code = Pygments.highlight(code, :lexer => lang, :formatter => 'html', :options => {:encoding => 'utf-8', :startinline => true})
+      rescue MentosError
+        # Fall back to no syntax highlighting for unknown languages
+        highlighted_code = "<pre>#{code}</pre>"
+      end
     end
     highlighted_code
   end
