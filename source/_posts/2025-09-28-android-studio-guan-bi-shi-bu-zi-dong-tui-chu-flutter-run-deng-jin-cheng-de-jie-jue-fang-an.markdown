@@ -59,7 +59,7 @@ tags: [Android Studio, IntelliJ, ADB, Flutter, 进程管理, 终端]
 4. 在 `Adb Server Lifecycle Management` 中选择 `Use existing manually managed server`
 5. 设置 `Existing ADB server port` 为 `5037`（默认端口）
 
-![Android Studio ADB 服务器配置](/images/post_images/2025-09-28/android-studio-adb-settings.png)
+![android studio adb config](https://asset.droidyue.com/image/25_h2/android_studido_adb.png)
 
 #### 关键配置说明
 
