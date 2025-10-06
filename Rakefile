@@ -1,52 +1,6 @@
-unless ENV["BUNDLE_GEMFILE"]
-  ENV["BUNDLE_GEMFILE"] = File.expand_path("Gemfile", __dir__)
-  exec("bundle", "exec", "rake", *ARGV)
-end
-
 require "rubygems"
 require "bundler/setup"
-require "bundler"
 require "stringex"
-
-def with_clean_env(&block)
-  if defined?(Bundler)
-    if Bundler.respond_to?(:with_unbundled_env)
-      Bundler.with_unbundled_env(&block)
-    else
-      Bundler.with_clean_env(&block)
-    end
-  else
-    yield
-  end
-end
-
-def bundle_exec(command, env: {})
-  success = with_clean_env do
-    system(env, "bundle exec #{command}")
-  end
-  raise "Command failed: #{command}" unless success
-  success
-end
-
-def spawn_bundle_exec(command, env: {})
-  pid = nil
-  with_clean_env do
-    pid = Process.spawn(env, "bundle exec #{command}")
-  end
-  pid
-end
-
-def incremental_build_enabled?
-  value = ENV["INCREMENTAL"] || ENV["JEKYLL_INCREMENTAL"]
-  return false unless value
-  %w[1 true yes on].include?(value.to_s.downcase)
-end
-
-def jekyll_command(*args)
-  command = ["jekyll", *args]
-  command << "--incremental" if incremental_build_enabled? && !command.include?("--incremental")
-  command.join(" ")
-end
 
 ## -- Rsync Deploy config -- ##
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
@@ -98,17 +52,17 @@ desc "Generate jekyll site"
 task :generate do
   raise "### You haven't set anything up yet. First run `rake install` to set up an Octopress theme." unless File.directory?(source_dir)
   puts "## Generating Site with Jekyll"
-  bundle_exec "compass compile --css-dir #{source_dir}/stylesheets"
-  bundle_exec jekyll_command("build"), env: { "JEKYLL_ENV" => ENV.fetch("JEKYLL_ENV", "production") }
+  system "compass compile --css-dir #{source_dir}/stylesheets"
+  system "jekyll"
 end
 
 desc "Watch the site and regenerate when it changes"
 task :watch do
   raise "### You haven't set anything up yet. First run `rake install` to set up an Octopress theme." unless File.directory?(source_dir)
   puts "Starting to watch source with Jekyll and Compass."
-  bundle_exec "compass compile --css-dir #{source_dir}/stylesheets" unless File.exist?("#{source_dir}/stylesheets/screen.css")
-  jekyllPid = spawn_bundle_exec(jekyll_command("build", "--watch"), env: { "OCTOPRESS_ENV" => "preview", "JEKYLL_ENV" => "development" })
-  compassPid = spawn_bundle_exec("compass watch")
+  system "compass compile --css-dir #{source_dir}/stylesheets" unless File.exist?("#{source_dir}/stylesheets/screen.css")
+  jekyllPid = Process.spawn({"OCTOPRESS_ENV"=>"preview"}, "jekyll --auto")
+  compassPid = Process.spawn("compass watch")
 
   trap("INT") {
     [jekyllPid, compassPid].each { |pid| Process.kill(9, pid) rescue Errno::ESRCH }
@@ -124,10 +78,10 @@ task :preview do
   atom2rssDir = '~/osc_git/php_works/'
   #system "php #{atom2rssDir}/atom2rss.php #{public_dir}/atom.xml #{atom2rssDir}/atom2rss.xsl #{public_dir}/rss.xml"
   puts "Starting to watch source with Jekyll and Compass. Starting Rack on port #{server_port}"
-  bundle_exec "compass compile --css-dir #{source_dir}/stylesheets" unless File.exist?("#{source_dir}/stylesheets/screen.css")
-  jekyllPid = spawn_bundle_exec(jekyll_command("build", "--watch"), env: { "OCTOPRESS_ENV" => "preview", "JEKYLL_ENV" => "development" })
-  compassPid = spawn_bundle_exec("compass watch")
-  rackupPid = spawn_bundle_exec("rackup --host 0.0.0.0 --port #{server_port}")
+  system "compass compile --css-dir #{source_dir}/stylesheets" unless File.exist?("#{source_dir}/stylesheets/screen.css")
+  jekyllPid = Process.spawn({"OCTOPRESS_ENV"=>"preview"}, "jekyll --auto")
+  compassPid = Process.spawn("compass watch")
+  rackupPid = Process.spawn("rackup --host 0.0.0.0 --port #{server_port}")
 
   trap("INT") {
     [jekyllPid, compassPid, rackupPid].each { |pid| Process.kill(9, pid) rescue Errno::ESRCH }

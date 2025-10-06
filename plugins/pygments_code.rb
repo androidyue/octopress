@@ -1,49 +1,43 @@
-require 'rouge'
+require 'pygments'
 require 'fileutils'
 require 'digest/md5'
 
-HIGHLIGHT_CACHE_DIR = File.expand_path('../../.highlight-cache', __FILE__)
-FileUtils.mkdir_p(HIGHLIGHT_CACHE_DIR)
+PYGMENTS_CACHE_DIR = File.expand_path('../../.pygments-cache', __FILE__)
+FileUtils.mkdir_p(PYGMENTS_CACHE_DIR)
 
 module HighlightCode
-  LANGUAGE_ALIASES = {
-    'ru' => 'ruby',
-    'm'  => 'objective-c',
-    'pl' => 'perl',
-    'yml'=> 'yaml'
-  }.freeze
-
-  def highlight(code, language)
-    normalized = normalize_language(language)
-    cached_highlight(code, normalized)
+  def highlight(str, lang)
+    lang = 'ruby' if lang == 'ru'
+    lang = 'objc' if lang == 'm'
+    lang = 'perl' if lang == 'pl'
+    lang = 'yaml' if lang == 'yml'
+    str = pygments(str, lang).match(/<pre>(.+)<\/pre>/m)[1].to_s.gsub(/ *$/, '') #strip out divs <div class="highlight">
+    tableize_code(str, lang)
   end
 
-  def cached_highlight(code, language)
-    cache_key = File.join(HIGHLIGHT_CACHE_DIR, "#{language}-#{Digest::MD5.hexdigest(code)}.html")
-    return File.read(cache_key) if File.exist?(cache_key)
-
-    highlighted = highlight_with_rouge(code, language)
-    File.write(cache_key, highlighted)
-    highlighted
+  def pygments(code, lang)
+    if defined?(PYGMENTS_CACHE_DIR)
+      path = File.join(PYGMENTS_CACHE_DIR, "#{lang}-#{Digest::MD5.hexdigest(code)}.html")
+      if File.exist?(path)
+        highlighted_code = File.read(path)
+      else
+        begin
+          highlighted_code = Pygments.highlight(code, :lexer => lang, :formatter => 'html', :options => {:encoding => 'utf-8', :startinline => true})
+        rescue MentosError
+          raise "Pygments can't parse unknown language: #{lang}."
+        end
+        File.open(path, 'w') {|f| f.print(highlighted_code) }
+      end
+    else
+      highlighted_code = Pygments.highlight(code, :lexer => lang, :formatter => 'html', :options => {:encoding => 'utf-8', :startinline => true})
+    end
+    highlighted_code
   end
-
-  def highlight_with_rouge(code, language)
-    lexer = Rouge::Lexer.find_fancy(language, code) || Rouge::Lexers::PlainText
-    formatter = Rouge::Formatters::HTML.new
-    highlighted = formatter.format(lexer.lex(code))
-    tableize_code(highlighted, lexer.tag)
-  end
-
-  def normalize_language(language)
-    lang = language.to_s.strip.downcase
-    LANGUAGE_ALIASES.fetch(lang, lang.empty? ? 'plaintext' : lang)
-  end
-
-  def tableize_code(str, lang = '')
+  def tableize_code (str, lang = '')
     table = '<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers">'
     code = ''
-    str.lines.each_with_index do |line, index|
-      table += "<span class='line-number'>#{index + 1}</span>\n"
+    str.lines.each_with_index do |line,index|
+      table += "<span class='line-number'>#{index+1}</span>\n"
       code  += "<span class='line'>#{line}</span>"
     end
     table += "</pre></td><td class='code'><pre><code class='#{lang}'>#{code}</code></pre></td></tr></table></div>"

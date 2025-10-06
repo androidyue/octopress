@@ -1,47 +1,39 @@
 #custom filters for Octopress
 require './plugins/backtick_code_block'
+require './plugins/post_filters'
 require './plugins/raw'
 require './plugins/date'
 require 'rubypants'
 
 module OctopressFilters
-  FILTERABLE_EXTENSIONS = /(html|textile|markdown|md|haml|slim|xml)/i
-
-  extend self
   include BacktickCodeBlock
   include TemplateWrapper
-
   def pre_filter(input)
-    result = render_code_block(input)
-    result.gsub(/(<figure.+?>.+?<\/figure>)/m) do
+    input = render_code_block(input)
+    input.gsub /(<figure.+?>.+?<\/figure>)/m do
       safe_wrap($1)
     end
   end
-
   def post_filter(input)
-    processed = unwrap(input)
-    RubyPants.new(processed).to_html
-  end
-
-  def filterable?(document)
-    extname = nil
-    extname = document.extname if document.respond_to?(:extname)
-    extname ||= document.ext if document.respond_to?(:ext)
-    return false unless extname
-
-    ext = extname.to_s.delete_prefix('.').downcase
-    FILTERABLE_EXTENSIONS.match?(ext)
+    input = unwrap(input)
+    RubyPants.new(input).to_html
   end
 end
 
-Jekyll::Hooks.register [:pages, :documents], :pre_render do |doc, _payload|
-  next unless OctopressFilters.filterable?(doc)
-  doc.content = OctopressFilters.pre_filter(doc.content)
-end
-
-Jekyll::Hooks.register [:pages, :documents], :post_render do |doc|
-  next unless OctopressFilters.filterable?(doc)
-  doc.output = OctopressFilters.post_filter(doc.output)
+module Jekyll
+  class ContentFilters < PostFilter
+    include OctopressFilters
+    def pre_render(post)
+      if post.ext.match('html|textile|markdown|md|haml|slim|xml')
+        post.content = pre_filter(post.content)
+      end
+    end
+    def post_render(post)
+      if post.ext.match('html|textile|markdown|md|haml|slim|xml')
+        post.content = post_filter(post.content)
+      end
+    end
+  end
 end
 
 
@@ -140,3 +132,4 @@ module OctopressLiquidFilters
 
 end
 Liquid::Template.register_filter OctopressLiquidFilters
+

@@ -3,8 +3,6 @@
 .sass-cache
 .gist-cache
 .pygments-cache
-.highlight-cache
-source/.jekyll-metadata
 _deploy
 public
 sass.old
