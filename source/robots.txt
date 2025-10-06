@@ -1,6 +1,5 @@
 ---
-layout: nil
+layout: null
 ---
 User-agent: *
 Disallow: /404.html
-
