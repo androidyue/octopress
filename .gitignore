@@ -15,3 +15,5 @@ vendor
 node_modules
 download
 .highlight-cache
+package-lock.json
+package.json
