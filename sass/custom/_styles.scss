@@ -1,2 +1,58 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+
+// Bottom-right popup image styles
+.bottom-image-popup {
+  position: fixed;
+  bottom: 1.5rem;
+  right: 1.5rem;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.bottom-image-popup__link {
+  position: relative;
+  display: inline-block;
+}
+
+.bottom-image-popup__image {
+  display: block;
+  width: 200px;
+  height: 200px;
+  border-radius: 0.5rem;
+  box-shadow: 0 0.75rem 2rem rgba(0, 0, 0, 0.2);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  object-fit: cover;
+}
+
+.bottom-image-popup__link:hover .bottom-image-popup__image,
+.bottom-image-popup__link:focus .bottom-image-popup__image {
+  transform: translateY(-2px) scale(1.02);
+  box-shadow: 0 1rem 2.5rem rgba(0, 0, 0, 0.25);
+}
+
+.bottom-image-popup__link:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(0, 136, 204, 0.35);
+  border-radius: 0.75rem;
+}
+
+@media (max-width: 600px) {
+  .bottom-image-popup {
+    bottom: 1rem;
+    right: 1rem;
+  }
+
+  .bottom-image-popup__image {
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@media print {
+  .bottom-image-popup {
+    display: none !important;
+  }
+}

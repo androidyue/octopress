@@ -1,0 +1,9 @@
+{% assign popup_config = site.bottom_popup | default: site.popup %}
+{% assign popup_image = popup_config.image | default: site.popup_image_url | default: 'https://asset.droidyue.com/image/25_h2/vultr_300.jpg' %}
+{% assign popup_link = popup_config.link | default: site.popup_link_url | default: 'https://www.vultr.com/?ref=9811636-9J' %}
+{% assign popup_alt = popup_config.alt | default: site.popup_image_alt | default: 'Visit Vultr cloud hosting' %}
+<div class="bottom-image-popup">
+  <a class="bottom-image-popup__link" href="{{ popup_link }}">
+    <img class="bottom-image-popup__image" src="{{ popup_image }}" alt="{{ popup_alt }}" loading="lazy" />
+  </a>
+</div>
