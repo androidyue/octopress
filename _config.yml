@@ -103,4 +103,10 @@ uyan_id : z1728662
 google_analytics_tracking_id: UA-43841039-1
 
 # Facebook Like
-#facebook_like: true 
+#facebook_like: true
+
+# Bottom popup configuration
+bottom_popup:
+  image: https://asset.droidyue.com/image/25_h2/comet_browser.png
+  link: https://pplx.ai/theweb3inf56814
+  alt: Visit Comet Browser 
